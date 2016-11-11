@@ -17,8 +17,7 @@ Articol
 
 # Tehologii
 
-* NodeJs
-* Sequelize
+* NodeJs 
 * NodeAdmin
 * MySQL
 
@@ -29,3 +28,4 @@ Articol
 
 # Resources
 * https://community.c9.io/t/setting-up-mysql/1718
+* https://www.npmjs.com/package/nodeadmin
