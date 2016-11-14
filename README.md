@@ -25,6 +25,9 @@ Articol
 * install mysql [done]
 * install node admin [done]
 * create the database [done]
+* install sequelize [done]
+* create a model [done]
+* list articles [done]
 
 # Resources
 * https://community.c9.io/t/setting-up-mysql/1718
