@@ -40,8 +40,8 @@ app.use(bodyParser.json());
 app.use(cors());
 
 
-var nodeadmin = require('nodeadmin');
-app.use(nodeadmin(app));
+/*var nodeadmin = require('nodeadmin');
+app.use(nodeadmin(app));*/
 
 // REST methods
 app.get('/articles', function(req,res){
