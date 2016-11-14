@@ -22,6 +22,7 @@
     "express": "^4.0.0",
     "jsonpath": "^0.2.2",
     "mongodb": "^2.1.19",
+    "nodeadmin": "^0.1.2",
     "swaggerize-express": "^4.0.0",
     "swaggerize-ui": "^1.0.1",
     "transliteration": "^1.1.11"
