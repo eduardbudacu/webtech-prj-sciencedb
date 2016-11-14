@@ -61,7 +61,7 @@ app.get('/articles/:id', function(req,res){
         } else {
             res.status(404).send();
         }
-    })
+    });
 });
 
 app.post('/articles', function(req,res) {
@@ -72,13 +72,34 @@ app.post('/articles', function(req,res) {
     });
 });
 
-
-app.delete('/articles/:id', function(req,res){
-    
+app.put('/articles/:id', function(req,res){
+    Article
+        .find({where : {id : req.params.id}})
+        .then(function(article){
+            return article.updateAttributes(req.body)
+        })
+        .then(function(){
+            res.status(201).send('updated')
+        })
+        .catch(function(error){
+            console.warn(error)
+            res.status(400).send('not found')
+        });
 });
 
-app.put('/articles/:id', function(req,res){
-    
+app.delete('/articles/:id', function(req,res){
+    Article
+        .find({where : {id : req.params.id}})
+        .then(function(article){
+            return article.destroy()
+        })
+        .then(function(){
+            res.status(201).send('deleted')
+        })
+        .catch(function(error){
+            console.warn(error)
+            res.status(400).send('not found')
+        });
 });
 
 app.listen(process.env.PORT);
