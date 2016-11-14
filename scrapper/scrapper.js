@@ -38,7 +38,7 @@ function createArticle(article) {
 }
 
 
-var year = "2015";
+var year = "2016";
 var fileContent = fs.readFileSync("data/"+year+".bib", 'utf8');
 fileContent = tr(fileContent);
 
