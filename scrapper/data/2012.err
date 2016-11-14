@@ -1,0 +1,161 @@
+@
+
+@article{Wang20121287,
+title = ""Leagile" software development: An experience report analysis of the application of lean approaches in agile software development ",
+journal = "Journal of Systems and Software ",
+volume = "85",
+number = "6",
+pages = "1287 - 1299",
+year = "2012",
+note = "Special Issue: Agile Development ",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/j.jss.2012.01.061",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121212000404",
+author = "Xiaofeng Wang and Kieran Conboy and Oisin Cawley",
+keywords = "Agile software development",
+keywords = "Lean software development",
+keywords = "Scrum",
+keywords = "Leagile",
+keywords = "Kanban",
+keywords = "Experience report",
+keywords = "Software engineering ",
+abstract = "In recent years there has been a noticeable shift in attention from those who use agile software development toward lean software development, often labelled as a shift "from agile to lean". However, the reality may not be as simple or linear as this label implies. To provide a better understanding of lean software development approaches and how they are applied in agile software development, we have examined 30 experience reports published in past agile software conferences in which experiences of applying lean approaches in agile software development were reported. The analysis identified six types of lean application. The results of our study show that lean can be applied in agile processes in different manners for different purposes. Lean concepts, principles and practices are most often used for continuous agile process improvement, with the most recent introduction being the kanban approach, introducing a continuous, flow-based substitute to time-boxed agile processes. "
+}
+
+
+@article{Guetat2012481,
+title = "Building Software Solutions in an Urbanized Information System: The 5+1 Software Architecture Model ",
+journal = "Procedia Technology ",
+volume = "5",
+number = "",
+pages = "481 - 490",
+year = "2012",
+note = "4th Conference of \{ENTERprise\} Information Systems - aligning technology, organizations and people (CENTERIS 2012) ",
+issn = "2212-0173",
+doi = "http://dx.doi.org/10.1016/j.protcy.2012.09.053",
+url = "http://www.sciencedirect.com/science/article/pii/S2212017312004847",
+author = "Sana Bent Aboulkacem Guetat and Salem Ben Dhaou Dakhli",
+keywords = "Information System urbanization",
+keywords = "software architecture",
+keywords = "software layer",
+keywords = "software service",
+keywords = "architecture rule",
+keywords = "urbanization principle ",
+abstract = "The concept of Information Systems urbanization has been proposed since the late 90's in order to help organizations building agile Information Systems. Nevertheless, despite the advantages of this concept, it remains too descriptive and presents many weaknesses. In particular, there is a lack of useful architecture models dedicated to defining software solutions compliant with Information Systems urbanization principles and rules. Moreover, well-known software architecture models don't provide sufficient resources to address the requirements and constraints of urbanized Information Systems. In this paper, we draw on the "information city" framework to propose a model of software architecture - called the 5+1 Software Architecture Model -which helps organizations building urbanized software solutions. This framework improves the well-established software architecture models and allows the integration of new architectural paradigms. "
+}
+
+
+@article{Liu20122921,
+title = "Technology flexibility as enabler of robust application development in community source: The case of Kuali and Sakai ",
+journal = "Journal of Systems and Software ",
+volume = "85",
+number = "12",
+pages = "2921 - 2928",
+year = "2012",
+note = "Self-Adaptive Systems ",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/j.jss.2012.06.026",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121212001744",
+author = "Manlu Liu and Harry Jiannan Wang and J. Leon Zhao",
+keywords = "Technology flexibility",
+keywords = "Open source",
+keywords = "Community source",
+keywords = "Workflow technology",
+keywords = "Service oriented architecture",
+keywords = "Agile enterprise ",
+abstract = "Technology flexibility has been an important topic in software engineering since the start of computerized business applications, which require frequent changes to system specifications due to ever changing business requirements. Achieving a higher degree of technology flexibility has been a long-running challenge to software engineers and project managers. Recently, there has been a new software development approach called "community source" consisting of numerous development partners that are also users of the software. In community source, technology flexibility is even more important than usual due to the increase in complexity and uncertainty of software requirements by its many development partners in the community. In this paper, we investigate two community source cases, i.e., Kuali and Sakai, and examine how technology flexibility is achieved in application software engineering. The principles generated from this study should offer useful insights to the continuous efforts toward making more robust business applications in support of agile enterprises. "
+}
+
+
+@article{Fokaefs20122241,
+title = "Identification and application of Extract Class refactorings in object-oriented systems ",
+journal = "Journal of Systems and Software ",
+volume = "85",
+number = "10",
+pages = "2241 - 2260",
+year = "2012",
+note = "Automated Software Evolution ",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/j.jss.2012.04.013",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121212001057",
+author = "Marios Fokaefs and Nikolaos Tsantalis and Eleni Stroulia and Alexander Chatzigeorgiou",
+keywords = "Refactoring",
+keywords = "Software reengineering",
+keywords = "Object-oriented programming",
+keywords = "Clustering ",
+abstract = "Refactoring is recognized as an essential practice in the context of evolutionary and agile software development. Recognizing the importance of the practice, modern \{IDEs\} provide some support for low-level refactorings. A notable exception in the list of supported refactorings is the "Extract Class" refactoring, which is conceived to simplify large, complex, unwieldy and less cohesive classes. In this work, we describe a method and a tool, implemented as an Eclipse plugin, designed to fulfill exactly this need. Our method involves three steps: (a) recognition of Extract Class opportunities, (b) ranking of the identified opportunities in terms of the improvement each one is anticipated to bring about to the system design, and (c) fully automated application of the refactoring chosen by the developer. The first step relies on an agglomerative clustering algorithm, which identifies cohesive sets of class members within the system classes. The second step relies on the Entity Placement metric as a measure of design quality. Through a set of experiments we have shown that the tool is able to identify and extract new classes that developers recognize as "coherent concepts" and improve the design quality of the underlying system. "
+}
+
+
+@article{Rolon2012901,
+title = "Agent learning in autonomic manufacturing execution systems for enterprise networking ",
+journal = "Computers & Industrial Engineering ",
+volume = "63",
+number = "4",
+pages = "901 - 925",
+year = "2012",
+note = "",
+issn = "0360-8352",
+doi = "http://dx.doi.org/10.1016/j.cie.2012.06.004",
+url = "http://www.sciencedirect.com/science/article/pii/S0360835212001532",
+author = "Milagros Rolon and Ernesto Martinez",
+keywords = "Autonomic systems",
+keywords = "Agent-based simulation",
+keywords = "Multi-agent learning",
+keywords = "Distributed production control",
+keywords = "Manufacturing execution systems",
+keywords = "Enterprise networking ",
+abstract = "In enterprise networks, companies interact on a temporal basis through client-server relationships between order agents (clients) and resource agents (servers) acting as autonomic managers. In this work, the autonomic \{MES\} (
+
+@MES) proposed by Rolon and Martinez (2012) has been extended to allow selfish behavior and adaptive decision-making in distributed execution control and emergent scheduling. Agent learning in the 
+
+@MES is addressed by rewarding order agents in order to continuously optimize their processing routes based on cost and reliability of alternative resource agents (servers). Service providers are rewarded so as to learn the quality level corresponding to each task which is used to define the processing time and cost for each client request. Two reinforcement learning algorithms have been implemented to simulate learning curves of client-server relationships in the 
+
+@MES. Emerging behaviors obtained through generative simulation in a case study show that despite selfish behavior and policy adaptation in order and resource agents, the autonomic \{MES\} is able to reject significant disturbances and handle unplanned events successfully. "
+}
+
+
+@article{Montazemi201231,
+title = "Factors of stickiness in transfers of know-how between \{MNC\} units ",
+journal = "The Journal of Strategic Information Systems ",
+volume = "21",
+number = "1",
+pages = "31 - 57",
+year = "2012",
+note = "",
+issn = "0963-8687",
+doi = "http://dx.doi.org/10.1016/j.jsis.2012.01.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0963868712000029",
+author = "Ali Reza Montazemi and Jeffrey James Pittaway and Hamed Qahri Saremi and Yongbin Wei",
+keywords = "Knowledge flow",
+keywords = "Know-how",
+keywords = "Innovation",
+keywords = "Stickiness",
+keywords = "Social capital",
+keywords = "Absorptive capacity",
+keywords = "Multinational corporations ",
+abstract = "The effective sharing of organizational knowledge is particularly relevant for multinational corporations, where firm-specific tacit knowledge (know-how) is considered a source of competitive advantage for subsidiaries participating in a global strategy. To that end, multinational corporations (MNCs) are asking their \{IT\} departments to support both the exploitation of existing knowledge and the unit-to-unit transfer of new know-how derived in units from exploration. Nonetheless, new know-how derived from exploratory research, development and experience in one unit can be difficult to transfer to units that can exploit that know-how to commercial ends. The factors that impede the transfer of new know-how have been conceptualized as "factors of stickiness". In this paper, we present a theoretical model of organizational factors that can cause (or conversely mitigate) stickiness in the flow of new know-how between \{MNC\} units. To test the six hypotheses of the model, we used meta-analytic structural equation modeling (MASEM) of 31 empirical studies, representing 10,432 cases of new know-how transfer between units. The result of \{MASEM\} shows that the factors of receiving units' potential absorptive capacity and transmission channel in form of social capital that is enacted through its three dimensions (i.e., embedded social ties between units, institutional shared vision of units, and interorganizational trust of units) affect recipient subsidiaries' capability to exploit new know-how in practice (i.e., realized absorptive capacity), thus effectuating its transfer. Based on our findings, we propose research directions within the context of agile information systems development, distributed software projects, and management of information systems functions in MNCs. "
+}
+
+
+@article{Bouhaddou2012813,
+title = "Translating standards into practice: Experience and lessons learned at the Department of Veterans Affairs ",
+journal = "Journal of Biomedical Informatics ",
+volume = "45",
+number = "4",
+pages = "813 - 823",
+year = "2012",
+note = "Translating Standards into Practice: Experiences and Lessons Learned in Biomedicine and Health Care ",
+issn = "1532-0464",
+doi = "http://dx.doi.org/10.1016/j.jbi.2012.01.003",
+url = "http://www.sciencedirect.com/science/article/pii/S1532046412000044",
+author = "Omar Bouhaddou and Tim Cromwell and Mike Davis and Sarah Maulden and Nelson Hsing and David Carlson and Jennifer Cockle and Catherine Hoang and Linda Fischetti",
+keywords = "Standards adoption",
+keywords = "Reference implementation",
+keywords = "Standards Life Cycle",
+keywords = "Interoperability",
+keywords = "Likelihood of Adoption Scale",
+keywords = "Health information technology ",
+abstract = "The increased need for interoperable electronic health records in health care organizations underscores the importance of standards. The \{US\} Department of Veterans Affairs (VA) has a long history of developing and adopting various types of health care data standards. The authors present in detail their experience in this domain. A formal organization within \{VA\} is responsible for helping to develop and implement standards. This group has produced a Standards Life Cycle (SLC) process endorsed by \{VA\} key business and information technology (IT) stakeholders. It coordinates the identification, description, and implementation of standards aligned with \{VA\} business requirements. In this paper, we review the adoption of four standards in the categories of security and privacy, terminology, health information exchange, and modeling tools; emphasizing the implementation approach used in each. In our experience, adoption is facilitated by internal staff with expertise in standards development and adoption. Use of processes such as an \{SLC\} and tools such as an enterprise requirement repository help formally track and ensure that \{IT\} development and acquisition incorporate these standards. An organization should adopt standards that are aligned with its business priorities and favor those that are more readily implementable. To assist with this final point, we offer a standard "Likelihood of Adoption Scale," which changes as standards specifications evolve from \{PDF\} documents only, to \{PDF\} documents with construction and testing tools, to fully functional reference implementations. "
+}
+

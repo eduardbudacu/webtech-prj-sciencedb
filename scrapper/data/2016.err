@@ -1,0 +1,494 @@
+@
+
+@article{Cooper2016,
+title = "Agile-Stage-Gate: New idea-to-launch method for manufactured new products is faster, more responsive ",
+journal = "Industrial Marketing Management ",
+volume = "",
+number = "",
+pages = " - ",
+year = "2016",
+note = "",
+issn = "0019-8501",
+doi = "http://dx.doi.org/10.1016/j.indmarman.2016.10.006",
+url = "http://www.sciencedirect.com/science/article/pii/S0019850116301894",
+author = "Robert G. Cooper and Anita F Sommer",
+keywords = "Agile",
+keywords = "Stage-Gate",
+keywords = "Hybrid",
+keywords = "New-product process",
+keywords = "Gating ",
+abstract = "Abstract New evidence reveals that Agile methods, until now used primarily for \{IT\} developments, can be integrated with traditional gating approaches to yield significant potential benefits for manufacturers of \{B2B\} physical products. Indeed, this new Agile-Stage-Gate hybrid approach represents a significant change to our thinking about how new-product development should be done since the introduction of today's popular gating systems thirty years ago! The article shows how Agile emerged in the \{IT\} industry and early attempts to integrate it with gating models, also in the \{IT\} world. The article moves on to the recent use of this hybrid model by manufacturers, and the results achieved by early adopters when implementing this new system in industries from food to heavy equipment. In terms of implementation, the details of the new Agile-Stage-Gate system are presented, including the "Power of Nine" - the three key artefacts (such as sprints and scrums); three important tools (such as sprint backlogs and burndown charts), and the three vital roles (such as the product owner and the scrum master) needed to make it work. Agile from the \{IT\} world cannot be directly integrated into Stage-Gate for physical products without some important modifications, however. These needed adjustments - such as redefining a "done sprint" and how to present versions of the product or "protocepts" for continuous customer feedback - are outlined, complete with a case study from an equipment manufacturer. Additionally, the article identifies and deals with ten important issues and apparent inconsistencies that arise when implementing this new system for \{B2B\} products. "
+}
+
+
+@article{Larusdottir2016,
+title = "A license to kill - Improving \{UCSD\} in Agile development ",
+journal = "Journal of Systems and Software ",
+volume = "",
+number = "",
+pages = " - ",
+year = "2016",
+note = "",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/j.jss.2016.01.024",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121216000194",
+author = "Marta Larusdottir and Jan Gulliksen and Asa Cajander",
+keywords = "User-centered system design",
+keywords = "Agile development",
+keywords = "Scrum ",
+abstract = "Abstract Agile development processes, such as Scrum, focus on communication, developer collaboration and delivery of working software early and continuously. User-centered systems design (UCSD) is a process emphasizing usability and the user experience throughout the system life cycle. It highlights the \{UCSD\} activities: understanding the context of use, iterative prototyping to explore the design space and active collaboration with users throughout the software development. Agile processes are by many assumed to address similar issues as UCSD, hence, by applying Agile processes the systems would become usable for the end-users and their user experience should improve. This paper discusses and interprets findings on \{UCSD\} activities in Agile projects in practice, that are analyzed according to the fundamental principles from the Agile manifesto. We show that Agile development has much to gain from integrating UCSD, and give guidance on how to integrate \{UCSD\} in Agile processes. User experience (UX) professionals need a more explicit role in the Agile projects and more authority. We recommend that they receive a "license to kill" design suggestions that are not perceived as useful by the users. "
+}
+
+
+@article{Llamas20161092,
+title = "Proposition of an agile knowledge-based process model ",
+journal = "IFAC-PapersOnLine ",
+volume = "49",
+number = "12",
+pages = "1092 - 1097",
+year = "2016",
+note = "8th \{IFAC\} Conference on Manufacturing Modelling, Management and Control \{MIM\} 2016Troyes, France, 28--30 June 2016 ",
+issn = "2405-8963",
+doi = "http://dx.doi.org/10.1016/j.ifacol.2016.07.588",
+url = "http://www.sciencedirect.com/science/article/pii/S2405896316308485",
+author = "V. Llamas and T. Coudert and L. Geneste and J.C. Romero-Bejarano and A. de Valroger",
+keywords = "Agility",
+keywords = "Business Process Management",
+keywords = "Knowledge Management",
+keywords = "Experience Feedback ",
+abstract = "Abstract Modern organizations generally define and use standardized models of their processes. They manage their activities using such standards. In these processes, the generalization and reuse of knowledge is facilitated by the standardization. But it is sometimes difficult to react to unexpected events due to over-constrained standards. Companies need to become agile to survive to continuous changes in their environments. There is a requirement of agility for the processes in order to ensure constant responsiveness and flexibility. This necessity of agility can be achieved through a knowledge-based system. Therefore, this article proposes a knowledge-based agile process model in which agility is driven by the reuse of knowledge and experiences. For this purpose, agility operators are defined as formalized pieces of knowledge. A model of an agile process in which these operators are used is presented. The basis of a methodology describing incremental versions of the model is also presented. This "versioning" allows to formalize experiences and to capitalize them for future reuse. Finally, an application of the method to the problem solving domain is presented. It is shown how the standard 9 Steps process becomes more agile by deploying the proposed methodology. "
+}
+
+
+@article{Geng2016,
+title = "Experimental investigation of influence of strake wings on self-induced roll motion at high angles of attack ",
+journal = "Chinese Journal of Aeronautics ",
+volume = "",
+number = "",
+pages = " - ",
+year = "2016",
+note = "",
+issn = "1000-9361",
+doi = "http://dx.doi.org/10.1016/j.cja.2016.09.008",
+url = "http://www.sciencedirect.com/science/article/pii/S1000936116301819",
+author = "Xi Geng and Zhiwei Shi and Keming Cheng",
+keywords = "Cruciform fins",
+keywords = "High angle of attack",
+keywords = "PIV",
+keywords = "Roll motion",
+keywords = "Strake wing ",
+abstract = "Abstract The modern high performance air vehicles are required to have extreme maneuverability, which includes the ability of controlled maneuvers at high angle of attack. However, the nonlinear and unsteady aerodynamic phenomena, such as flow separation, vortices interaction, and vortices breaking down, will occur during the flight at high angle of attack, which could induce the uncommanded motions for the air vehicles. For the high maneuverable and agile air missile, the nonlinear roll motions would occur at the high angle of attack. The present work is focused on the self-induced nonlinear roll motion for a missile configuration and discusses the influence of the strake wings on the roll motion according to the results from free-to-roll test and \{PIV\} measurement using the models assembled with different strake wings at a = 60deg. The free-to-roll results show that the model with whole strake wings (baseline), the model assembled with three strake wings (Case A) and the model assembled with two opposite strake wings (Case C) experience the spinning, while the model assembled with two adjacent strake wings (Case B), the model assembled with one strake wing (Case D) and the model with no strake wing (Case E) trim or slightly vibrate at a certain "x" rolling angle, which mean that the rolling stability can be improved by dismantling certain strake wings. The flow field results from \{PIV\} measurement show that the leeward asymmetric vortices are induced by the windward strake wings. The vortices would interact the strake wings and induce cross flow on the downstream fins to degrade the rolling stability of the model. This could be the main reason for the self-induced roll motion of the model at a = 60deg. "
+}
+
+
+@article{Konugurthi2016377,
+title = "Autonomous Ortho-Rectification of Very High Resolution Imagery Using \{SIFT\} and Genetic Algorithm ",
+journal = "Photogrammetric Engineering & Remote Sensing ",
+volume = "82",
+number = "5",
+pages = "377 - 388",
+year = "2016",
+note = "",
+issn = "0099-1112",
+doi = "http://dx.doi.org/10.1016/S0099-1112(16)82020-0",
+url = "http://www.sciencedirect.com/science/article/pii/S0099111216820200",
+author = "Pramod Kumar Konugurthi and Raghavendra Kune and Ravi Nooka and Venkatraman Sarma",
+abstract = "Abstract Ortho-rectification of very high resolution imagery from agile platforms using Rigorous Sensor Model / Rational Functional Model is quite challenging and demands a fair amount of interactivity in Ground Control Point (gcp) identification/selection for refining the model and for final product evaluation. The paper proposes achieving complete automation in the ortho-rectification process by eliminating all the interactive components, and incorporating fault tolerance mechanisms within the model to make the process robust and reliable. The key aspects proposed in this paper are: two stage Scale Invariant Feature Transform (sift) based matching to obtain a large numbers of checkpoints using much coarser resolution images such as Landsat/etm+, followed by a ga to select the right combination of minimal gcps based on minimizing Root Mean Square Error (rmse) and maximizing the area covered under gcps, and finally, a decision rule based product evaluation to make the process operate in an "autonomous closed loop mode". The method is generic and has been tested on hundreds of Cartosat-1/2 images, and has achieved above 90% reliability with sub-pixel relative error of reference data. "
+}
+
+
+@article{Fang201611,
+title = "An agility-oriented and fuzziness-embedded semantic model for collaborative cloud service search, retrieval and recommendation ",
+journal = "Future Generation Computer Systems ",
+volume = "56",
+number = "",
+pages = "11 - 26",
+year = "2016",
+note = "",
+issn = "0167-739X",
+doi = "http://dx.doi.org/10.1016/j.future.2015.09.025",
+url = "http://www.sciencedirect.com/science/article/pii/S0167739X15003052",
+author = "Daren Fang and Xiaodong Liu and Imed Romdhani and Pooyan Jamshidi and Claus Pahl",
+keywords = "Cloud computing",
+keywords = "Service agility",
+keywords = "Semantic model",
+keywords = "Service discovery",
+keywords = "Ontology evolution",
+keywords = "Knowledge retrieval ",
+abstract = "Abstract Cloud computing enables a revolutionary paradigm of consuming \{ICT\} services. However, due to the inadequately described service information, users often feel confused while trying to find the optimal services. Although some approaches are proposed to deal with cloud service retrieval and recommendation issues, they would only work for certain restricted scenarios in dealing with basic service specifications. Indeed, the missing extent is that most of the cloud services are "agile" whilst there are many vague service terms and descriptions. This paper proposes an agility-oriented and fuzziness-embedded cloud service ontology model, which adopts agility-centric design along with \{OWL2\} (Web Ontology Language) fuzzy extensions. The captured cloud service specifications are maintained in an open and collaborative manner, as the fuzziness in the model accepts rating updates from users on the fly. The model enables comprehensive service specification by capturing cloud concept details and their interactions, even across multiple service categories and abstraction levels. Utilizing the model as a knowledge base, a service recommendation system prototype is developed. Case studies demonstrate that the approach can outperform existing practices by achieving effective service search, retrieval and recommendation outcomes. "
+}
+
+
+@article{Besseris2016,
+title = "Screening dense and noisy DOX-datasets with NN-blending and "dizzy" swarm intelligence: Profiling a water quality process ",
+journal = "Swarm and Evolutionary Computation ",
+volume = "",
+number = "",
+pages = " - ",
+year = "2016",
+note = "",
+issn = "2210-6502",
+doi = "http://dx.doi.org/10.1016/j.swevo.2016.08.003",
+url = "http://www.sciencedirect.com/science/article/pii/S2210650216301961",
+author = "George J. Besseris",
+keywords = "Stochastic optimization",
+keywords = "Taguchi methods",
+keywords = "Swarm intelligence",
+keywords = "GRNN",
+keywords = "Smart sampling",
+keywords = "Water quality ",
+abstract = "Abstract A novel nature-inspired method is presented in this work for resolving product/process development or improvement with design of experiments (DOX). The technique is suitable for difficult Taguchi-type multifactorial screening and optimization studies that need to simultaneously contain the double hassle of controllable and uncontrollable noise intrusions. The three-part sequential processing routine requires: 1) a regressive data-compression preprocessing, 2) a smart-sample generation using general-regression neural networks (GRNN), and 3) a screening power prediction using 'reverse' swarm intelligence (SI). The approach is primed to confront potential non-linearity and data messiness in the examined effects. The Taguchi-type orthogonal-array (OA) sampler is tuned for retrieving information in controllable (outer OA) and uncontrollable (inner OA) noises. The OA-saturation condition is elicited for maximum data exploitation. GRNN-fuzzification consolidates into a single contribution the uncertainty from all possible sources. The resulting 'smart' sample is defuzzified by a robust-and-agile data reduction. Screening-solution meta-power is controlled with a new SI-variant. The independent swarm groups, as many as the studied effects, are tracked toward preassigned targets, i.e. their ability to return to their host beehives. The technique is illustrated on a complex purification process where published multifactorial data had been collected for a critical wastewater paradigm and thus may be used to test the benchmark solution. However, environmental water-qualimetrics are profoundly dominated by messy data as justified in this work. We elucidate on several issues that regular Taguchi methods may be benefited by the proposed GRNN/SI processing while emphasizing the consequence of overlooking the underlying assumptions that govern standard comparison models. The new swarm itelligence method offered a practical way to estimate a first-time "soft" power measure for the inner/outer \{OA\} optimization case that was impossible with ordinary statistical multi-factorial treatments. Key performance advantages in efficiency, robustness and convenience are highlighted against alternative approaches. "
+}
+
+
+@article{Guetat20161208,
+title = "The Four Spaces Model: A Framework for Services Governance in Urbanized Information Systems ",
+journal = "Procedia Computer Science ",
+volume = "100",
+number = "",
+pages = "1208 - 1219",
+year = "2016",
+note = "International Conference on \{ENTERprise\} Information Systems/International Conference on Project MANagement/International Conference on Health and Social Care Information Systems and Technologies, CENTERIS/ProjMAN / \{HCist\} 2016 ",
+issn = "1877-0509",
+doi = "http://dx.doi.org/10.1016/j.procs.2016.09.146",
+url = "http://www.sciencedirect.com/science/article/pii/S1877050916323146",
+author = "Sana Bent Aboulkacem Guetat and Salem Ben Dhaou Dakhli",
+keywords = "urbanized information system",
+keywords = "service",
+keywords = "service consumer",
+keywords = "service provider",
+keywords = "service oriented architecture",
+keywords = "loose coupling",
+keywords = "governance ",
+abstract = "Abstract Information systems urbanization is among the most well-known approaches defined in the recent years to build agile information systems. This approach links enterprise architecture and information systems governance. It is based on the "Information City" framework and two architecture principles: strong consistency and loose coupling. Nevertheless, the implementation of the loose coupling principle in urbanized information systems still faces numerous difficulties related notably to services exchanges governance. In this paper, we propose a framework - called the four spaces model - for the governance of services in the case of application of the \{SOA\} architecture style to urbanized information systems. In particular, we focus on the operational aspects of services exchanges governance either within the same information system or between different information systems. This framework has many important contributions. First, it standardizes the exchanges between the organizational actors involved in the services governance process. Second, it facilitates services exchanges traceability. Third, it promotes loose coupling both within the same information system and between different information systems. "
+}
+
+
+@article{Ouma2016110,
+title = "Advancements in medium and high resolution Earth observation for land-surface imaging: Evolutions, future trends and contributions to sustainable development ",
+journal = "Advances in Space Research ",
+volume = "57",
+number = "1",
+pages = "110 - 126",
+year = "2016",
+note = "",
+issn = "0273-1177",
+doi = "http://dx.doi.org/10.1016/j.asr.2015.10.038",
+url = "http://www.sciencedirect.com/science/article/pii/S0273117715007577",
+author = "Yashon O. Ouma",
+keywords = "Earth observation (EO) trends",
+keywords = "Sustainable development",
+keywords = "EO Big Data",
+keywords = "Grid-computing",
+keywords = "Telegeoprocessing",
+keywords = "Value-added geoinformation ",
+abstract = "Abstract Technologies for imaging the surface of the Earth, through satellite based Earth observations (EO) have enormously evolved over the past 50 years. The trends are likely to evolve further as the user community increases and their awareness and demands for \{EO\} data also increases. In this review paper, a development trend on \{EO\} imaging systems is presented with the objective of deriving the evolving patterns for the \{EO\} user community. From the review and analysis of medium-to-high resolution EO-based land-surface sensor missions, it is observed that there is a predictive pattern in the \{EO\} evolution trends such that every 10-15 years, more sophisticated \{EO\} imaging systems with application specific capabilities are seen to emerge. Such new systems, as determined in this review, are likely to comprise of agile and small payload-mass \{EO\} land surface imaging satellites with the ability for high velocity data transmission and huge volumes of spatial, spectral, temporal and radiometric resolution data. This availability of data will magnify the phenomenon of "Big Data" in Earth observation. Because of the "Big Data" issue, new computing and processing platforms such as telegeoprocessing and grid-computing are expected to be incorporated in \{EO\} data processing and distribution networks. In general, it is observed that the demand for \{EO\} is growing exponentially as the application and cost-benefits are being recognized in support of resource management. "
+}
+
+
+@article{Mengoni2016311,
+title = "A Scalable "Design for Costing" Platform: A Practical Case in Ball Valves Industry ",
+journal = "Procedia \{CIRP\} ",
+volume = "50",
+number = "",
+pages = "311 - 317",
+year = "2016",
+note = "26th \{CIRP\} Design Conference ",
+issn = "2212-8271",
+doi = "http://dx.doi.org/10.1016/j.procir.2016.05.084",
+url = "http://www.sciencedirect.com/science/article/pii/S2212827116305820",
+author = "M. Mengoni and M. Mandolini and M. Matteucci and M. Germani",
+keywords = "Modularity",
+keywords = "Cost Estimation",
+keywords = "Knowedge-based Rules",
+keywords = "Design for Costing ",
+abstract = "Abstract Market competitiveness forces companies to explore novel methods and tools to make the overall product development (PD) agile and flexible and to reduce time to market. Accurate and fast cost estimation during design represents one of the most promising strategic actions to achieve these goals. In this context, a knowledge-based system that analyses the 3D \{CAD\} model of the product and automatically determines the manufacturing operations is developed. It consists of a scalable platform implementing "Design for Costing" paradigm. It is actually able to recognize geometric and non-geometric features from the 3D model and its attributes and calculate the final cost as the sum of raw materials, production cycles and setting operations thanks to the application of a set of knowledge-based rules mapping manufacturing processes and modeling features. While previous research works deepened the main technological issues of system development, this paper presents a practical case in ball valves industry to illustrate a structured methodology based on systematic engineering approach to apply the platform at the different stages of the product lifecycle and to verify the reliability of the implemented rules and the efficiency of the achieved process. The obtained results are compared to the traditional \{PD\} process to calculate product costs in order to highlight the main benefits. "
+}
+
+
+@article{Patrick2016816,
+title = "The Pace of Technologic Change: Implications for Digital Health Behavior Intervention Research ",
+journal = "American Journal of Preventive Medicine ",
+volume = "51",
+number = "5",
+pages = "816 - 824",
+year = "2016",
+note = "",
+issn = "0749-3797",
+doi = "http://dx.doi.org/10.1016/j.amepre.2016.05.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0749379716301386",
+author = "Kevin Patrick and Eric B. Hekler and Deborah Estrin and David C. Mohr and Heleen Riper and David Crane and Job Godino and William T. Riley",
+abstract = "This paper addresses the rapid pace of change in the technologies that support digital interventions; the complexity of the health problems they aim to address; and the adaptation of scientific methods to accommodate the volume, velocity, and variety of data and interventions possible from these technologies. Information, communication, and computing technologies are now part of every societal domain and support essentially every facet of human activity. Ubiquitous computing, a vision articulated fewer than 30 years ago, has now arrived. Simultaneously, there is a global crisis in health through the combination of lifestyle and age-related chronic disease and multiple comorbidities. Computationally intensive health behavior interventions may be one of the most powerful methods to reduce the consequences of this crisis, but new methods are needed for health research and practice, and evidence is needed to support their widespread use. The challenges are many, including a reluctance to abandon timeworn theories and models of health behavior--and health interventions more broadly--that emerged in an era of self-reported data; medical models of prevention, diagnosis, and treatment; and scientific methods grounded in sparse and expensive data. There are also many challenges inherent in demonstrating that newer approaches are, indeed, effective. Potential solutions may be found in leveraging methods of research that have been shown to be successful in other domains, particularly engineering. A more "agile science" may be needed that streamlines the methods through which elements of health interventions are shown to work or not, and to more rapidly deploy and iteratively improve those that do. There is much to do to advance the issues discussed in this paper, and the papers in this theme issue. It remains an open question whether interventions based in these new models and methods are, in fact, equally if not more efficacious as what is available currently. Economic analyses of these new approaches are needed because assumptions of net worth compared to other approaches are just that, assumptions. Human-centered design research is needed to ensure that users ultimately benefit. Finally, a translational research agenda will be needed, as the status quo will likely be resistant to change. "
+}
+
+@
+
+@article{Cooper2016,
+title = "Agile-Stage-Gate: New idea-to-launch method for manufactured new products is faster, more responsive ",
+journal = "Industrial Marketing Management ",
+volume = "",
+number = "",
+pages = " - ",
+year = "2016",
+note = "",
+issn = "0019-8501",
+doi = "http://dx.doi.org/10.1016/j.indmarman.2016.10.006",
+url = "http://www.sciencedirect.com/science/article/pii/S0019850116301894",
+author = "Robert G. Cooper and Anita F Sommer",
+keywords = "Agile",
+keywords = "Stage-Gate",
+keywords = "Hybrid",
+keywords = "New-product process",
+keywords = "Gating ",
+abstract = "Abstract New evidence reveals that Agile methods, until now used primarily for \{IT\} developments, can be integrated with traditional gating approaches to yield significant potential benefits for manufacturers of \{B2B\} physical products. Indeed, this new Agile-Stage-Gate hybrid approach represents a significant change to our thinking about how new-product development should be done since the introduction of today's popular gating systems thirty years ago! The article shows how Agile emerged in the \{IT\} industry and early attempts to integrate it with gating models, also in the \{IT\} world. The article moves on to the recent use of this hybrid model by manufacturers, and the results achieved by early adopters when implementing this new system in industries from food to heavy equipment. In terms of implementation, the details of the new Agile-Stage-Gate system are presented, including the "Power of Nine" - the three key artefacts (such as sprints and scrums); three important tools (such as sprint backlogs and burndown charts), and the three vital roles (such as the product owner and the scrum master) needed to make it work. Agile from the \{IT\} world cannot be directly integrated into Stage-Gate for physical products without some important modifications, however. These needed adjustments - such as redefining a "done sprint" and how to present versions of the product or "protocepts" for continuous customer feedback - are outlined, complete with a case study from an equipment manufacturer. Additionally, the article identifies and deals with ten important issues and apparent inconsistencies that arise when implementing this new system for \{B2B\} products. "
+}
+
+
+@article{Larusdottir2016,
+title = "A license to kill - Improving \{UCSD\} in Agile development ",
+journal = "Journal of Systems and Software ",
+volume = "",
+number = "",
+pages = " - ",
+year = "2016",
+note = "",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/j.jss.2016.01.024",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121216000194",
+author = "Marta Larusdottir and Jan Gulliksen and Asa Cajander",
+keywords = "User-centered system design",
+keywords = "Agile development",
+keywords = "Scrum ",
+abstract = "Abstract Agile development processes, such as Scrum, focus on communication, developer collaboration and delivery of working software early and continuously. User-centered systems design (UCSD) is a process emphasizing usability and the user experience throughout the system life cycle. It highlights the \{UCSD\} activities: understanding the context of use, iterative prototyping to explore the design space and active collaboration with users throughout the software development. Agile processes are by many assumed to address similar issues as UCSD, hence, by applying Agile processes the systems would become usable for the end-users and their user experience should improve. This paper discusses and interprets findings on \{UCSD\} activities in Agile projects in practice, that are analyzed according to the fundamental principles from the Agile manifesto. We show that Agile development has much to gain from integrating UCSD, and give guidance on how to integrate \{UCSD\} in Agile processes. User experience (UX) professionals need a more explicit role in the Agile projects and more authority. We recommend that they receive a "license to kill" design suggestions that are not perceived as useful by the users. "
+}
+
+
+@article{Llamas20161092,
+title = "Proposition of an agile knowledge-based process model ",
+journal = "IFAC-PapersOnLine ",
+volume = "49",
+number = "12",
+pages = "1092 - 1097",
+year = "2016",
+note = "8th \{IFAC\} Conference on Manufacturing Modelling, Management and Control \{MIM\} 2016Troyes, France, 28--30 June 2016 ",
+issn = "2405-8963",
+doi = "http://dx.doi.org/10.1016/j.ifacol.2016.07.588",
+url = "http://www.sciencedirect.com/science/article/pii/S2405896316308485",
+author = "V. Llamas and T. Coudert and L. Geneste and J.C. Romero-Bejarano and A. de Valroger",
+keywords = "Agility",
+keywords = "Business Process Management",
+keywords = "Knowledge Management",
+keywords = "Experience Feedback ",
+abstract = "Abstract Modern organizations generally define and use standardized models of their processes. They manage their activities using such standards. In these processes, the generalization and reuse of knowledge is facilitated by the standardization. But it is sometimes difficult to react to unexpected events due to over-constrained standards. Companies need to become agile to survive to continuous changes in their environments. There is a requirement of agility for the processes in order to ensure constant responsiveness and flexibility. This necessity of agility can be achieved through a knowledge-based system. Therefore, this article proposes a knowledge-based agile process model in which agility is driven by the reuse of knowledge and experiences. For this purpose, agility operators are defined as formalized pieces of knowledge. A model of an agile process in which these operators are used is presented. The basis of a methodology describing incremental versions of the model is also presented. This "versioning" allows to formalize experiences and to capitalize them for future reuse. Finally, an application of the method to the problem solving domain is presented. It is shown how the standard 9 Steps process becomes more agile by deploying the proposed methodology. "
+}
+
+
+@article{Lennerz2016697,
+title = "Health Care Infrastructure for Financially Sustainable Clinical Genomics ",
+journal = "The Journal of Molecular Diagnostics ",
+volume = "18",
+number = "5",
+pages = "697 - 706",
+year = "2016",
+note = "",
+issn = "1525-1578",
+doi = "http://dx.doi.org/10.1016/j.jmoldx.2016.04.003",
+url = "http://www.sciencedirect.com/science/article/pii/S1525157816300861",
+author = "Jochen K. Lennerz and Heather M. McLaughlin and Jason M. Baron and David Rasmussen and Meini Sumbada Shin and Nancy Berners-Lee and Julie Miller Batten and Kathryn J. Swoboda and Manish K. Gala and Harland S. Winter and Jeremy D. Schmahmann and David A. Sweetser and Marianne Boswell and Maciej Pacula and Albrecht Stenzinger and Long P. Le and William Hynes and Heidi L. Rehm and Anne Klibanski and Stephen W. Black-Schaffer and Jeffrey A. Golden and David N. Louis and Scott T. Weiss and A. John Iafrate",
+abstract = "Next-generation sequencing has evolved technically and economically into the method of choice for interrogating the genome in cancer and inherited disorders. The introduction of procedural code sets for whole-exome and genome sequencing is a milestone toward financially sustainable clinical implementation; however, achieving reimbursement is currently a major challenge. As part of a prospective quality-improvement initiative to implement the new code sets, we adopted Agile, a development methodology originally devised in software development. We implemented eight functionally distinct modules (request review, cost estimation, preauthorization, accessioning, prebilling, testing, reporting, and reimbursement consultation) and obtained feedback via an anonymous survey. We managed 50 clinical requests (January to June 2015). The fraction of pursued-to-requested cases (n = 15/50; utilization management fraction, 0.3) aimed for a high rate of preauthorizations. In 13 of 15 patients the insurance plan required preauthorization, which we obtained in 70% and ultimately achieved reimbursement in 50%. Interoperability enabled assessment of 12 different combinations of modules that underline the importance of an adaptive workflow and policy tailoring to achieve higher yields of reimbursement. The survey confirmed a positive attitude toward self-organizing teams. We acknowledge the individuals and their interactions and termed the infrastructure: human pipeline. Nontechnical barriers currently are limiting the scope and availability of clinical genomic sequencing. The presented human pipeline is one approach toward long-term financial sustainability of clinical genomics. "
+}
+
+Cannot read property 'join' of undefined
+@article{Jacobs201633,
+title = "Iterative development and evaluation methods of mHealth behavior change interventions ",
+journal = "Current Opinion in Psychology ",
+volume = "9",
+number = "",
+pages = "33 - 37",
+year = "2016",
+note = "Social media and applications to health behavior ",
+issn = "2352-250X",
+doi = "http://dx.doi.org/10.1016/j.copsyc.2015.09.001",
+url = "http://www.sciencedirect.com/science/article/pii/S2352250X15002195",
+author = "Megan A Jacobs and Amanda L Graham",
+abstract = "Social media and mobile devices are rapidly evolving environments for health interventions. There is growing recognition that traditional research processes cannot keep pace with this constantly shifting landscape. The changing technology landscape demands mHealth researchers use appropriate methods throughout the development cycle. Novel research methods allow researchers to capitalize on technological advances and more rapidly disseminate research findings. This manuscript reviews three iterative health behavior intervention development and research methodologies: Agile, Multiphase Optimization Strategy, and the mHealth Development and Evaluation Framework. This manuscript presents benefits and challenges of using such methodologies for mHealth interventions through selected case examples of these methods in practice. "
+}
+
+Cannot read property 'join' of undefined
+@article{Morris2016365,
+title = "Reflections ",
+journal = "International Journal of Project Management ",
+volume = "34",
+number = "2",
+pages = "365 - 370",
+year = "2016",
+note = "",
+issn = "0263-7863",
+doi = "http://dx.doi.org/10.1016/j.ijproman.2015.08.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0263786315001313",
+author = "Peter W.G. Morris",
+abstract = "Abstract This paper reflects on the other papers published in this Festschrift for Peter Morris. It does so from Peter's personal perspectives on the discipline of managing projects. It begins by discussing the role of scholarship in shaping the discipline. It emphasizes the importance of the front-end and relates this to the semantic difficulties associated with the term 'project'. The centrality of people and culture in general is noted. Types of knowledge and learning are discussed especially with regard to professionalism. Governance and the value of the owner's role are noted. The developing impact of ICT, Operations and Agile are discussed. The benefits of a historical perspective on the discipline are proposed and prospects for the future are outlined, particularly with regard to climate change. "
+}
+
+Cannot read property 'join' of undefined
+@article{Geng2016,
+title = "Experimental investigation of influence of strake wings on self-induced roll motion at high angles of attack ",
+journal = "Chinese Journal of Aeronautics ",
+volume = "",
+number = "",
+pages = " - ",
+year = "2016",
+note = "",
+issn = "1000-9361",
+doi = "http://dx.doi.org/10.1016/j.cja.2016.09.008",
+url = "http://www.sciencedirect.com/science/article/pii/S1000936116301819",
+author = "Xi Geng and Zhiwei Shi and Keming Cheng",
+keywords = "Cruciform fins",
+keywords = "High angle of attack",
+keywords = "PIV",
+keywords = "Roll motion",
+keywords = "Strake wing ",
+abstract = "Abstract The modern high performance air vehicles are required to have extreme maneuverability, which includes the ability of controlled maneuvers at high angle of attack. However, the nonlinear and unsteady aerodynamic phenomena, such as flow separation, vortices interaction, and vortices breaking down, will occur during the flight at high angle of attack, which could induce the uncommanded motions for the air vehicles. For the high maneuverable and agile air missile, the nonlinear roll motions would occur at the high angle of attack. The present work is focused on the self-induced nonlinear roll motion for a missile configuration and discusses the influence of the strake wings on the roll motion according to the results from free-to-roll test and \{PIV\} measurement using the models assembled with different strake wings at a = 60deg. The free-to-roll results show that the model with whole strake wings (baseline), the model assembled with three strake wings (Case A) and the model assembled with two opposite strake wings (Case C) experience the spinning, while the model assembled with two adjacent strake wings (Case B), the model assembled with one strake wing (Case D) and the model with no strake wing (Case E) trim or slightly vibrate at a certain "x" rolling angle, which mean that the rolling stability can be improved by dismantling certain strake wings. The flow field results from \{PIV\} measurement show that the leeward asymmetric vortices are induced by the windward strake wings. The vortices would interact the strake wings and induce cross flow on the downstream fins to degrade the rolling stability of the model. This could be the main reason for the self-induced roll motion of the model at a = 60deg. "
+}
+
+
+@article{Konugurthi2016377,
+title = "Autonomous Ortho-Rectification of Very High Resolution Imagery Using \{SIFT\} and Genetic Algorithm ",
+journal = "Photogrammetric Engineering & Remote Sensing ",
+volume = "82",
+number = "5",
+pages = "377 - 388",
+year = "2016",
+note = "",
+issn = "0099-1112",
+doi = "http://dx.doi.org/10.1016/S0099-1112(16)82020-0",
+url = "http://www.sciencedirect.com/science/article/pii/S0099111216820200",
+author = "Pramod Kumar Konugurthi and Raghavendra Kune and Ravi Nooka and Venkatraman Sarma",
+abstract = "Abstract Ortho-rectification of very high resolution imagery from agile platforms using Rigorous Sensor Model / Rational Functional Model is quite challenging and demands a fair amount of interactivity in Ground Control Point (gcp) identification/selection for refining the model and for final product evaluation. The paper proposes achieving complete automation in the ortho-rectification process by eliminating all the interactive components, and incorporating fault tolerance mechanisms within the model to make the process robust and reliable. The key aspects proposed in this paper are: two stage Scale Invariant Feature Transform (sift) based matching to obtain a large numbers of checkpoints using much coarser resolution images such as Landsat/etm+, followed by a ga to select the right combination of minimal gcps based on minimizing Root Mean Square Error (rmse) and maximizing the area covered under gcps, and finally, a decision rule based product evaluation to make the process operate in an "autonomous closed loop mode". The method is generic and has been tested on hundreds of Cartosat-1/2 images, and has achieved above 90% reliability with sub-pixel relative error of reference data. "
+}
+
+
+@article{Fang201611,
+title = "An agility-oriented and fuzziness-embedded semantic model for collaborative cloud service search, retrieval and recommendation ",
+journal = "Future Generation Computer Systems ",
+volume = "56",
+number = "",
+pages = "11 - 26",
+year = "2016",
+note = "",
+issn = "0167-739X",
+doi = "http://dx.doi.org/10.1016/j.future.2015.09.025",
+url = "http://www.sciencedirect.com/science/article/pii/S0167739X15003052",
+author = "Daren Fang and Xiaodong Liu and Imed Romdhani and Pooyan Jamshidi and Claus Pahl",
+keywords = "Cloud computing",
+keywords = "Service agility",
+keywords = "Semantic model",
+keywords = "Service discovery",
+keywords = "Ontology evolution",
+keywords = "Knowledge retrieval ",
+abstract = "Abstract Cloud computing enables a revolutionary paradigm of consuming \{ICT\} services. However, due to the inadequately described service information, users often feel confused while trying to find the optimal services. Although some approaches are proposed to deal with cloud service retrieval and recommendation issues, they would only work for certain restricted scenarios in dealing with basic service specifications. Indeed, the missing extent is that most of the cloud services are "agile" whilst there are many vague service terms and descriptions. This paper proposes an agility-oriented and fuzziness-embedded cloud service ontology model, which adopts agility-centric design along with \{OWL2\} (Web Ontology Language) fuzzy extensions. The captured cloud service specifications are maintained in an open and collaborative manner, as the fuzziness in the model accepts rating updates from users on the fly. The model enables comprehensive service specification by capturing cloud concept details and their interactions, even across multiple service categories and abstraction levels. Utilizing the model as a knowledge base, a service recommendation system prototype is developed. Case studies demonstrate that the approach can outperform existing practices by achieving effective service search, retrieval and recommendation outcomes. "
+}
+
+
+@article{Besseris2016,
+title = "Screening dense and noisy DOX-datasets with NN-blending and "dizzy" swarm intelligence: Profiling a water quality process ",
+journal = "Swarm and Evolutionary Computation ",
+volume = "",
+number = "",
+pages = " - ",
+year = "2016",
+note = "",
+issn = "2210-6502",
+doi = "http://dx.doi.org/10.1016/j.swevo.2016.08.003",
+url = "http://www.sciencedirect.com/science/article/pii/S2210650216301961",
+author = "George J. Besseris",
+keywords = "Stochastic optimization",
+keywords = "Taguchi methods",
+keywords = "Swarm intelligence",
+keywords = "GRNN",
+keywords = "Smart sampling",
+keywords = "Water quality ",
+abstract = "Abstract A novel nature-inspired method is presented in this work for resolving product/process development or improvement with design of experiments (DOX). The technique is suitable for difficult Taguchi-type multifactorial screening and optimization studies that need to simultaneously contain the double hassle of controllable and uncontrollable noise intrusions. The three-part sequential processing routine requires: 1) a regressive data-compression preprocessing, 2) a smart-sample generation using general-regression neural networks (GRNN), and 3) a screening power prediction using 'reverse' swarm intelligence (SI). The approach is primed to confront potential non-linearity and data messiness in the examined effects. The Taguchi-type orthogonal-array (OA) sampler is tuned for retrieving information in controllable (outer OA) and uncontrollable (inner OA) noises. The OA-saturation condition is elicited for maximum data exploitation. GRNN-fuzzification consolidates into a single contribution the uncertainty from all possible sources. The resulting 'smart' sample is defuzzified by a robust-and-agile data reduction. Screening-solution meta-power is controlled with a new SI-variant. The independent swarm groups, as many as the studied effects, are tracked toward preassigned targets, i.e. their ability to return to their host beehives. The technique is illustrated on a complex purification process where published multifactorial data had been collected for a critical wastewater paradigm and thus may be used to test the benchmark solution. However, environmental water-qualimetrics are profoundly dominated by messy data as justified in this work. We elucidate on several issues that regular Taguchi methods may be benefited by the proposed GRNN/SI processing while emphasizing the consequence of overlooking the underlying assumptions that govern standard comparison models. The new swarm itelligence method offered a practical way to estimate a first-time "soft" power measure for the inner/outer \{OA\} optimization case that was impossible with ordinary statistical multi-factorial treatments. Key performance advantages in efficiency, robustness and convenience are highlighted against alternative approaches. "
+}
+
+
+@article{Guetat20161208,
+title = "The Four Spaces Model: A Framework for Services Governance in Urbanized Information Systems ",
+journal = "Procedia Computer Science ",
+volume = "100",
+number = "",
+pages = "1208 - 1219",
+year = "2016",
+note = "International Conference on \{ENTERprise\} Information Systems/International Conference on Project MANagement/International Conference on Health and Social Care Information Systems and Technologies, CENTERIS/ProjMAN / \{HCist\} 2016 ",
+issn = "1877-0509",
+doi = "http://dx.doi.org/10.1016/j.procs.2016.09.146",
+url = "http://www.sciencedirect.com/science/article/pii/S1877050916323146",
+author = "Sana Bent Aboulkacem Guetat and Salem Ben Dhaou Dakhli",
+keywords = "urbanized information system",
+keywords = "service",
+keywords = "service consumer",
+keywords = "service provider",
+keywords = "service oriented architecture",
+keywords = "loose coupling",
+keywords = "governance ",
+abstract = "Abstract Information systems urbanization is among the most well-known approaches defined in the recent years to build agile information systems. This approach links enterprise architecture and information systems governance. It is based on the "Information City" framework and two architecture principles: strong consistency and loose coupling. Nevertheless, the implementation of the loose coupling principle in urbanized information systems still faces numerous difficulties related notably to services exchanges governance. In this paper, we propose a framework - called the four spaces model - for the governance of services in the case of application of the \{SOA\} architecture style to urbanized information systems. In particular, we focus on the operational aspects of services exchanges governance either within the same information system or between different information systems. This framework has many important contributions. First, it standardizes the exchanges between the organizational actors involved in the services governance process. Second, it facilitates services exchanges traceability. Third, it promotes loose coupling both within the same information system and between different information systems. "
+}
+
+
+@article{Ouma2016110,
+title = "Advancements in medium and high resolution Earth observation for land-surface imaging: Evolutions, future trends and contributions to sustainable development ",
+journal = "Advances in Space Research ",
+volume = "57",
+number = "1",
+pages = "110 - 126",
+year = "2016",
+note = "",
+issn = "0273-1177",
+doi = "http://dx.doi.org/10.1016/j.asr.2015.10.038",
+url = "http://www.sciencedirect.com/science/article/pii/S0273117715007577",
+author = "Yashon O. Ouma",
+keywords = "Earth observation (EO) trends",
+keywords = "Sustainable development",
+keywords = "EO Big Data",
+keywords = "Grid-computing",
+keywords = "Telegeoprocessing",
+keywords = "Value-added geoinformation ",
+abstract = "Abstract Technologies for imaging the surface of the Earth, through satellite based Earth observations (EO) have enormously evolved over the past 50 years. The trends are likely to evolve further as the user community increases and their awareness and demands for \{EO\} data also increases. In this review paper, a development trend on \{EO\} imaging systems is presented with the objective of deriving the evolving patterns for the \{EO\} user community. From the review and analysis of medium-to-high resolution EO-based land-surface sensor missions, it is observed that there is a predictive pattern in the \{EO\} evolution trends such that every 10-15 years, more sophisticated \{EO\} imaging systems with application specific capabilities are seen to emerge. Such new systems, as determined in this review, are likely to comprise of agile and small payload-mass \{EO\} land surface imaging satellites with the ability for high velocity data transmission and huge volumes of spatial, spectral, temporal and radiometric resolution data. This availability of data will magnify the phenomenon of "Big Data" in Earth observation. Because of the "Big Data" issue, new computing and processing platforms such as telegeoprocessing and grid-computing are expected to be incorporated in \{EO\} data processing and distribution networks. In general, it is observed that the demand for \{EO\} is growing exponentially as the application and cost-benefits are being recognized in support of resource management. "
+}
+
+
+@article{Mengoni2016311,
+title = "A Scalable "Design for Costing" Platform: A Practical Case in Ball Valves Industry ",
+journal = "Procedia \{CIRP\} ",
+volume = "50",
+number = "",
+pages = "311 - 317",
+year = "2016",
+note = "26th \{CIRP\} Design Conference ",
+issn = "2212-8271",
+doi = "http://dx.doi.org/10.1016/j.procir.2016.05.084",
+url = "http://www.sciencedirect.com/science/article/pii/S2212827116305820",
+author = "M. Mengoni and M. Mandolini and M. Matteucci and M. Germani",
+keywords = "Modularity",
+keywords = "Cost Estimation",
+keywords = "Knowedge-based Rules",
+keywords = "Design for Costing ",
+abstract = "Abstract Market competitiveness forces companies to explore novel methods and tools to make the overall product development (PD) agile and flexible and to reduce time to market. Accurate and fast cost estimation during design represents one of the most promising strategic actions to achieve these goals. In this context, a knowledge-based system that analyses the 3D \{CAD\} model of the product and automatically determines the manufacturing operations is developed. It consists of a scalable platform implementing "Design for Costing" paradigm. It is actually able to recognize geometric and non-geometric features from the 3D model and its attributes and calculate the final cost as the sum of raw materials, production cycles and setting operations thanks to the application of a set of knowledge-based rules mapping manufacturing processes and modeling features. While previous research works deepened the main technological issues of system development, this paper presents a practical case in ball valves industry to illustrate a structured methodology based on systematic engineering approach to apply the platform at the different stages of the product lifecycle and to verify the reliability of the implemented rules and the efficiency of the achieved process. The obtained results are compared to the traditional \{PD\} process to calculate product costs in order to highlight the main benefits. "
+}
+
+
+@article{Patrick2016816,
+title = "The Pace of Technologic Change: Implications for Digital Health Behavior Intervention Research ",
+journal = "American Journal of Preventive Medicine ",
+volume = "51",
+number = "5",
+pages = "816 - 824",
+year = "2016",
+note = "",
+issn = "0749-3797",
+doi = "http://dx.doi.org/10.1016/j.amepre.2016.05.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0749379716301386",
+author = "Kevin Patrick and Eric B. Hekler and Deborah Estrin and David C. Mohr and Heleen Riper and David Crane and Job Godino and William T. Riley",
+abstract = "This paper addresses the rapid pace of change in the technologies that support digital interventions; the complexity of the health problems they aim to address; and the adaptation of scientific methods to accommodate the volume, velocity, and variety of data and interventions possible from these technologies. Information, communication, and computing technologies are now part of every societal domain and support essentially every facet of human activity. Ubiquitous computing, a vision articulated fewer than 30 years ago, has now arrived. Simultaneously, there is a global crisis in health through the combination of lifestyle and age-related chronic disease and multiple comorbidities. Computationally intensive health behavior interventions may be one of the most powerful methods to reduce the consequences of this crisis, but new methods are needed for health research and practice, and evidence is needed to support their widespread use. The challenges are many, including a reluctance to abandon timeworn theories and models of health behavior--and health interventions more broadly--that emerged in an era of self-reported data; medical models of prevention, diagnosis, and treatment; and scientific methods grounded in sparse and expensive data. There are also many challenges inherent in demonstrating that newer approaches are, indeed, effective. Potential solutions may be found in leveraging methods of research that have been shown to be successful in other domains, particularly engineering. A more "agile science" may be needed that streamlines the methods through which elements of health interventions are shown to work or not, and to more rapidly deploy and iteratively improve those that do. There is much to do to advance the issues discussed in this paper, and the papers in this theme issue. It remains an open question whether interventions based in these new models and methods are, in fact, equally if not more efficacious as what is available currently. Economic analyses of these new approaches are needed because assumptions of net worth compared to other approaches are just that, assumptions. Human-centered design research is needed to ensure that users ultimately benefit. Finally, a translational research agenda will be needed, as the status quo will likely be resistant to change. "
+}
+

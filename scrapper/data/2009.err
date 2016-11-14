@@ -1,0 +1,277 @@
+@
+
+@article{Misra20091869,
+title = "Identifying some important success factors in adopting agile software development practices ",
+journal = "Journal of Systems and Software ",
+volume = "82",
+number = "11",
+pages = "1869 - 1890",
+year = "2009",
+note = "SI: \{TAIC\} \{PART\} 2007 and \{MUTATION\} 2007 ",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/j.jss.2009.05.052",
+url = "http://www.sciencedirect.com/science/article/pii/S016412120900123X",
+author = "Subhas Chandra Misra and Vinod Kumar and Uma Kumar",
+keywords = "Success factors",
+keywords = "Agile software ",
+abstract = "Agile software development (ASD) is an emerging approach in software engineering, initially advocated by a group of 17 software professionals who practice a set of "lightweight" methods, and share a common set of values of software development. In this paper, we advance the state-of-the-art of the research in this area by conducting a survey-based ex-post-facto study for identifying factors from the perspective of the \{ASD\} practitioners that will influence the success of projects that adopt \{ASD\} practices. In this paper, we describe a hypothetical success factors framework we developed to address our research question, the hypotheses we conjectured, the research methodology, the data analysis techniques we used to validate the hypotheses, and the results we obtained from data analysis. The study was conducted using an unprecedentedly large-scale survey-based methodology, consisting of respondents who practice \{ASD\} and who had experience practicing plan-driven software development in the past. The study indicates that nine of the 14 hypothesized factors have statistically significant relationship with "Success". The important success factors that were found are: customer satisfaction, customer collaboration, customer commitment, decision time, corporate culture, control, personal characteristics, societal culture, and training and learning. "
+}
+
+
+@article{Huang2009182,
+title = "Empirical investigation towards the effectiveness of Test First programming ",
+journal = "Information and Software Technology ",
+volume = "51",
+number = "1",
+pages = "182 - 194",
+year = "2009",
+note = "Special Section - Most Cited Articles in 2002 and Regular Research Papers ",
+issn = "0950-5849",
+doi = "http://dx.doi.org/10.1016/j.infsof.2008.03.007",
+url = "http://www.sciencedirect.com/science/article/pii/S0950584908000517",
+author = "Liang Huang and Mike Holcombe",
+keywords = "Agile methods",
+keywords = "Empirical software engineering",
+keywords = "Software testing",
+keywords = "Testing strategies",
+keywords = "Software engineering process",
+keywords = "Programming paradigms ",
+abstract = "The Test First (TF) programming, which is based on an iterative process of "setting up test cases, implementing the functionality, and having all test cases passed", has been put forward for decades, however knowledge of the evidence of the Test First programming's success is limited. This paper describes a controlled experiment that investigated the distinctions between the effectiveness of Test First and that of Test Last (TL) (the traditional approach). The experimental results showed that Test First teams spent a larger percentage of time on testing. The achievable minimum external quality of delivered software applications increased with the percentage of time spent on testing regardless of the testing strategy (TF or TL) applied, although there does not exist a linear correlation between them. With four years' data, it is also found that a strong linear correlation between the amount of effort spent on testing and coding in Test First teams, while this phenomenon was not observed in Test Last teams. "
+}
+
+
+@article{BartholdiIII20091461,
+title = "Self-Organizing Logistics Systems ",
+journal = "\{IFAC\} Proceedings Volumes ",
+volume = "42",
+number = "4",
+pages = "1461 - 1468",
+year = "2009",
+note = "13th \{IFAC\} Symposium on Information Control Problems in Manufacturing ",
+issn = "1474-6670",
+doi = "http://dx.doi.org/10.3182/20090603-3-RU-2001.0587",
+url = "http://www.sciencedirect.com/science/article/pii/S1474667016340022",
+author = "John J. Bartholdi III",
+keywords = "agile manufacturing",
+keywords = "manufacturing systems",
+keywords = "adaptive control",
+keywords = "dynamic systems ",
+abstract = "Abstract When a logistics system is "self-organizing" it can function without significant intervention by managers, engineers, or software control. The social insects, such as ants or bees, provide models of self-organizing logistics systems that may profitably be emulated. We illustrate some of these ideas for the problem of balancing assembly lines. "
+}
+
+
+@incollection{Cummins20091,
+title = "Chapter 1 - The Agile Enterprise ",
+editor = "Cummins, Fred A. ",
+booktitle = "Building the Agile Enterprise ",
+publisher = "Morgan Kaufmann",
+edition = "",
+address = "Burlington",
+year = "2009",
+pages = "1 - 26",
+series = "The MK/OMG Press",
+isbn = "978-0-12-374445-6",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374445-6.00001-7",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123744456000017",
+author = "Fred A. Cummins",
+abstract = "Publisher Summary This chapter introduces basic concepts of the agile enterprise. An agile enterprise rapidly adapts to changing business challenges and opportunities and continuously improves to optimize cost, quality, and speed of delivery. It enables top management to quickly implement new strategies and control key business parameters to gain competitive advantage. Agility resolves some common business challenges faced by many enterprises. But the agile enterprise does not fit current business models. It requires a new business paradigm--a new way of thinking about the business and new ways of planning, organizing, operating, and controlling the business. Service-oriented architecture (SOA), business process management (BPM), and \{MBM\} are important aspects of this new agile enterprise business paradigm that is enabled by the supporting technologies. These concepts and relationships are applicable across many industries. Manufacturing provides a rich diversity of business functions and challenges, and it touches on most other industries. In financial services, much of the ability to develop and deliver new products depends on information technology. Telecommunications and financial services typically have great opportunities to exploit SOA, since these companies tend to experience many unresolved mergers and acquisitions. The telecommunications business is just starting to undergo major transformation with wireless technology and convergence with cable, the Internet, and entertainment. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Cummins200927,
+title = "Chapter 2 - Service-Oriented Architecture ",
+editor = "Cummins, Fred A. ",
+booktitle = "Building the Agile Enterprise ",
+publisher = "Morgan Kaufmann",
+edition = "",
+address = "Burlington",
+year = "2009",
+pages = "27 - 73",
+series = "The MK/OMG Press",
+isbn = "978-0-12-374445-6",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374445-6.00002-9",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123744456000029",
+author = "Fred A. Cummins",
+abstract = "Publisher Summary This chapter provides a first-step approach in understanding the fundamental nature of service-oriented architecture (SOA). It also discusses other aspects of the agile enterprise and examines how they complement or support SOA. A \{SOA\} is a new business design paradigm, a fundamental aspect of the design of an agile enterprise that supports improved speed, cost, and quality. Service units are its building blocks. A \{SOA\} does not require electronic technology, but automation, integration, and modeling using electronic technologies are essential to an optimal implementation of SOA. The full implementation of \{SOA\} transforms the enterprise from top to bottom. \{SOA\} enables the sharing of business capabilities where those capabilities may be used in a variety of business contexts. \{SOA\} provides the transparency that allows a shared capability to be provided by a service unit within the enterprise or as a service of a different enterprise. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Cummins2009231,
+title = "Chapter 9 - Agile Governance ",
+editor = "Cummins, Fred A. ",
+booktitle = "Building the Agile Enterprise ",
+publisher = "Morgan Kaufmann",
+edition = "",
+address = "Burlington",
+year = "2009",
+pages = "231 - 267",
+series = "The MK/OMG Press",
+isbn = "978-0-12-374445-6",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374445-6.00009-1",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123744456000091",
+author = "Fred A. Cummins",
+abstract = "Publisher Summary This chapter describes a governance framework as a basis for governance of an agile enterprise. Alignment with the governance framework gives the board of directors and executive management improved oversight and control of the enterprise operation--and much greater assurance that the enterprise is doing the right thing and doing it well. It also empowers individual service units to optimize the value they contribute from an enterprise perspective while holding them accountable for meeting performance objectives and complying with enterprise directives and government regulations. Many factors must converge to achieve the agile enterprise level. Service-oriented architecture (SOA) provides the basic architectural pattern for defining, integrating, and managing the capabilities of the enterprise--the service units. Other factors support integration, optimization, security, accountability, and adaptation of those service units. Governance is what pulls it all together and directs the efforts to achieve enterprise agility and stockholder value. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Cummins2009127,
+title = "Chapter 5 - Enterprise Information Management ",
+editor = "Cummins, Fred A. ",
+booktitle = "Building the Agile Enterprise ",
+publisher = "Morgan Kaufmann",
+edition = "",
+address = "Burlington",
+year = "2009",
+pages = "127 - 154",
+series = "The MK/OMG Press",
+isbn = "978-0-12-374445-6",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374445-6.00005-4",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123744456000054",
+author = "Fred A. Cummins",
+abstract = "Publisher Summary This chapter focuses on the information management issues of a service-oriented, agile enterprise. It discusses their implications for enterprise information management (EIM). It is not a comprehensive discussion of \{EIM\} requirements and methodology but rather a discussion of \{EIM\} from a business perspective and a focus on the aspects of \{EIM\} that require particular attention in a service-oriented, agile enterprise. Information is the lifeblood of the enterprise. Without information there can be no coordinated activity, no record of accomplishments, no plans for the future. Management of information is a critical responsibility and becomes increasingly critical as enterprises become international and require greater agility. \{EIM\} involves the validation, transformation, storage, communication, and presentation of data to provide information to support the pursuit of enterprise objectives. Data are the raw materials typically managed by computers; information is the organized presentation of data in context that has business meaning to humans. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Cummins2009155,
+title = "Chapter 6 - \{SOA\} Security ",
+editor = "Cummins, Fred A. ",
+booktitle = "Building the Agile Enterprise ",
+publisher = "Morgan Kaufmann",
+edition = "",
+address = "Burlington",
+year = "2009",
+pages = "155 - 185",
+series = "The MK/OMG Press",
+isbn = "978-0-12-374445-6",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374445-6.00006-6",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123744456000066",
+author = "Fred A. Cummins",
+abstract = "Publisher Summary This chapter focuses on security concerns that arise or are amplified for the agile enterprise, particularly concerns raised by service-oriented architecture (SOA). It assumes that attention has already been given to such concerns as physical security, threats of intrusion from the World Wide Web, and virus protection. Its purpose is to provide an understanding of the requirements and approaches for optimizing security for services, from an enterprise perspective, so that management can plan for and commit to the necessary enterprise transformation. With the advent of the public Internet and the World Wide Web, security risks have increased dramatically. Systems are exposed to public access and email messages can carry or link to corrupting software. Automation and electronic communications have added new dimensions to security concerns. Electronic integration of services, extending beyond the walls of the enterprise, has created new security exposures. Fortunately, \{SOA\} technology and related industry standards have created new opportunities for accountability and control. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Cummins2009207,
+title = "Chapter 8 - Event-Driven Agility ",
+editor = "Cummins, Fred A. ",
+booktitle = "Building the Agile Enterprise ",
+publisher = "Morgan Kaufmann",
+edition = "",
+address = "Burlington",
+year = "2009",
+pages = "207 - 229",
+series = "The MK/OMG Press",
+isbn = "978-0-12-374445-6",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374445-6.00008-X",
+url = "http://www.sciencedirect.com/science/article/pii/B978012374445600008X",
+author = "Fred A. Cummins",
+abstract = "Publisher Summary This chapter focuses on how events drive change in the enterprise. The enterprise must recognize relevant events, analyze the threat or opportunity to determine a resolution, and implement appropriate changes to its business operations to maintain or improve its role in the ecosystem. Enterprises are not only driven by requests for services but also by events that occur both within the enterprise and in the business environment in which the enterprise functions. Not all events drive change. There are many events that occur in the normal course of business, such as receipt of a customer order, a payment became overdue, a defect was detected, a machine failed, a shift ended. However, disruptive events are those that suggest that a change has occurred in the enterprise ecosystem that impacts the ability of the enterprise to achieve optimal value now or particularly in the future. Service-oriented architecture (SOA) can make an enterprise more flexible, accountable, and efficient, but it does not necessarily make it agile. The agile enterprise must be responsive to disruptive events. At the same time, an enterprise that is responsive to disruptive events is not agile if the responses are not timely and effective. \{SOA\} enables changes to be implemented more quickly and efficiently because--capabilities are consolidated and consistent, so changes can be more easily defined and deployed, service units can change their capabilities with minimal impact on other service units, automated business processes can be more quickly changed, and the impact of changes on related products, services, and capabilities can be more easily understood and optimized from an enterprise perspective. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Cummins2009269,
+title = "Chapter 10 - Model-Based Management ",
+editor = "Cummins, Fred A. ",
+booktitle = "Building the Agile Enterprise ",
+publisher = "Morgan Kaufmann",
+edition = "",
+address = "Burlington",
+year = "2009",
+pages = "269 - 285",
+series = "The MK/OMG Press",
+isbn = "978-0-12-374445-6",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374445-6.00010-8",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123744456000108",
+author = "Fred A. Cummins",
+abstract = "Publisher Summary This chapter examines the requirements for business modeling, particularly those requirements related to business design and the agile enterprise. This is an emerging technology, so some of the capabilities are supported by modeling tools and some needs are just gaining recognition. It focuses at current modeling technology and examines some enhanced modeling capabilities that should be integrated into modeling tools in the future. It discusses tactical approaches that use currently available tools and technology. Service-oriented architecture (SOA) and business process management (BPM) provide the basis of a consistent business architecture to enable more robust models to be developed. Models are abstractions. To be valid abstractions, they must be able to make certain assumptions about the consistency of the problem space. Business models should be built to provide increasingly powerful models for managing, optimizing, and transforming the enterprise. Service units are persistent components of the business with consistent mechanisms for their interaction. An agile enterprise based on \{SOA\} and \{BPM\} preserves most of the operational units and their optimized capabilities as the business changes, even though the management hierarchy may change dramatically and new lines of business may require significantly new value chains. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Cummins200975,
+title = "Chapter 3 - Business Process Management ",
+editor = "Cummins, Fred A. ",
+booktitle = "Building the Agile Enterprise ",
+publisher = "Morgan Kaufmann",
+edition = "",
+address = "Burlington",
+year = "2009",
+pages = "75 - 108",
+series = "The MK/OMG Press",
+isbn = "978-0-12-374445-6",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374445-6.00003-0",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123744456000030",
+author = "Fred A. Cummins",
+abstract = "Publisher Summary This chapter reveals how business process management (BPM) complements and extends service-oriented architecture (SOA) to enable the definition, integration, and continuous improvement of services. \{BPM\} is a management discipline that focuses on the design of business processes and continuous improvement of the speed, cost, and quality of business operations. \{BPM\} emphasizes the documentation of repeatable business processes as the basis for analysis and improvement. This includes both manual and automated business processes. Information technology provides the ability to model business processes for more precise specifications and the ability to automate processes for controlled execution. Though not all business processes are automated, the speed, reliability, and discipline of automated processes suggest that most business processes should be automated, if possible. In particular, the processes that drive the integration and high-level execution of service unit activities should be automated to support consistent and effective operations. Consequently, though the agile enterprise includes manual business processes, our emphasis here is on the automated business processes that, for the most part, drive the operation of an agile enterprise. \{SOA\} brings a fundamental pattern to the design of business processes. Business processes do not exist independent of service units, and processes are confined to management of activities within an associated service unit. Business processes specify how service units produce value. For readers who are familiar with object-oriented programming, service units are like objects and business processes are like methods. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Wellington2009195,
+title = "Chapter 6 - Cognitive Policy Engines ",
+editor = "Fette, Bruce A. ",
+booktitle = "Cognitive Radio Technology (Second Edition) ",
+publisher = "Academic Press",
+edition = "Second Edition",
+address = "Oxford",
+year = "2009",
+pages = "195 - 222",
+isbn = "978-0-12-374535-4",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374535-4.00006-0",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123745354000060",
+author = "Robert J. Wellington",
+abstract = "Publisher Summary This chapter discusses the cognitive policy engines. It concerns the application of policy management to cognitive radio (CR) technology in general, and to spectrum management for frequency-agile radios in particular. It focuses on what lessons can be learned from prior applications of policy management to network resource problems. It reviews and leverages previous standards, research, and commercial implementations for policy engines, and applies them to the architecture and design of policy engines for CRs. The concept of automatic policy management of resources has its commercial roots in the administration of information systems and networks. Policy management refers to a particular approach for automating network management activities by specifying organizational objectives that can be interpreted and enforced by the network itself. The automatic application of management policies provides flexibility to change the configuration of network devices at runtime to satisfy administrative goals and constraints regarding security, resource allocation, application priorities, or quality of service. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Bishop200937,
+title = "Chapter 4 - Design from the top-down ",
+editor = "Bishop, Tony ",
+booktitle = "Next Generation Datacenters in Financial Services ",
+publisher = "Elsevier",
+edition = "",
+address = "Boston",
+year = "2009",
+pages = "37 - 73",
+isbn = "978-0-12-374956-7",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374956-7.00004-8",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123749567000048",
+author = "Tony Bishop",
+abstract = "Publisher Summary The traditional bottom-up datacenter model, complete with generic resources organized into silos of operations to meet business needs, results in missed business opportunities and is at the root of datacenter sprawl. A top-down model oriented around the business value chain that defines business demand in real time and drives the dynamic allocation of virtual resources from tailored fit-for-purpose physical resources leads to an effective business solution and resource efficient Next Generation Datacenter (NGDC). Becoming top-down business-demand focused requires a more nimble infrastructure design and a radically different management model. The primary goal of a top-down design is to be responsive to real-time business events. \{RTI\} design requires a significant understanding of the needs of the environment. The introduction of Fit-for-Purpose \{RTI\} as an approach for \{IT\} to become more agile is not just about buying particular sets of technology. The Next Generation Datacenter reference architecture is used to guide the design and construction approaches necessary to build the NGDC. Finally, this chapter discusses a set of guiding design principles organized around efficient, high performance, and control. "
+}
+
+Cannot read property 'join' of undefined
+@article{Turgay2009470,
+title = "Agent-based \{FMS\} control ",
+journal = "Robotics and Computer-Integrated Manufacturing ",
+volume = "25",
+number = "2",
+pages = "470 - 480",
+year = "2009",
+note = "",
+issn = "0736-5845",
+doi = "http://dx.doi.org/10.1016/j.rcim.2008.02.011",
+url = "http://www.sciencedirect.com/science/article/pii/S0736584508000264",
+author = "Safiye Turgay",
+keywords = "Flexible manufacturing systems",
+keywords = "Multi-agent systems",
+keywords = "Object-oriented design",
+keywords = "Timed placed Petri net ",
+abstract = "Future manufacturing systems will be integrated into the networks of distributed resources, and at the same time, such systems will be capable of processing both knowledge and material. It will probably be required that manufacturing systems be agile, flexible, and fault-tolerant. Petri nets (PN) and object-oriented design (OOD) are used together in order to develop the integrated agent-based \{FMS\} control system. The flexible manufacturing system (FMS) consists of machines, workstations, and automated material handling system, distributed buffer storage sites and computer-based supervisory control, all which can be modeled as an agent in \{OOD\} with PN. This paper introduces the design of an agent-based \{FMS\} control system through \{PNs\} and evaluates the performance using timed placed Petri nets (TPPN). In order to do so, the agent control design, \{FMS\} structure has been evaluated in detail and the agent definitions have been submitted. The system includes the sharing and distribution of tasks among agents and the mentioned structure has been simulated by TPPN. The simulation procedure has been realized through Petri Net 2.0--MATLAB Demo Program [Mahulea CF, Motcovschi MH, Pastravanu O. Department of Automatic Control Industrial Informatics, Technical University "Gh. Asachi" of Iasi, Blvd., Mangeron 53A, 6600 Iasi, Romania, <http://www.ac.tuiasi.ro/pntool,pntool
+
+@ac.tuiasi.ro> , 2004.]. Each case is modeled, and then the agent's machine processing time is considered in this program. As for the evaluation of the study, the system performance is assessed through the waiting time of the parts in queue and the task distributions. "
+}
+
+
+@article{Tchouakeu2009495,
+title = "Creating Agile Business Systems with Reusable Knowledge, Amit Mitra, Amar Gupta. Cambridge University Press (2007). $110, Hardback, ISBN: 13 978-0-521-85163-3 ",
+journal = "Information Processing & Management ",
+volume = "45",
+number = "4",
+pages = "495 - 496",
+year = "2009",
+note = "",
+issn = "0306-4573",
+doi = "http://dx.doi.org/10.1016/j.ipm.2009.01.002",
+url = "http://www.sciencedirect.com/science/article/pii/S0306457309000041",
+author = "Louis-Marie Ngamassi Tchouakeu"
+}
+
+Cannot read property 'join' of undefined

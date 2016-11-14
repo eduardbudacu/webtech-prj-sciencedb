@@ -1,0 +1,73 @@
+@
+
+@article{deVries200711,
+title = "Software Testing for security ",
+journal = "Network Security ",
+volume = "2007",
+number = "3",
+pages = "11 - 15",
+year = "2007",
+note = "",
+issn = "1353-4858",
+doi = "http://dx.doi.org/10.1016/S1353-4858(07)70027-2",
+url = "http://www.sciencedirect.com/science/article/pii/S1353485807700272",
+author = "Stephen de Vries",
+abstract = "Software testing in the form of unit, integration and acceptance tests are key phases of many development methodologies and particularly favoured by agile development1 proponents. These tests serve to prevent regressions, assist refactoring and of course prove that the software meets the functional requirements. Software tests provide a natural, but often overlooked, opportunity for integrating security early on in the software development lifecycle (SDLC) where identified vulnerabilities can be corrected while development is still ongoing. "
+}
+
+Cannot read property 'join' of undefined
+@article{Yauch200719,
+title = "Team-based work and work system balance in the context of agile manufacturing ",
+journal = "Applied Ergonomics ",
+volume = "38",
+number = "1",
+pages = "19 - 27",
+year = "2007",
+note = "",
+issn = "0003-6870",
+doi = "http://dx.doi.org/10.1016/j.apergo.2006.02.002",
+url = "http://www.sciencedirect.com/science/article/pii/S0003687006000263",
+author = "Charlene A. Yauch",
+keywords = "Teams",
+keywords = "Agile manufacturing",
+keywords = "Balance theory ",
+abstract = "Manufacturing agility is the ability to prosper in an environment characterized by constant and unpredictable change. The purpose of this paper is to analyze team attributes necessary to facilitate agile manufacturing, and using Balance Theory as a framework, it evaluates the potential positive and negative impacts related to these team attributes that could alter the balance of work system elements and resulting "stress load" experienced by persons working on agile teams. Teams operating within the context of agile manufacturing are characterized as multifunctional, dynamic, cooperative, and virtual. A review of the literature relevant to each of these attributes is provided, as well as suggestions for future research. "
+}
+
+
+@article{Barata2007116,
+title = "A \{MULTIAGENT\} \{BASED\} \{CONTROL\} \{SYSTEM\} \{FOR\} \{AN\} \{ASSEMBLY\} \{CELL\} ",
+journal = "\{IFAC\} Proceedings Volumes ",
+volume = "40",
+number = "3",
+pages = "116 - 121",
+year = "2007",
+note = "8th \{IFAC\} Workshop on Intelligent Manufacturing Systems ",
+issn = "1474-6670",
+doi = "http://dx.doi.org/10.3182/20070523-3-ES-4908.00020",
+url = "http://www.sciencedirect.com/science/article/pii/S1474667015403362",
+author = "Jose Barata and Goncalo Candido and Armando Colombo",
+abstract = "Abstract The main goal of this paper is to describe a multiagent based control architecture applied to a complex assembly cell in order to prove that the multiagent paradigm is a good alternative to develop agile control systems. By implementing the architecture we want to prove that it can be used for adequately solve requirements of: modularity, promote configuration rather than reprogramming, support various products simultaneously, and legacy controllers integration. "
+}
+
+Cannot read property 'join' of undefined
+@article{Clark2007253,
+title = "Sustainable development in practice ",
+journal = "Journal of Cleaner Production ",
+volume = "15",
+number = "3",
+pages = "253 - 258",
+year = "2007",
+note = "Sustainable Development in Practice ",
+issn = "0959-6526",
+doi = "http://dx.doi.org/10.1016/j.jclepro.2006.02.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0959652606000874",
+author = "Woodrow Clark and Henrik Lund",
+keywords = "Sustainable development",
+keywords = "Economics",
+keywords = "Environment",
+keywords = "Energy",
+keywords = "Entrepreneurship ",
+abstract = "The semi-annual European Environment Sustainable Conference in Aalborg, Denmark brought together from primarily Europe, but also other parts of the world. The Conference focused on sustainability but one panel focused on practical applications for public policy and private industry. The papers from this panel are presented in this special issue of the journal. They cover topics ranging from corporate sustainable programs to government plans including "feed in laws". Some papers are more academic oriented but clearly derived from practical political experiences such as those of the California energy crisis. These theories argue the need for "agile energy systems" whereby regions, cities and communities must have combinations of on-site or distributed energy generation like combined heat and power (CPH) along with central grid power generation. Finally, there is a clear message in all the papers that "market forces" alone do not develop, monitor or even provide "level playing fields" for communities. In short, there needs to be continuous "government" or public involvement in the sustainable communities. "
+}
+

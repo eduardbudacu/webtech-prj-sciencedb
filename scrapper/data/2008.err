@@ -1,0 +1,271 @@
+@
+
+@article{Bauml20085,
+title = "When hard realtime matters: Software for complex mechatronic systems ",
+journal = "Robotics and Autonomous Systems ",
+volume = "56",
+number = "1",
+pages = "5 - 13",
+year = "2008",
+note = "Human Technologies: "Know-how" ",
+issn = "0921-8890",
+doi = "http://dx.doi.org/10.1016/j.robot.2007.09.017",
+url = "http://www.sciencedirect.com/science/article/pii/S0921889007001406",
+author = "Berthold Bauml and Gerd Hirzinger",
+keywords = "Software concept",
+keywords = "Hard realtime",
+keywords = "Mechatronic system",
+keywords = "Distributed computing",
+keywords = "Component-based software engineering ",
+abstract = "A still growing number of software concepts and frameworks have been proposed to meet the challenges in the development of more and more complex robotic systems, like humanoids or networked robotics. The issue of hard realtime, however, has not been the main focus of such concepts, but is essential for building and controlling mechatronic systems. Here we discuss the specific demands of complex mechatronic systems and present a software concept, the "agile Robot Development" (aRD) concept, which we developed at our institute to pragmatically address these demands. We show that the performance of current computing and communication hardware allows for a flexible component-based concept with distributed execution, even in hard realtime with rates in the kHz range. "
+}
+
+
+@article{Qumer2008280,
+title = "An evaluation of the degree of agility in six agile methods and its applicability for method engineering ",
+journal = "Information and Software Technology ",
+volume = "50",
+number = "4",
+pages = "280 - 295",
+year = "2008",
+note = "",
+issn = "0950-5849",
+doi = "http://dx.doi.org/10.1016/j.infsof.2007.02.002",
+url = "http://www.sciencedirect.com/science/article/pii/S0950584907000067",
+author = "A. Qumer and B. Henderson-Sellers",
+keywords = "Agile methods",
+keywords = "Method engineering",
+keywords = "Software engineering",
+keywords = "Methodology ",
+abstract = "While agile methods are in use in industry, little research has been undertaken into what is meant by agility and how a supposed agile method can be evaluated with regard to its veracity to belong to this category of software development methodological approaches. Here, an analytical framework, called 4-DAT, is developed and applied to six well-known agile methods and, for comparison, two traditional methods. The results indicate the degree of agility to be found in each method, from which a judgement can be made as to whether the appellation of "agile" to that method is appropriate. This information is shown to be useful, for example, when constructing a methodology from method fragments (method engineering) and when comparing agile and traditional methods. "
+}
+
+
+@article{GonzalezPerez20081288,
+title = "A work product pool approach to methodology specification and enactment ",
+journal = "Journal of Systems and Software ",
+volume = "81",
+number = "8",
+pages = "1288 - 1305",
+year = "2008",
+note = "",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/j.jss.2007.10.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121207002439",
+author = "Cesar Gonzalez-Perez and Brian Henderson-Sellers",
+keywords = "Software development methodologies",
+keywords = "Enactment",
+keywords = "Metamodelling",
+keywords = "ISO/IEC 24744 ",
+abstract = "Software development methodologies advocated and used today, whether traditional and plan-based or contemporary and agile, usually focus on process steps i.e. they start with requirements and iteratively describe what steps are necessary to move to the next stage or phase, until the software application is delivered to the end user. Such a process-oriented view of methodologies, based on the metaphor that human organizations are "machines" that "execute" processes, often results in methodologies that are too rigid and hard to follow, and most often than not end up being ignored or bypassed. Our proposal here is that, since the ultimate aim of software development is to provide a software product, software development methodologies should be described in terms of the intermediate products that are necessary to reach such a final product, plus the needed micro-processes that, as necessary evils, will be required to produce the appropriate work products from other, previously created ones. Using this product-oriented approach, software development methodologies can be specified that are, at least, as flexible as lightweight, agile approaches and, at the same time, as powerful and scalable as plan-oriented ones. "
+}
+
+
+@incollection{Rico20081,
+title = "History of Computers, Electronic Commerce and Agile Methods ",
+editor = "Marvin V. Zelkowitz",
+booktitle = "Advances in COMPUTERSEmerging Technologies",
+publisher = "Elsevier",
+year = "2008",
+volume = "73",
+pages = "1 - 55",
+series = "Advances in Computers ",
+issn = "0065-2458",
+doi = "http://dx.doi.org/10.1016/S0065-2458(08)00401-4",
+url = "http://www.sciencedirect.com/science/article/pii/S0065245808004014",
+author = "David F. Rico and Hasan H. Sayani and Ralph F. Field",
+abstract = "Abstract The purpose of this chapter is to present a literature review relevant to a study of using agile methods to manage the development of Internet websites and their subsequent quality. This chapter places website quality within the context of the $2.4 trillion U.S. electronic commerce industry. Thus, this chapter provides a history of electronic computers, electronic commerce, software methods, software quality metrics, agile methods and studies on agile methods. None of these histories are without controversy. For instance, some scholars begin the study of the electronic computer by mentioning the emergence of the Sumerian text, Hammurabi code or the abacus. We, however, will align our history with the emergence of the modern electronic computer at the beginning of World War II. The history of electronic commerce also has poorly defined beginnings. Some studies of electronic commerce begin with the widespread use of the Internet in the early 1990s. However, electronic commerce cannot be appreciated without establishing a deeper context. Few scholarly studies, if any, have been performed on agile methods, which is the basic purpose of this literature review. That is, to establish the context to conduct scholarly research within the fields of agile methods and electronic commerce. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Kumiega2008175,
+title = "19 - \{STAGE\} 3: Overview ",
+editor = "Kumiega, Andrew and ,  and Vliet, Benjamin Van ",
+booktitle = "Quality Money Management ",
+publisher = "Academic Press",
+edition = "",
+address = "Burlington",
+year = "2008",
+pages = "175 - 182",
+series = "Financial Market Technology",
+isbn = "978-0-12-372549-3",
+doi = "http://dx.doi.org/10.1016/B978-0-12-372549-3.00019-7",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123725493000197",
+author = "Andrew Kumiega and Benjamin Van Vliet",
+abstract = "Publisher Summary This chapter presents an overview of the Stage 3 of the development of trading and investment systems. This stage accomplishes the transformation task, turning the specifications of the trading/investment system into software and hardware, where the design of the trading system from previous stages becomes the specification requirements for the software design. At this stage, the task of building software and hardware components of the trading/investment system include a development team in addition to the product team. The lead programmer/IT member of the product team manages this somewhat agile development team, which will engage in test-driven development. The financial engineers from the product team over the course of Stage 3 manage software quality assurance of business tier software. The traders from the product team perform and/or oversee quality assurance over GUI, integration, and reporting mechanisms, as well as run user-acceptance tests. The marketing person from the product team writes or oversees the writing of the user documentation for the software. Addition of a risk manager, who will learn the specifics of the trading/investment system and be able to recommend how best to build out the risk management functions and reporting requirements, is also recommended. A development team develops software iteratively, and this iterative development dramatically increases feedback versus sequential development, providing closer communication between the product team and the development team. "
+}
+
+Cannot read property 'join' of undefined
+@article{Bordoloi2008346,
+title = "Design for control: A new perspective on process and product innovation ",
+journal = "International Journal of Production Economics ",
+volume = "113",
+number = "1",
+pages = "346 - 358",
+year = "2008",
+note = "Research and Applications in E-Commerce and Third-Party Logistics ManagementSpecial Section on Meta-standards in Operations Management: Cross-disciplinary perspectives ",
+issn = "0925-5273",
+doi = "http://dx.doi.org/10.1016/j.ijpe.2007.02.043",
+url = "http://www.sciencedirect.com/science/article/pii/S0925527307002939",
+author = "Sanjeev Bordoloi and Hector H. Guerrero",
+keywords = "Design for control",
+keywords = "Controllability",
+keywords = "Design for manufacture",
+keywords = "Design for assembly",
+keywords = "Product and process design ",
+abstract = "Product and process design have been examined from a multitude of perspectives: engineering, manufacturing, marketing, industrial design, as well as the integration of some or all of these perspectives. In turn, each perspective has led to approaches that are commonly known--design for manufacture (DFM), agile enterprise, concurrent engineering, value engineering, design for assembly (DFA), product data management (PDM), product life-cycle management (PLM), and many others. We propose a new perspective--design for control (DFC). \{DFC\} focuses on the carefully considered integration of new (or redesigned) parts/products into the control system structures that are used to plan and control the manufacture and assembly of products. We offer a formalization of \{DFC\} and the concept of "controllability" that facilitates development and maintenance of more efficient control systems. "
+}
+
+
+@article{Sugihara200882,
+title = "Hardware design of high performance miniature anthropomorphic robots ",
+journal = "Robotics and Autonomous Systems ",
+volume = "56",
+number = "1",
+pages = "82 - 94",
+year = "2008",
+note = "Human Technologies: "Know-how" ",
+issn = "0921-8890",
+doi = "http://dx.doi.org/10.1016/j.robot.2007.09.012",
+url = "http://www.sciencedirect.com/science/article/pii/S092188900700139X",
+author = "Tomomichi Sugihara and Kou Yamamoto and Yoshihiko Nakamura",
+keywords = "Miniature anthropomorphic robot",
+keywords = "Mechanical design",
+keywords = "System design ",
+abstract = "Technical issues in designing reliable high-performance miniature humanoid robots are discussed. Although the light-weight and small-size body of such a humanoid robot facilitates safer and smoother experiments of agile motions involving large accelerations and impacts, building a complex humanoid system in a small body is still a challenging problem. Simultaneous requirements for wider motion ranges, higher rigidity, less fragile electric devices and circuits, and less sensitive electric wiring should be satisfied in a limited space. In order to meet them by overcoming the difficulties, we propose to mechanically modularize joint structures, and to equip a centralized electric control unit involving \{PC\} boards, sensing devices, signal-processors, communication boards, and power amplifiers. The developments of the mechanical modules and the centralized unit are made for two miniature humanoid robots. "
+}
+
+
+@incollection{BenYoo2008641,
+title = "16 - Optical burst and packet switching ",
+editor = "Kaminow, Ivan P. and , and Li, Tingye and ,  and Willner, Alan E. ",
+booktitle = "Optical Fiber Telecommunications V B (Fifth Edition) ",
+publisher = "Academic Press",
+edition = "Fifth Edition",
+address = "Burlington",
+year = "2008",
+pages = "641 - 693",
+series = "Optics and Photonics",
+issn = "15575837",
+doi = "http://dx.doi.org/10.1016/B978-0-12-374172-1.00016-3",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123741721000163",
+author = "S.J. Ben Yoo",
+abstract = "Publisher Summary This chapter discusses optical burst switching (OBS) and optical packet switching (OPS) technologies and examines their roles in future optical networks, covering the roles of optical circuit, burst, and packet switching systems in optical networks, as well as their respective benefits and trade-offs. \{OPS\} and \{OBS\} technologies seek powerful combinations of the vast optical bandwidth and the agile subwavelength granularity by switching and routing packets and bursts directly in the optical layer. \{OBS\} offers best-effort burst transport and switching with one-way signaling so that high network utilization for bursty traffic can be achieved. \{OPS\} requires fast switching speeds (in the nanosecond range) to be effective. Recent advances in optical header (label) processing and optical switching led to asynchronous and variable-length \{OPS\} with contention resolution in wavelength, time, and space domains at nanosecond switching speeds. Unlike electronic packet switching routers, optical routers can exploit the wavelength domain to greatly reduce the buffer requirement and to discard store-and-buffer architecture involving packet processing in the data plane. A description is given of the networking architecture/protocols, systems, and technologies pertaining to optical burst and packet switching. Optical label switching technology is introduced, which provides a unified platform for interoperating optical circuit, burst, and packet switching techniques. In addition to the reduced complexity and power requirements in optical label switching (OLS) routers resulting from significantly reduced high-speed electronic processing in the data plane, further advances in integrated optoelectronic technologies may eventually allow chip-scale integration of \{OLS\} routers for the agile, robust, and high-performance Internet in the future. "
+}
+
+Cannot read property 'join' of undefined
+@incollection{Kumiega200829,
+title = "3 - Overview of the Trading/Investment System Development Methodology ",
+editor = "Kumiega, Andrew and ,  and Vliet, Benjamin Van ",
+booktitle = "Quality Money Management ",
+publisher = "Academic Press",
+edition = "",
+address = "Burlington",
+year = "2008",
+pages = "29 - 44",
+series = "Financial Market Technology",
+isbn = "978-0-12-372549-3",
+doi = "http://dx.doi.org/10.1016/B978-0-12-372549-3.00003-3",
+url = "http://www.sciencedirect.com/science/article/pii/B9780123725493000033",
+author = "Andrew Kumiega and Benjamin Van Vliet",
+abstract = "Publisher Summary This chapter presents an incremental development methodology of trading and investment system, which would ensure a rapid development cycle with quick deliverables and consistent quality standards. However, before the beginning of development methodology, the product team has to raise money to fund the development and to raise money, a product team needs a Money Document. Trading and money management is a business and in order to succeed, product teams need to raise research and development capital as well as trading capital, from either inside the firm or outside it. A well-done Money Document serves as a Vision and Scope Document by outlining the business goals of a proposed trading/investment system in a clear and concise fashion in order to persuade management or outside investors to provide the initial capital needed for research and subsequently for development of a trading/investment system according to the four-stage methodology. The resources allocated to a project, subsequent to the delivery of a Money Document and management approval, enables the process of development methodology. The methodology combines the various aspects of well-known methodologies such as the traditional waterfall of Royce and spiral methodology of Boehm from software, the Stage-Gate (r) methodology of Cooper from new product development, and Lean, Six Sigma, and Agile development. The Royce's traditional waterfall methodology for software development consists of four stages that include analysis, design, implementation, and testing that vaguely map to the four stages of the methodology. By using the waterfall methodology, the teams avoid the pitfalls of creating systems before project plans are precisely defined and approved. In the spiral methodology, a smaller amount of time is initially devoted to the four stages that include research, planning, implementation, and testing, which are followed by several iterations or loops over each. "
+}
+
+Cannot read property 'join' of undefined
+@article{Pesonen20081091,
+title = "Dynamic simulation of product process ",
+journal = "Simulation Modelling Practice and Theory ",
+volume = "16",
+number = "8",
+pages = "1091 - 1102",
+year = "2008",
+note = "\{EUROSIM\} 2007 ",
+issn = "1569-190X",
+doi = "http://dx.doi.org/10.1016/j.simpat.2008.04.002",
+url = "http://www.sciencedirect.com/science/article/pii/S1569190X08000701",
+author = "Lasse T.T. Pesonen and Simo J. Salminen and Jean-Peter Ylen and Pasi Riihimaki",
+keywords = "System dynamics",
+keywords = "Management simulators",
+keywords = "Decision making",
+keywords = "Training",
+keywords = "Computer games ",
+abstract = "During 90's Nokia utilized Concurrent Engineering (CE) process in mobile phone business successfully. Strong growing of the company, more complex technologies, maturing markets and changes in competition has increased the need to develop the product process of the company to keep its position as an agile, innovative and productive product developer. Dynamic simulation approach has been one of the activities among other product process re-engineering efforts in the company. This paper describes the approach and "Product Process Decision Simulation" (PPDS) solution as the first implemented application of the approach. A dynamic model of product development has been created and applied to manage product process complex dynamic behavior on system level in order to reduce product development cycle times, slippages and costs as well as improve perceived product quality. The key contribution of the simulation solution is to provoke facilitated discussion in order to gain shared understanding of interdependencies and dynamic causes and effects in product process. The implementation and frequent simulation workshops have started in June 2006 and about 500 R&amp;D people have already participated. "
+}
+
+
+@article{Forget2008664,
+title = "Multi-behavior agent model for planning in supply chains: An application to the lumber industry ",
+journal = "Robotics and Computer-Integrated Manufacturing ",
+volume = "24",
+number = "5",
+pages = "664 - 679",
+year = "2008",
+note = "\{BASYS\} '06: Balanced Automation Systems7th \{IFIP\} International Conference on Information Technology for Balanced Automation Systems in Manufacturing and Services ",
+issn = "0736-5845",
+doi = "http://dx.doi.org/10.1016/j.rcim.2007.09.004",
+url = "http://www.sciencedirect.com/science/article/pii/S0736584507001172",
+author = "Pascal Forget and Sophie D'Amours and Jean-Marc Frayret",
+keywords = "Supply chain management",
+keywords = "Agent model",
+keywords = "Agent-based planning systems",
+keywords = "Advanced planning system",
+keywords = "Lumber industry ",
+abstract = "Recent economic and international threats to western industries have encouraged companies to increase their performance in all ways possible. Many look to deal quickly with disturbances, reduce inventory, and exchange information promptly throughout the supply chain. In other words they want to become more agile. To reach this objective it is critical for planning systems to present planning strategies adapted to the different contexts, to attain better performances. Due to consolidation, the development of integrated supply chains and the use of inter-organizational information systems have increased business interdependencies and in turn the need for increased collaboration to deal with disturbance in a synchronized way. Thus, agility and synchronization in supply chains are critical to maintain overall performance. In order to develop tools to increase the agility of the supply chain and to promote the collaborative management of such disturbances, agent-based technology takes advantage of the ability of agents to make autonomous decisions in a distributed network through the use of advanced collaboration mechanisms. Moreover, because of the highly instable and dynamic environment of today's supply chains, planning agents must handle multiple problem solving approaches. This paper proposes a Multi-behavior planning agent model using different planning strategies when decisions are supported by a distributed planning system. The implementation of this solution is realized through the FOR
+
+@C experimental agent-based platform, dedicated to supply chain planning for the lumber industry. "
+}
+
+
+@article{Neumann200813964,
+title = "Architectural Concept of Virtual Automation Networks ",
+journal = "\{IFAC\} Proceedings Volumes ",
+volume = "41",
+number = "2",
+pages = "13964 - 13969",
+year = "2008",
+note = "17th \{IFAC\} World Congress ",
+issn = "1474-6670",
+doi = "http://dx.doi.org/10.3182/20080706-5-KR-1001.02364",
+url = "http://www.sciencedirect.com/science/article/pii/S1474667016412292",
+author = "Peter Neumann and Axel Poeschmann and Ralf Messerschmidt",
+keywords = "Industrial Communications",
+keywords = "Distributed Control Systems",
+keywords = "Heterogeneous Networks ",
+abstract = "Abstract Twenty years ago, fieldbus systems have been developed for the factory floor and are widely introduced in industrial automation installations in the meantime. In the nineties Ethernet-based technologies have been successfully introduced to office automation followed by the usage of Internet-based applications. Today industrial automation is getting penetrated by the same \{IT\} technologies used in office automation. Nevertheless, the factory floor, respectively automation science and practice, has special requirements that clearly differ from IT-world requirements; this especially concerns safety, security, real-time, wireless and public network integration aspects. Thus - to make information technologies applicable in all fields of production industries - these technologies have to be adopted, extended or even modified. This significant challenge is extensively tackled by the European Integrated Project "Virtual Automation Networks". The exchange of the industrial automation network base towards \{IT\} technologies also offers the unique change to build an open network platform providing easy integration and extendibility capabilities. This paper presents the open system architecture and first implementation steps for realizing a Virtual Automation Network. The concepts aimed at are characterized by modularity and intelligence, thus, enabling flexibility and re-configurability focusing on future knowledge-based and agile manufacturing enterprises. "
+}
+
+
+@article{tagkey2008vii,
+title = "Agile Product Line Engineering - List of reviewers ",
+journal = "Journal of Systems and Software ",
+volume = "81",
+number = "6",
+pages = "vii - ",
+year = "2008",
+note = "Agile Product Line Engineering ",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/S0164-1212(08)00080-0",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121208000800",
+key = "tagkey2008vii"
+}
+
+Cannot read property 'join' of undefined
+@article{ClarkII2008262,
+title = "Agile sustainable communities: On-site renewable energy generation ",
+journal = "Utilities Policy ",
+volume = "16",
+number = "4",
+pages = "262 - 274",
+year = "2008",
+note = "European Regulatory Perspectives ",
+issn = "0957-1787",
+doi = "http://dx.doi.org/10.1016/j.jup.2008.01.009",
+url = "http://www.sciencedirect.com/science/article/pii/S0957178708000118",
+author = "Woodrow W. Clark II and Larry Eisenberg",
+keywords = "Sustainable development",
+keywords = "Green",
+keywords = "Environment and campus energy infrastructures and smart growth ",
+abstract = "Smart and sustainable campuses demand three components. First, there is the need to have a Strategic Master Plan (SMP) for all infrastructures that include energy, transportation, water, waste and telecommunications along with the traditional dimensions of research, curricula, outreach and assessments. Secondarily, there is the array of issues pertaining to the sitting of buildings and overall facility master planning which must be addressed from the perspective of "green" energy, efficient orientation and be designed for multiple-use by the academic and local community. Thirdly, the development of sustainable buildings in one area that is compact and walkable campuses thus enable a range of transportation choices leads to reduced energy consumption. Historically, college campuses were often like towns and villages in that they are self-sustaining for family, business and recreational activities. Any sustainable smart campus is a vibrant, "experiential" applied educational model that should catalyze creative learning. More significantly, today, campuses and communities must be secure in terms of not only their own energy use and needs, but also for the resource demands of their power. Otherwise, the community(s) will never be secure economically or politically. Recognizing global warming and climate change, in the spring of 2001, the Board of Trustee (BOT) for the Los Angeles Community College District (LACCD) took the critical initial policy steps to turn these sustainable developments into goals. For example, the \{LACCD\} decided to have new "green" buildings to replace or renovate existing ones. The building program led to sustainable communities that included recycling, product reuse from waste as well as smart growth in terms of reduced energy use, efficiency and the use of telecommunication and wireless systems. The paper focuses primarily on the energy programs for the \{LACCD\} campuses. The paper considers the overall energy situation in California and the Southern California region, primarily Los Angeles. Then the paper looks at the state and regional energy contexts which lay the ground work and rationale why \{LACCD\} and other communities must act on their own to counteract climate change and global warming. Finally, the paper discusses how a community becomes sustainable, and hence "energy independent". By doing so, any community can generate its own energy through the production or acquisition of its energy from renewable sources such as solar, wind or biomass among other local resources. Even more significant consequences come in terms of carbon control, lower impact on the environment and reduced global warming. "
+}
+
+

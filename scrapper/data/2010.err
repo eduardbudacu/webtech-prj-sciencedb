@@ -1,0 +1,174 @@
+@
+
+@article{Pino20101662,
+title = "Using Scrum to guide the execution of software process improvement in small organizations ",
+journal = "Journal of Systems and Software ",
+volume = "83",
+number = "10",
+pages = "1662 - 1677",
+year = "2010",
+note = "",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/j.jss.2010.03.077",
+url = "http://www.sciencedirect.com/science/article/pii/S016412121000138X",
+author = "Francisco J. Pino and Oscar Pedreira and Felix Garcia and Miguel Rodriguez Luaces and Mario Piattini",
+keywords = "Software process improvement",
+keywords = "Small software companies",
+keywords = "Model to guide improvements",
+keywords = "Agile methods",
+keywords = "Scrum",
+keywords = "SPI ",
+abstract = "For software process improvement - \{SPI\} - there are few small organizations using models that guide the management and deployment of their improvement initiatives. This is largely because a lot of these models do not consider the special characteristics of small businesses, nor the appropriate strategies for deploying an \{SPI\} initiative in this type of organization. It should also be noted that the models which direct improvement implementation for small settings do not present an explicit process with which to organize and guide the internal work of the employees involved in the implementation of the improvement opportunities. In this paper we propose a lightweight process, which takes into account appropriate strategies for this type of organization. Our proposal, known as a "Lightweight process to incorporate improvements", uses the philosophy of the Scrum agile method, aiming to give detailed guidelines for supporting the management and performance of the incorporation of improvement opportunities within processes and their putting into practice in small companies. We have applied the proposed process in two small companies by means of the case study research method, and from the initial results, we have observed that it is indeed suitable for small businesses. "
+}
+
+
+@incollection{Williams20101,
+title = "Agile Software Development Methodologies and Practices ",
+editor = "Marvin V. Zelkowitz",
+booktitle = "Advances in Computers",
+publisher = "Elsevier",
+year = "2010",
+volume = "80",
+pages = "1 - 44",
+series = "Advances in Computers ",
+issn = "0065-2458",
+doi = "http://dx.doi.org/10.1016/S0065-2458(10)80001-4",
+url = "http://www.sciencedirect.com/science/article/pii/S0065245810800014",
+author = "Laurie Williams",
+abstract = "Beginning in the mid-1990s, a number of consultants independently created and evolved what later came to be known as agile software development methodologies. Agile methodologies and practices emerged as an attempt to more formally and explicitly embrace higher rates of change in software requirements and customer expectations. Some prominent agile methodologies are Adaptive Software Development, Crystal, Dynamic Systems Development Method, Extreme Programming (XP), Feature-Driven Development (FDD), Pragmatic Programming, and Scrum. This chapter presents the principles that underlie and unite the agile methodologies. Then, 32 practices used in agile methodologies are presented. Finally, three agile methodologies (XP, FDD, and Scrum) are explained. Most often, software development teams select a subset of the agile practices and create their own hybrid software development methodology rather than strictly adhere to all the practices of a predefined agile methodology. Teams that use primarily agile practices are most often small- to medium-sized, colocated teams working on less complex projects. "
+}
+
+Cannot read property 'join' of undefined
+@article{BartholdiIII2010111,
+title = "Self-organizing logistics systems ",
+journal = "Annual Reviews in Control ",
+volume = "34",
+number = "1",
+pages = "111 - 117",
+year = "2010",
+note = "",
+issn = "1367-5788",
+doi = "http://dx.doi.org/10.1016/j.arcontrol.2010.02.006",
+url = "http://www.sciencedirect.com/science/article/pii/S136757881000012X",
+author = "John J. Bartholdi III and Donald D. Eisenstein and Yun Fong Lim",
+keywords = "Agile manufacturing",
+keywords = "Manufacturing systems",
+keywords = "Adaptive control",
+keywords = "Dynamic systems ",
+abstract = "When a logistics system is "self-organizing" it can function without significant intervention by managers, engineers, or software control. The social insects, such as ants or bees, provide models of self-organizing logistics systems that may be profitably emulated. We illustrate some of these ideas for the problem of balancing assembly lines. "
+}
+
+
+@incollection{Zelkowitz2010xv,
+title = "Preface ",
+editor = "Marvin V. Zelkowitz",
+booktitle = "Advances in Computers",
+publisher = "Elsevier",
+year = "2010",
+volume = "80",
+pages = "xv - xvii",
+series = "Advances in Computers ",
+issn = "0065-2458",
+doi = "http://dx.doi.org/10.1016/S0065-2458(10)80009-9",
+url = "http://www.sciencedirect.com/science/article/pii/S0065245810800099",
+author = "Marvin Zelkowitz",
+abstract = "Publisher Summary This section provides the preface of Volume 80 of the book Advances in Computers. This volume contains five to seven chapters, each exploring some new facet of the ever-changing field of computers. Several topics such as "agile development," "agile software development methodologies and practices," "Parameters Effecting 2-D Barcode Scanning Reliability," and others are also discussed in the book. "
+}
+
+
+@incollection{tagkey2010299,
+title = "Subject Index ",
+editor = "Marvin V. Zelkowitz",
+booktitle = "Advances in Computers",
+publisher = "Elsevier",
+year = "2010",
+volume = "80",
+pages = "299 - 306",
+series = "Advances in Computers ",
+issn = "0065-2458",
+doi = "http://dx.doi.org/10.1016/S0065-2458(10)80016-6",
+url = "http://www.sciencedirect.com/science/article/pii/S0065245810800166",
+key = "tagkey2010299",
+abstract = "Publisher Summary This section lists the important subjects that are discussed in Volume 80 of the book Advances in Computers, such as acceptance test-driven development, activity diagrams, agile and lean principles, comparison, and others. The terms are mentioned along with the page numbers where they are discussed in the book, for the ease of the reader. "
+}
+
+Cannot read property 'join' of undefined
+@article{DeLeenheer2010760,
+title = "Business semantics management: A case study for competency-centric \{HRM\} ",
+journal = "Computers in Industry ",
+volume = "61",
+number = "8",
+pages = "760 - 775",
+year = "2010",
+note = "Semantic Web Computing in Industry ",
+issn = "0166-3615",
+doi = "http://dx.doi.org/10.1016/j.compind.2010.05.005",
+url = "http://www.sciencedirect.com/science/article/pii/S0166361510000540",
+author = "P. De Leenheer and S. Christiaens and R. Meersman",
+keywords = "Semantic interoperability",
+keywords = "Business semantics",
+keywords = "Methodology",
+keywords = "Competency-centric human resources management ",
+abstract = "In this article we introduce a novel approach and tool for fact-oriented business semantics management that is inspired by agile design methods. We demonstrate and validate it in a realistic case study that was carried out within the European Codrive project. Codrive's vision was to contribute to more meaningful competency-centric human resource management. Key challenges are the uniform publication of unambiguous competency information and "time-to-competency" agility. To this end, we developed a shared and formal knowledge representation of competency domains. Stakeholders include educational institutes, public employment organisations, and industry partners from different European countries. The resulting Vocational Competency Ontology wanted to provide a candidate best practice for engineering a community-shared and reusable Semantic Pattern Base that can be applied by all stakeholders to semantically reconcile their contextualised competency models. "
+}
+
+
+@article{Doz2010370,
+title = "Embedding Strategic Agility: A Leadership Agenda for Accelerating Business Model Renewal ",
+journal = "Long Range Planning ",
+volume = "43",
+number = "2-3",
+pages = "370 - 382",
+year = "2010",
+note = "Business Models ",
+issn = "0024-6301",
+doi = "http://dx.doi.org/10.1016/j.lrp.2009.07.006",
+url = "http://www.sciencedirect.com/science/article/pii/S0024630109000570",
+author = "Yves L. Doz and Mikko Kosonen",
+abstract = "Strategic discontinuities and disruptions usually call for changes in business models. But, over time, efficient firms naturally evolve business models of increasing stability - and therefore rigidity. Resolving this contradiction can be made easier by developing three core meta-capabilities to make an organization more agile: strategic sensitivity, leadership unity and resource fluidity. This article reviews the underlying determinants of these capabilities, based on detailed research undertaken in a dozen companies who were re-conceiving their business models - among others, Nokia, easyGroup, HP, \{SAP\} and Kone are used as examples. We propose a repertoire of concrete leadership actions enabling the meta-capabilities needed to accelerate the renewal and transformation of business models. To organize our argument we borrow the three main dimensions of the strategic agility framework presented in our earlier work, and develop corresponding vectors of leadership actions, each of which can enhance a firm's ability to renew its business models. "
+}
+
+Cannot read property 'join' of undefined
+@article{Amrani2010102,
+title = "Supporting framework to improve Engineer-To-Order product lead-times ",
+journal = "\{IFAC\} Proceedings Volumes ",
+volume = "43",
+number = "17",
+pages = "102 - 107",
+year = "2010",
+note = "5th \{IFAC\} Conference on Management and Control of Production Logistics ",
+issn = "1474-6670",
+doi = "http://dx.doi.org/10.3182/20100908-3-PT-3007.00022",
+url = "http://www.sciencedirect.com/science/article/pii/S1474667016308850",
+author = "Aicha Amrani and Salah Zouggar and Marc Zolghadri and Philippe Girard",
+keywords = "\{ETO\} products",
+keywords = "NPD projects",
+keywords = "Supply chain management ",
+abstract = "Abstract Company's competitive advantage can be achieved through its agile capability to satisfy customers' needs by developing and manufacturing efficiently customized products. So performing \{ETO\} (Engineer-To-Order) product with lower lead-times is a real challenge that requires new approaches. This paper investigates a new framework to help decision-makers in adopting the right management systems to organize customer order fulfillment from request to delivery. The European Project "ESTIMATE", Eurostars Program, is lead to sustain successful \{ETO\} processes. The \{ESTIMATE\} framework aims at providing guidelines to perform successful \{ETO\} product. Main drivers for \{ETO\} product fulfillment are identified regarding several dimensions and a strategy of decreasing lead-times is explored and discussed in detail. This strategy is called "shifting strategy". "
+}
+
+
+@article{Ivanov2010409,
+title = "A multi-structural framework for adaptive supply chain planning and operations control with structure dynamics considerations ",
+journal = "European Journal of Operational Research ",
+volume = "200",
+number = "2",
+pages = "409 - 420",
+year = "2010",
+note = "",
+issn = "0377-2217",
+doi = "http://dx.doi.org/10.1016/j.ejor.2009.01.002",
+url = "http://www.sciencedirect.com/science/article/pii/S0377221709000125",
+author = "Dmitry Ivanov and Boris Sokolov and Joachim Kaeschel",
+keywords = "Supply chain management",
+keywords = "Adaptive supply chain",
+keywords = "Planning",
+keywords = "Control",
+keywords = "Operations",
+keywords = "Multiple structures",
+keywords = "Multi-disciplinary modelling",
+keywords = "Structure dynamics",
+keywords = "Adaptation ",
+abstract = "A trend in up-to-date developments in supply chain management (SCM) is to make supply chains more agile, flexible, and responsive. In supply chains, different structures (functional, organizational, informational, financial, etc.) are (re)formed. These structures interrelate with each other and change in dynamics. The paper introduces a new conceptual framework for multi-structural planning and operations of adaptive supply chains with structure dynamics considerations. We elaborate a vision of adaptive supply chain management (A-SCM), a new dynamic model and tools for the planning and control of adaptive supply chains. \{SCM\} is addressed from perspectives of execution dynamics under uncertainty. Supply chains are modelled in terms of dynamic multi-structural macro-states, based on simultaneous consideration of the management as a function of both states and structures. The research approach is theoretically based on the combined application of control theory, operations research, and agent-based modelling. The findings suggest constructive ways to implement multi-structural supply chain management and to transit from a "one-way" partial optimization to the feedback-based, closed-loop adaptive supply chain optimization and execution management for value chain adaptability, stability and crisis-resistance. The proposed methodology enhances managerial insight into advanced supply chain management. "
+}
+

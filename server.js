@@ -76,14 +76,14 @@ app.put('/articles/:id', function(req,res){
     Article
         .find({where : {id : req.params.id}})
         .then(function(article){
-            return article.updateAttributes(req.body)
+            return article.updateAttributes(req.body);
         })
         .then(function(){
-            res.status(201).send('updated')
+            res.status(201).send('updated');
         })
         .catch(function(error){
-            console.warn(error)
-            res.status(400).send('not found')
+            console.warn(error);
+            res.status(400).send('not found');
         });
 });
 
@@ -91,14 +91,14 @@ app.delete('/articles/:id', function(req,res){
     Article
         .find({where : {id : req.params.id}})
         .then(function(article){
-            return article.destroy()
+            return article.destroy();
         })
         .then(function(){
-            res.status(201).send('deleted')
+            res.status(201).send('deleted');
         })
         .catch(function(error){
-            console.warn(error)
-            res.status(400).send('not found')
+            console.warn(error);
+            res.status(400).send('not found');
         });
 });
 

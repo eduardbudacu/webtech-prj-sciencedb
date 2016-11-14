@@ -1,0 +1,60 @@
+@
+
+@article{Lin2006353,
+title = "Agility evaluation using fuzzy logic ",
+journal = "International Journal of Production Economics ",
+volume = "101",
+number = "2",
+pages = "353 - 368",
+year = "2006",
+note = "",
+issn = "0925-5273",
+doi = "http://dx.doi.org/10.1016/j.ijpe.2005.01.011",
+url = "http://www.sciencedirect.com/science/article/pii/S0925527305000514",
+author = "Ching-Torng Lin and Hero Chiu and Yi-Hong Tseng",
+keywords = "Agile enterprise",
+keywords = "Agility index",
+keywords = "Agility measuring",
+keywords = "Fuzzy logic ",
+abstract = ""Change" seems to be one of enterprises' major characteristics in this new competitive era. Agile enterprise whereby an organization can change and adapt quickly to changing circumstances is increasingly viewed as a winning strategy. However, in embracing agile enterprise, there are important questions to be asked: what precisely is agility and how can it be measured? How can one assist in achieving and enhancing agility effectively? Answers to such questions are critical to the practitioners and to the theory of agile enterprise design. The foundation of agile enterprise lies in the integration of information system/technologies, people, business processes and facilities. Due to the ill-defined and vague indicators which exist within agility assessment, most measures are described subjectively by linguistic terms which are characterized by ambiguity and multi-possibility, and the conventional assessment approaches cannot suitably nor effectively handle such measurement. However, fuzzy logic provides a useful tool for dealing with decisions in which the phenomena are imprecise and vague. Thus, the novelty in the paper is development of the absolute agility index, a unique and unprecedented attempt in agility measurement, using fuzzy logic to address the ambiguity in agility evaluation. Details of the approach and a framework of a fuzzy agility evaluation will be presented. An example is also used to illustrate the approach developed. "
+}
+
+
+@article{Palacios2006485,
+title = "Lessons learned for building agile and flexible scheduling tool for turbulent environments in the extended enterprise ",
+journal = "Robotics and Computer-Integrated Manufacturing ",
+volume = "22",
+number = "5-6",
+pages = "485 - 492",
+year = "2006",
+note = "15th International Conference on Flexible Automation and Intelligent Manufacturing15th International Conference on Flexible Automation and Intelligent Manufacturing ",
+issn = "0736-5845",
+doi = "http://dx.doi.org/10.1016/j.rcim.2005.11.004",
+url = "http://www.sciencedirect.com/science/article/pii/S0736584506000615",
+author = "M.C. Palacios and Esther Alvarez and M. Alvarez and J.M. Santamaria",
+keywords = "Production scheduling",
+keywords = "Agile manufacturing ",
+abstract = "This paper presents results of a 2.5-year, multidisciplinary, university-industry collaborative effort investigating design of "Internet-based Scheduler for material Optimisation and agile ProducTion In MUlti-Site enterprises in agile manufacturing" (IS-OPTIMUS), a four nation collaborative project aimed at improvements in turbulent manufacturing environments. The focus of this paper is specifically on the content of the work carried out, along with the main benefits and results. Key to achieving the goals is following a complete project-life-cycle path from the initial stages where the industrial users requirements were identified and the system specification took place to the development and tuning of the final system. Design choices for software must strike a balance between the user flexibility required and the representing environment constraints, i.e. finite capacity scheduling, which takes production requirements from existing production planning systems, to schedule production resources like plant workers, critical tools and machines. The system consists of a material optimiser working closely with the finite capacity scheduler and a dynamic scheduler providing automatic reaction to real-time exceptions, thus deriving in solutions of higher performance. "
+}
+
+
+@article{Kreucher2006546,
+title = "Adaptive multi-modality sensor scheduling for detection and tracking of smart targets ",
+journal = "Digital Signal Processing ",
+volume = "16",
+number = "5",
+pages = "546 - 567",
+year = "2006",
+note = "Special Issue on \{DASP\} 2005 ",
+issn = "1051-2004",
+doi = "http://dx.doi.org/10.1016/j.dsp.2004.12.008",
+url = "http://www.sciencedirect.com/science/article/pii/S1051200404001204",
+author = "Chris Kreucher and Doron Blatt and Alfred Hero and Keith Kastella",
+keywords = "Multistage sensor management",
+keywords = "Non-myopic scheduling",
+keywords = "Reinforcement learning",
+keywords = "Target detection",
+keywords = "Target tracking ",
+abstract = "This paper considers the problem of sensor scheduling for the purposes of detection and tracking of "smart" targets. Smart targets are targets that can detect when they are under surveillance and react in a manner that makes future surveillance more difficult. We take a reinforcement learning approach to adaptively schedule a multi-modality sensor so as to most quickly and effectively detect the presence of smart targets and track them as they travel through a surveillance region. An optimal scheduling strategy, which would simultaneously address the issue of target detection and tracking, is very challenging computationally. To avoid this difficulty, we use a two stage approach where targets are first detected and then handed off to a tracking algorithm. We investigate algorithms capable of choosing whether to use the active or passive mode of an agile sensor. The active mode is easily detected by the target, which makes the target prefer to move into hide mode. The passive mode is nearly undetectable to the target. However, the active mode has substantially better detection and tracking capabilities then the passive mode. Using this setup, we characterize the advantage of a non-myopic policy with respect to myopic and random polices for multitarget detection and tracking. "
+}
+

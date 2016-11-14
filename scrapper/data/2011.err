@@ -1,0 +1,62 @@
+@
+
+@article{Ibbs2011773,
+title = "An improved methodology for selecting similar working days for measured mile analysis ",
+journal = "International Journal of Project Management ",
+volume = "29",
+number = "6",
+pages = "773 - 780",
+year = "2011",
+note = "",
+issn = "0263-7863",
+doi = "http://dx.doi.org/10.1016/j.ijproman.2010.07.006",
+url = "http://www.sciencedirect.com/science/article/pii/S0263786310001109",
+author = "William Ibbs and Min Liu",
+keywords = "Construction management",
+keywords = "Construction claims",
+keywords = "Construction",
+keywords = "Labor productivity",
+keywords = "Measured mile",
+keywords = "Statistical analysis",
+keywords = "Similar workdays ",
+abstract = "Quantifying economic losses on construction projects caused by labor inefficiencies is often a difficult and tedious task. A widely accepted way to quantify such losses is by using the "measured mile" approach. This technique compares the productivity achieved during an unimpacted or minimally impacted time period with productivity realized during an impacted period. The dependability of the periods that are chosen is vital and plays a key role in the determination of merit, liability and quantum. The work performed during the measured mile period should be substantially similar to the work that was affected. As currently practiced though, choosing the periods for measured mile analysis is usually made in a largely subjective manner. The objective of this article is to introduce and illustrate the statistical clustering method as a tool for selecting the similar working periods. This new approach is advocated because it determines similarity of work condition using objective criteria. The method is agile and can be easily applied in practice by project managers or construction consultants. In this paper the factors that affect the similarity of work are identified, and the clustering procedure is developed. An example is also included to show how the method works in practice. "
+}
+
+
+@article{Fumagalli201114067,
+title = "Agile diagnostic tool based on electrical signature analysis ",
+journal = "\{IFAC\} Proceedings Volumes ",
+volume = "44",
+number = "1",
+pages = "14067 - 14072",
+year = "2011",
+note = "18th \{IFAC\} World Congress ",
+issn = "1474-6670",
+doi = "http://dx.doi.org/10.3182/20110828-6-IT-1002.02873",
+url = "http://www.sciencedirect.com/science/article/pii/S1474667016458866",
+author = "Luca Fumagalli and Stefano Ierace and Emanuele Dovere and Marco Macchi and Sergio Cavalieri and Marco Garetti",
+abstract = "Abstract Today, time based maintenance is the most common strategy, to assure a certain level of productivity and reliability in the industrial plants, with a fixed interval length between two maintenance actions. However, given the stochastic nature of the faults, plant equipments and machines usually fail unexpectedly, before the scheduled maintenance action. Therefore, condition based maintenance (CBM) has been introduced, without any fixed interval length between the maintenance actions, as a more efficient maintenance policy. A technique developed for condition based maintenance of electro-mechanical systems is electrical signature analysis. The basic idea behind electrical signature analysis is that, time-dependent load and speed variations in an electro-mechanical system generally induce correlated small variations in the system's electrical response. Electrical signature analysis analyzes these small variations providing diagnostic information. A tool based on this technique is agile in its adoption since no specific sensors must be installed on the machine, but only power signal must be measured and thus the implementation of such tool can be considered simple and flexible. This paper presents a tool that has such kind of characteristics. The tool processes power signals acquired by transducers installed on the electrical lines of electro-mechanical systems, for machine fault diagnosis. The data acquired are processed through some steps, using some signal indicators developed to understand the machine behaviour. "
+}
+
+Cannot read property 'join' of undefined
+@article{Azevedo2011755,
+title = "Factory Templates for Digital Factories Framework ",
+journal = "Robotics and Computer-Integrated Manufacturing ",
+volume = "27",
+number = "4",
+pages = "755 - 771",
+year = "2011",
+note = "Conference papers of Flexible Automation and Intelligent ManufacturingIntelligent manufacturing and services ",
+issn = "0736-5845",
+doi = "http://dx.doi.org/10.1016/j.rcim.2011.02.004",
+url = "http://www.sciencedirect.com/science/article/pii/S0736584511000354",
+author = "Americo Azevedo and Antonio Almeida",
+keywords = "Factory Templates",
+keywords = "Factory Life Cycle",
+keywords = "Estimation",
+keywords = "Management Knowledge",
+keywords = "Digital Factory",
+keywords = "Enterprise Reference Model ",
+abstract = "The global industry is currently facing a growing increase in the competitiveness that forces companies to adopt and develop new strategies and methods of production. Therefore, one of the most relevant challenges in manufacturing engineering is innovatively integrating Product, Process and Factory dimensions and life cycles, in a holistic approach, from design to recycling/disposal and reuse. The challenge faced here is the synchronization and simultaneous generation of all three-domain models by integrating manufacturing engineering knowledge into the early stage of the modelling and planning processes. The next generation of factories has to be modular, scalable, flexible, open, agile and knowledge-based in order to be able to adapt, in real time, to the continuously changing market demands, technology options and regulations. Therefore, integration, flexibility and efficiency requirements and the ability to simulate the production life cycle of a factory play a crucial role in decreasing ramp-up and design times. Furthermore they play a crucial role in improving the performance in the evaluation and reconfiguration of new or existing facilities, in supporting management decisions and providing tools that can guarantee real-time performance monitoring. Therefore, it is necessary to research and implement the underlying models and ideas during the foundation stage of a new conceptual framework, which is designed to be implemented in the next generation of factories. This will be supported by suitable Information and Communication Technologies (ICT) and digital infrastructures and should lay down the foundations for future applications in this research area--the industrial paradigm of "Factory as a Product". In line with the context presented here, we propose the development of factory templates to address the design and operation practices throughout the entire life cycle of the factory. Different dimensions of the factory templates are presented in this paper; they cover the design and creation of the factory, its remodelling and even the disassembly and recycling stages. This entire study takes into account relevant factors such as costs, quality, time, flexibility, environmental and social issues and energy efficiency. Throughout the article, different kinds of models are presented, which describe and adjust the structure of the analysis, design and development of a factory integration project that helps provide a formal analysis of the system. Furthermore, templates integrating the factory's response to internal and external disturbances will also be developed. "
+}
+

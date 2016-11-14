@@ -1,0 +1,189 @@
+@
+
+@article{Diaz2014727,
+title = "Agile product-line architecting in practice: A case study in smart grids ",
+journal = "Information and Software Technology ",
+volume = "56",
+number = "7",
+pages = "727 - 748",
+year = "2014",
+note = "",
+issn = "0950-5849",
+doi = "http://dx.doi.org/10.1016/j.infsof.2014.01.014",
+url = "http://www.sciencedirect.com/science/article/pii/S0950584914000251",
+author = "Jessica Diaz and Jennifer Perez and Juan Garbajosa",
+keywords = "Agile product-line engineering",
+keywords = "Agile product-line architecting",
+keywords = "Product-line architectural knowledge",
+keywords = "Change impact analysis",
+keywords = "Case study ",
+abstract = "AbstractContext Software Product Line Engineering implies the upfront design of a Product-Line Architecture (PLA) from which individual product applications can be engineered. The big upfront design associated with \{PLAs\} is in conflict with the current need of "being open to change". To make the development of product-lines more flexible and adaptable to changes, several companies are adopting Agile Product Line Engineering. However, to put Agile Product Line Engineering into practice it is still necessary to make mechanisms available to assist and guide the agile construction and evolution of PLAs. Objective This paper presents the validation of a process for "the agile construction and evolution of product-line architectures", called Agile Product-Line Architecting (APLA). The contribution of the \{APLA\} process is the integration of a set of models for describing, documenting, and tracing PLAs, as well as an algorithm for guiding the change decision-making process of PLAs. The \{APLA\} process is assessed to prove that assists Agile Product Line Engineering practitioners in the construction and evolution of PLAs. Method Validation is performed through a case study by using both quantitative and qualitative analysis. Quantitative analysis was performed using statistics, whereas qualitative analysis was performed through interviews using constant comparison, triangulation, and supporting tools. This case study was conducted according to the guidelines of Runeson and Host in a software factory where three projects in the domain of Smart Grids were involved. Results \{APLA\} is deployed through the Flexible-PLA modeling framework. This framework supported the successful development and evolution of the \{PLA\} of a family of power metering management applications for Smart Grids. Conclusions \{APLA\} is a well-supported solution for the agile construction and evolution of PLAs. This case study illustrates that the proposed solution for the agile construction of \{PLAs\} is viable in an industry project on Smart Grids. "
+}
+
+
+@article{Zekavat201450,
+title = "Performance of short and long range wireless communication technologies in construction ",
+journal = "Automation in Construction ",
+volume = "47",
+number = "",
+pages = "50 - 61",
+year = "2014",
+note = "",
+issn = "0926-5805",
+doi = "http://dx.doi.org/10.1016/j.autcon.2014.07.008",
+url = "http://www.sciencedirect.com/science/article/pii/S0926580514001599",
+author = "Payam R. Zekavat and Sungkon Moon and Leonhard E. Bernold",
+keywords = "Agile Site Communication Network",
+keywords = "eCKiosk",
+keywords = "Work-front information flow",
+keywords = "Wireless signal coverage range",
+keywords = "RFID ",
+abstract = "Abstract The ever increasing complexity of construction projects asks for improved communication and automated data collection supported by continually improving electronic tools. Advances in information technologies enable us to link critical resources on construction sites, such as trucks and cranes, to the project website creating many opportunities to drastically improve productivity, safety and quality. While the use of electronic equipment is nothing new in construction, no model exists to integrate them into one unified framework. This paper presents a wireless site-network concept consisting of information hubs enabled to automatically connect data sinks with sources supported by software agents. Included in this paper is the discussion of a mobile information hub, the eCKiosk, enabled to connect the work crew electronically to the project network while collecting automatically live "as-built" data. It begins with a review of long range wireless as the basis for designing a robust Agile Site Communication Network (ASCNet). Site experiments with short range wireless conduits and embedded \{RFID\} tags showed that they are able to provide information far beyond an identification number. While wireless technologies are poised to open totally new avenues to manage construction, more field-tests are needed to establish a solid knowledge base to create a pervasive network for the dynamically changing building site. "
+}
+
+
+@article{KarrbomGustavsson2014568,
+title = "Rethinking dichotomization: A critical perspective on the use of "hard" and "soft" in project management research ",
+journal = "International Journal of Project Management ",
+volume = "32",
+number = "4",
+pages = "568 - 577",
+year = "2014",
+note = "",
+issn = "0263-7863",
+doi = "http://dx.doi.org/10.1016/j.ijproman.2013.10.009",
+url = "http://www.sciencedirect.com/science/article/pii/S0263786313001488",
+author = "Tina Karrbom Gustavsson and Anette Hallin",
+keywords = "Dichotomy",
+keywords = "Hard",
+keywords = "Soft",
+keywords = "Stage-gate models",
+keywords = "Agile methods ",
+abstract = "Abstract This paper elaborates on the categorization - dichotomization - between "hard" and "soft" in project management research. This categorization is becoming more increasingly used in project management research for example by stating that some projects are "hard", while other projects are "soft", that some project skills are "hard", while other project skills are "soft" etc. The aim is to discuss this dichotomization as an example of hierarchization - a power struggle between opposites - within project management research and literature and acknowledge the effects for project management research and practice of unreflective upholding of this dichotomy. We provide a critical review and discussion of stage-gate models as an example of "hard" project management approaches, and agile methods as an example of "soft" approaches to project management and acknowledge that in project management practice, it seems as if "hard" and "soft" approaches are most often combined. Hence, this dichotomy seems to be upheld by the research community while practitioners show a more holistic perspective to project management. "
+}
+
+
+@article{Birhanu20142289,
+title = "A Survey of Classifications in Supply Chain Strategies ",
+journal = "Procedia Engineering ",
+volume = "97",
+number = "",
+pages = "2289 - 2297",
+year = "2014",
+note = ""12th Global Congress on Manufacturing and Management" \{GCMM\} - 2014 ",
+issn = "1877-7058",
+doi = "http://dx.doi.org/10.1016/j.proeng.2014.12.473",
+url = "http://www.sciencedirect.com/science/article/pii/S1877705814035437",
+author = "Dagne Birhanu and Krishnanand Lanka and A. Neelakanteswara Rao",
+keywords = "Supply chain strategies",
+keywords = "efficient supply chains",
+keywords = "agile supply chains",
+keywords = "leagile supply chains",
+keywords = "push-pull supply chains ",
+abstract = "Abstract Supply chain strategies are used to show the companies competitiveness and the position in the market against their competitors. Companies that focus on a specific supply chain strategy are more likely to build shareholder value than those do not. This idea will call for a company in a supply chain to exercise specific strategies. Not all products need the same supply chain strategy. These supply chain strategies for any product or service industries depends on supply and demand uncertainty, product life cycle and manufacturing strategies. Hence, setting the right \{SC\} strategy is compulsory for companies competing in the market. In this paper different types of supply chain strategies are identified from existing literatures. "
+}
+
+
+@article{Ansar201443,
+title = "Should we build more large dams? The actual costs of hydropower megaproject development ",
+journal = "Energy Policy ",
+volume = "69",
+number = "",
+pages = "43 - 56",
+year = "2014",
+note = "",
+issn = "0301-4215",
+doi = "http://dx.doi.org/10.1016/j.enpol.2013.10.069",
+url = "http://www.sciencedirect.com/science/article/pii/S0301421513010926",
+author = "Atif Ansar and Bent Flyvbjerg and Alexander Budzier and Daniel Lunn",
+keywords = "Large hydropower dams",
+keywords = "Schedule and cost estimates",
+keywords = "Cost-benefit forecasting",
+keywords = "Reference class forecasting",
+keywords = "Outside view ",
+abstract = "Abstract A brisk building boom of hydropower mega-dams is underway from China to Brazil. Whether benefits of new dams will outweigh costs remains unresolved despite contentious debates. We investigate this question with the "outside view" or "reference class forecasting" based on literature on decision-making under uncertainty in psychology. We find overwhelming evidence that budgets are systematically biased below actual costs of large hydropower dams--excluding inflation, substantial debt servicing, environmental, and social costs. Using the largest and most reliable reference data of its kind and multilevel statistical techniques applied to large dams for the first time, we were successful in fitting parsimonious models to predict cost and schedule overruns. The outside view suggests that in most countries large hydropower dams will be too costly in absolute terms and take too long to build to deliver a positive risk-adjusted return unless suitable risk management measures outlined in this paper can be affordably provided. Policymakers, particularly in developing countries, are advised to prefer agile energy alternatives that can be built over shorter time horizons to energy megaprojects. "
+}
+
+
+@article{Loganathan20141692,
+title = "Effect of Microwave Heat Treatment on Mechanical Properties of \{AA6061\} Sheet Metal ",
+journal = "Procedia Engineering ",
+volume = "97",
+number = "",
+pages = "1692 - 1697",
+year = "2014",
+note = ""12th Global Congress on Manufacturing and Management" \{GCMM\} - 2014 ",
+issn = "1877-7058",
+doi = "http://dx.doi.org/10.1016/j.proeng.2014.12.320",
+url = "http://www.sciencedirect.com/science/article/pii/S1877705814033888",
+author = "D. Loganathan and A. Gnanavelbabu and K. Rajkumar and R. Ramadoss",
+keywords = "AA6061",
+keywords = "Microwave",
+keywords = "Tensile test",
+keywords = "Micro-hardness",
+keywords = "Microstructure. ",
+abstract = "Abstract Recently aluminum alloy sheet, exclusively \{AA\} 6061 \{T4\} is used in the automotive, aircraft, marine and construction industries due to its excellent properties such as noncorrosive, strength to weight ratio and rewards over than steel in ductility. Heat treatment process is agreed more for refinement of grain structures which liberate the residual stress generated from forming and elevate the tensile, yield strength of the material. Mostly heat treatment processes carried over by conventional furnace where heat transfer mode was convection and radiation. In conventional heat treatment process, heat transferring from material surface layer to inner core is through conduction mode. This yields a non-uniform temperature in the thickness direction. To meet agile manufacturing requirements, microwave heat treatment is an inevitable, realistic and economic method over than the conventional heat treating method. This process requires a microwave furnace and a simple masking arrangement. This study aims to eliminate the pitfall by focusing on microwave heat treatment rather than conventional methods, to obtain uniform temperature distribution throughout the material, maximize the physical and mechanical properties and to minimize the power consumption. Also a comparison of the physical and mechanical properties with conventionally heat treated is carried out. "
+}
+
+
+@article{Ubertini201447,
+title = "The \{INTErnational\} Gamma Ray Astrophysics Laboratory: \{INTEGRAL\} Highlights ",
+journal = "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment ",
+volume = "742",
+number = "",
+pages = "47 - 55",
+year = "2014",
+note = "4th Roma International Conference on Astroparticle Physics ",
+issn = "0168-9002",
+doi = "http://dx.doi.org/10.1016/j.nima.2013.12.027",
+url = "http://www.sciencedirect.com/science/article/pii/S016890021301718X",
+author = "Pietro Ubertini and Angela Bazzano",
+keywords = "Space science",
+keywords = "g-Ray astrophysics",
+keywords = "INTEGRAL Observatory ",
+abstract = "Abstract The \{INTEGRAL\} Space Observatory was selected as the second Medium size mission (M2) of the \{ESAs\} Horizon 2000 vision programme. \{INTEGRAL\} is the first high angular and spectral resolution hard X-ray and soft g-ray observatory with a wide band spectral response ranging from 3 keV up to 10 MeV energy band. This capability is supplemented by an unprecedented sensitivity enhanced by the 3 days orbit allowing long and uninterrupted observations over very wide field of view (up to ~ 1000 squared degrees to zero response) and sub-ms time resolution. Part of the observatory success is due to its capability to link the high energy sky with the lower energy band. The complementarity and synergy with pointing soft X-ray missions such as XMM-Newton and \{CHANDRA\} and more recently with NuSTAR is a strategic feature to link the "thermal" and the "non-thermal" Universe observed at higher energies by space missions such as Fermi and \{AGILE\} and ground based TeV observatories sensitive to extremely high energies. \{INTEGRAL\} was launched on 17 October 2002 from the Baikonur Cosmodrome (Kazakistan) aboard a Proton rocket as part of the Russian contribution to the mission, and has successfully spent almost 11 years in orbit. In view of its successful science outcome the \{ESA\} Space Programme Committee haw recently approved its scientific operation till the end of 2016. To date the spacecraft, ground segment and scientific payload are in excellent state-of-health, and \{INTEGRAL\} is continuing its scientific operations, originally planned for a 5-year technical design and scientific nominal operation plan. This paper summarizes the current \{INTEGRAL\} scientific achievements and future prospects, with particular regard to the high energy domain. "
+}
+
+
+@article{Ramnath20141788,
+title = "Analysis of Occupational Safety and Health of Workers by Implementing Ergonomic Based Kitting Assembly System ",
+journal = "Procedia Engineering ",
+volume = "97",
+number = "",
+pages = "1788 - 1797",
+year = "2014",
+note = ""12th Global Congress on Manufacturing and Management" \{GCMM\} - 2014 ",
+issn = "1877-7058",
+doi = "http://dx.doi.org/10.1016/j.proeng.2014.12.332",
+url = "http://www.sciencedirect.com/science/article/pii/S1877705814034006",
+author = "B. Vijaya Ramnath and C. Suresh Kumar and G. Riyaz Mohamed and K. Venkataraman and C. Elanchezhian and S. Sathish",
+keywords = "Conventional assembly system",
+keywords = "Ergonomic based kitting assembly system",
+keywords = "occupational safety",
+keywords = "health of workers",
+keywords = "factor analysis. ",
+abstract = "Abstract Success of any industry depends on its quality, quantity of production and delivery time of the product to the customer. Therefore industries must develop and implement new management philosophies like lean, agile, kitting manufacturing and concurrent engineering, etc. This paper deals with a study on the impact of ergonomic based kitting assembly system on occupational safety and health of workers in an automobile industry. Kitting production is most widely used in industries that are assembly-oriented or having a high amount of repetitive human processes. Kitting assembly reduces work space requirement, operator walking distance and time, work in process inventory. For these kinds of companies, improved systems can eliminate significant levels of waste or inefficiency. So, in this paper an overall analysis was carried out to minimise the wastages and to improve the efficiency in an assembly line. Here, data collection was carried out as follows: interviews with managers and supervisors, safety specialists, safety engineer, workers, in order to know their views on both the negative and positive impacts of Kitting assembly system. Questionnaire are aimed at assessing their views on the current working conditions and also aimed at assessing their views on the differences between the conventional assembly system and the new ergonomics based kitting assembly system. The result shows that a significant increase in overall working condition of the industry which in turn led to the increase in the productivity. Also, factor analysis is carried out to group some important criteria into factors for conducting future analysis with worker to evaluate the ergonomic level of workers. "
+}
+
+
+@article{Horvath2014231,
+title = "Modular design, application architecture, and usage of a self-service model for enterprise data delivery: The Duke Enterprise Data Unified Content Explorer (DEDUCE) ",
+journal = "Journal of Biomedical Informatics ",
+volume = "52",
+number = "",
+pages = "231 - 242",
+year = "2014",
+note = "Special Section: Methods in Clinical Research Informatics ",
+issn = "1532-0464",
+doi = "http://dx.doi.org/10.1016/j.jbi.2014.07.006",
+url = "http://www.sciencedirect.com/science/article/pii/S1532046414001531",
+author = "Monica M. Horvath and Shelley A. Rusincovitch and Stephanie Brinson and Howard C. Shang and Steve Evans and Jeffrey M. Ferranti",
+keywords = "Cohort definition",
+keywords = "Research query tool",
+keywords = "Medical informatics applications",
+keywords = "Information systems",
+keywords = "Application development",
+keywords = "System design and architecture ",
+abstract = "AbstractPurpose Data generated in the care of patients are widely used to support clinical research and quality improvement, which has hastened the development of self-service query tools. User interface design for such tools, execution of query activity, and underlying application architecture have not been widely reported, and existing tools reflect a wide heterogeneity of methods and technical frameworks. We describe the design, application architecture, and use of a self-service model for enterprise data delivery within Duke Medicine. Methods Our query platform, the Duke Enterprise Data Unified Content Explorer (DEDUCE), supports enhanced data exploration, cohort identification, and data extraction from our enterprise data warehouse (EDW) using a series of modular environments that interact with a central keystone module, Cohort Manager (CM). A data-driven application architecture is implemented through three components: an application data dictionary, the concept of "smart dimensions", and dynamically-generated user interfaces. Results \{DEDUCE\} \{CM\} allows flexible hierarchies of \{EDW\} queries within a grid-like workspace. A cohort "join" functionality allows switching between filters based on criteria occurring within or across patient encounters. To date, 674 users have been trained and activated in DEDUCE, and logon activity shows a steady increase, with variability between months. A comparison of filter conditions and export criteria shows that these activities have different patterns of usage across subject areas. Conclusions Organizations with sophisticated \{EDWs\} may find that users benefit from development of advanced query functionality, complimentary to the user interfaces and infrastructure used in other well-published models. Driven by its \{EDW\} context, the \{DEDUCE\} application architecture was also designed to be responsive to source data and to allow modification through alterations in metadata rather than programming, allowing an agile response to source system changes. "
+}
+

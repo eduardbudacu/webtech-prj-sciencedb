@@ -1,0 +1,181 @@
+@
+
+@article{Losada20132268,
+title = "A guide to agile development of interactive software with a "User Objectives"-driven methodology ",
+journal = "Science of Computer Programming ",
+volume = "78",
+number = "11",
+pages = "2268 - 2281",
+year = "2013",
+note = "Special section on Mathematics of Program Construction (MPC 2010) and Special section on methodological development of interactive systems from Interaccion 2011 ",
+issn = "0167-6423",
+doi = "http://dx.doi.org/10.1016/j.scico.2012.07.022",
+url = "http://www.sciencedirect.com/science/article/pii/S0167642312001657",
+author = "Begona Losada and Maite Urretavizcaya and Isabel Fernandez-Castro",
+keywords = "User-centred design",
+keywords = "Agile methods",
+keywords = "Model-driven development",
+keywords = "Software engineering ",
+abstract = "This paper presents the InterMod methodology. By combining the widely accepted Agile Methods, Model-Driven Developments and User-Centred Design it allows us to develop high-quality interactive applications. As a main characteristic, it plans and organises the software project as a series of iterations that are guided by the User Objectives in an agile and user-centred manner. At each iteration, the software development work can be distributed to different teams according to some developmental and integration activities. Each activity is driven by models that are validated by a multidisciplinary team composed of developers and users. The requirements are incrementally collected and formalised by means of models based on user-centred design. Besides, the Semantically Enriched Human-Computer Interaction model is proposed to speed up project validation. This model enriches a human-computer interaction model with some visual characteristics and the application semantic. Thus, the enriched model provides enough information to generate prototypes so users and developers can easily validate this model. Diagram project is a real case study that is used to illustrate the application of the InterMod methodology through the whole paper. "
+}
+
+
+@article{deOMelo2013412,
+title = "Interpretative case studies on agile team productivity and management ",
+journal = "Information and Software Technology ",
+volume = "55",
+number = "2",
+pages = "412 - 427",
+year = "2013",
+note = "Special Section: Component-Based Software Engineering (CBSE), 2011 ",
+issn = "0950-5849",
+doi = "http://dx.doi.org/10.1016/j.infsof.2012.09.004",
+url = "http://www.sciencedirect.com/science/article/pii/S0950584912001875",
+author = "Claudia de O. Melo and Daniela S. Cruzes and Fabio Kon and Reidar Conradi",
+keywords = "Agile software development",
+keywords = "Team productivity factors",
+keywords = "Team management",
+keywords = "Thematic analysis",
+keywords = "Industrial case studies ",
+abstract = "Context The management of software development productivity is a key issue in software organizations, where the major drivers are lower cost and shorter time-to-market. Agile methods, including Extreme Programming and Scrum, have evolved as "light" approaches that simplify the software development process, potentially leading to increased team productivity. However, little empirical research has examined which factors do have an impact on productivity and in what way, when using agile methods. Objective Our objective is to provide a better understanding of the factors and mediators that impact agile team productivity. Method We have conducted a multiple-case study for 6 months in three large Brazilian companies that have been using agile methods for over 2 years. We have focused on the main productivity factors perceived by team members through interviews, documentation from retrospectives, and non-participant observation. Results We developed a novel conceptual framework, using thematic analysis to understand the possible mechanisms behind such productivity factors. Agile team management was found to be the most influential factor in achieving agile team productivity. At the intra-team level, the main productivity factors were team design (structure and work allocation) and member turnover. At the inter-team level, the main productivity factors were how well teams could be effectively coordinated by proper interfaces and other dependencies and avoiding delays in providing promised software to dependent teams. Conclusion Teams should be aware of the influence and magnitude of turnover, which has been shown negative for agile team productivity. Team design choices remain an important factor impacting team productivity, even more pronounced on agile teams that rely on teamwork and people factors. The intra-team coordination processes must be adjusted to enable productive work by considering priorities and pace between teams. Finally, the revised conceptual framework for agile team productivity supports further tests through confirmatory studies. "
+}
+
+
+@article{Cubric2013119,
+title = "An agile method for teaching agile in business schools ",
+journal = "The International Journal of Management Education ",
+volume = "11",
+number = "3",
+pages = "119 - 131",
+year = "2013",
+note = "",
+issn = "1472-8117",
+doi = "http://dx.doi.org/10.1016/j.ijme.2013.10.001",
+url = "http://www.sciencedirect.com/science/article/pii/S1472811713000359",
+author = "Marija Cubric",
+keywords = "Agile",
+keywords = "CSCL",
+keywords = "Experiential learning",
+keywords = "Project management",
+keywords = "Scrum",
+keywords = "Wikis ",
+abstract = "Abstract The aim of this paper is to describe, evaluate and discuss a new method for teaching agile project management and similar subjects in higher education. Agile is not only a subject domain in this work, the teaching method itself is based on Scrum, a popular agile methodology mostly used in software development projects. The method is supported by wikis, a natural platform for simulation of software development environments. The findings from the evaluation indicate that the method enables the creation of "significant learning", which prepares students for life-long learning and increases their employability. However, the knowledge gains, resulting from wiki interactions are found to be more quantitative than qualitative. The results also imply that despite the active promotion of agile values of communication and feedback, issues regarding the teamwork are still emerging. The engagement of the teacher in the learning and teaching process was discovered to be a motivational factor for the team cohesion. This paper could be of interest to anyone planning to teach agile in the higher education settings, but also to a wider academic community interested in applying agile methods in their own teaching practice. "
+}
+
+
+@article{Whitney2013325,
+title = "The Root Cause of Failure in Complex \{IT\} Projects: Complexity Itself ",
+journal = "Procedia Computer Science ",
+volume = "20",
+number = "",
+pages = "325 - 330",
+year = "2013",
+note = "Complex Adaptive Systems ",
+issn = "1877-0509",
+doi = "http://dx.doi.org/10.1016/j.procs.2013.09.280",
+url = "http://www.sciencedirect.com/science/article/pii/S1877050913010806",
+author = "Kaitlynn M. Whitney and Charles B. Daniels",
+keywords = "project management",
+keywords = "project failure",
+keywords = "information technology",
+keywords = "information systems",
+keywords = "complex adaptive systems",
+keywords = "complexity",
+keywords = "PMBOK",
+keywords = "agile ",
+abstract = "Abstract Increased demand for better technology and perpetual global expansion continue to provide developers with many project opportunities for success, as well as failure. While no industry is immune from project failure, the Information Technology (IT) industry is shown to be more susceptible to risk and failure than those of other industries. Agile project management, which facilitates adaptation to changing circumstances and alleviates rigid formal controls, has become more popular in the software development industry though is not entirely compatible with traditional project management approaches. In this paper we will examine the primary causes of \{IT\} project management failure stated in modern literature, analyze these causes, and discuss the degree of complexity within the projects from a systemic perspective related to emergence, non- monotonicity, and non-ergodicity. The paper concludes with some conceptual management approaches that respond to these "true" root causes of failure, for applications in agile organizations and beyond. "
+}
+
+
+@article{Guetat2013596,
+title = "The Governance of Services-based Integration of Urbanized Information Systems ",
+journal = "Procedia Technology ",
+volume = "9",
+number = "",
+pages = "596 - 607",
+year = "2013",
+note = "\{CENTERIS\} 2013 - Conference on \{ENTERprise\} Information Systems / ProjMAN 2013 - International Conference on Project MANagement/ \{HCIST\} 2013 - International Conference on Health and Social Care Information Systems and Technologies ",
+issn = "2212-0173",
+doi = "http://dx.doi.org/10.1016/j.protcy.2013.12.066",
+url = "http://www.sciencedirect.com/science/article/pii/S221201731300220X",
+author = "Sana Bent Aboulkacem Guetat and Salem Ben Dhaou Dakhli",
+keywords = "information city",
+keywords = "information system urbanization",
+keywords = "information system integration",
+keywords = "urbanized information system",
+keywords = "service",
+keywords = "service contract",
+keywords = "service versioning",
+keywords = "service reuse ",
+abstract = "Abstract The role of information systems is ever more critical in supporting complex organizational processes. In other words, modern organizations survival depends on the efficiency of the support brought by \{IT\} to organizational processes. They need sophisticated methods, approaches, and tools to solve the new challenges created by environmental constraints. Agile Information systems are among the instruments proposed by academics and practitioners to help organizations in managing continuous change and overcoming problems induced by external pressures. Many solutions have been proposed by academics and practitioners in order to help organizations build agile information systems. Despite their richness, the proposed frameworks don't consider the critical role played by information systems governance in the development and use of agile information systems. The "information city" framework describes how to build and govern agile information systems. The application of the "information city" framework is called information systems urbanization. Nevertheless, the integration of urbanized information systems is among the major problems to solve in order to maximize and sustain the benefits of information systems urbanization. In this paper, we analyze the contribution of services to urbanized information systems integration. "
+}
+
+
+@article{Millard201311,
+title = "Ensuring mobility is not at the expense of security ",
+journal = "Computer Fraud & Security ",
+volume = "2013",
+number = "9",
+pages = "11 - 13",
+year = "2013",
+note = "",
+issn = "1361-3723",
+doi = "http://dx.doi.org/10.1016/S1361-3723(13)70080-0",
+url = "http://www.sciencedirect.com/science/article/pii/S1361372313700800",
+author = "Andrew Millard",
+abstract = "Growing pressures to enable and support the use of smartphones, tablets and other personal devices in the workplace means that ignoring the need to put in place some form of Bring Your Own Device (BYOD) policy is no longer an option for today's businesses. More and more organisations now recognise that collaboration is central to the establishment of an effective, agile and flexible environment that can deliver tangible benefits to the business, its staff and customers. Andrew Millard of Citrix outlines a best-practice environment for achieving this. "
+}
+
+Cannot read property 'join' of undefined
+@article{Dickens2013116,
+title = "Facilitating emergent change in a healthcare setting ",
+journal = "Healthcare Management Forum ",
+volume = "26",
+number = "3",
+pages = "116 - 120",
+year = "2013",
+note = "",
+issn = "0840-4704",
+doi = "http://dx.doi.org/10.1016/j.hcmf.2013.05.003",
+url = "http://www.sciencedirect.com/science/article/pii/S0840470413000616",
+author = "Peter M. Dickens",
+abstract = "Abstract During my doctoral research, I identified new ways of thinking about complexity in organizations. This involved embracing the capacity of complex systems to find their own form of order and coherence, often referred to as self-organization, and then asking the question, "What can organizational leaders do to create the systems and structures that would facilitate emergent change?" Emergent change comes from within and through the active members of a system and not according to some external prompting or design. This results in the sort of change capacity that enables an organization to be agile and resilient through a high level of employee engagement. The question was answered by identifying and validating organizational-specific factors that facilitate emergent change. "
+}
+
+
+@article{Rocha2013193,
+title = "Concept design for an unmanned aerial vehicle that will perform exploration missions in Colombia* ",
+journal = "\{IFAC\} Proceedings Volumes ",
+volume = "46",
+number = "30",
+pages = "193 - 197",
+year = "2013",
+note = "2nd \{IFAC\} Workshop on Research, Education and Development of Unmanned Aerial Systems ",
+issn = "1474-6670",
+doi = "http://dx.doi.org/10.3182/20131120-3-FR-4045.00028",
+url = "http://www.sciencedirect.com/science/article/pii/S1474667015402939",
+author = "Miller A. Rocha and Leonardo E. Solaque and PhD",
+abstract = "Abstract One of the major disadvantages due to the topography of Colombia is the exploration and monitoring of power transmission lines and pipelines, the difficult access to the area by the human being does not allow monitoring to enable agile decision to give a prompt and quick solution to problems presented, for this reason the development of Unmanned Aerial Vehicles has become a solution that allows the exploration of inaccessible areas. This article provides a conceptualization of the model of a UAV, describing the state of art of similar projects for surveillance and reconnaissance aircraft, checking the type of aircraft to be used that best perform in flight and stability according to the geography of the country. We present a comparison and analysis of airfoils, type of propulsion system, airframe design and vehicle control surfaces and compare the advantages of a new design against the current Universidad Militar Nueva Granada model. The conceptualization presented here is the start of an initial design and development of the Unmanned Aerial Vehicle that will perform surveillance and exploration missions. "
+}
+
+Cannot read property 'join' of undefined
+@article{Shieh2013704,
+title = "Developing a design support system for the exterior form of running shoes using partial least squares and neural networks ",
+journal = "Computers & Industrial Engineering ",
+volume = "65",
+number = "4",
+pages = "704 - 718",
+year = "2013",
+note = "",
+issn = "0360-8352",
+doi = "http://dx.doi.org/10.1016/j.cie.2013.05.008",
+url = "http://www.sciencedirect.com/science/article/pii/S0360835213001514",
+author = "Meng-Dar Shieh and Yu-En Yeh",
+keywords = "Product design",
+keywords = "Kansei engineering",
+keywords = "Neural networks",
+keywords = "Principle component analysis (PCA)",
+keywords = "Partial least squares (PLS) ",
+abstract = "Abstract The function of sport shoes is to improve sport performance and reduce sports-related injuries. They are commercial products developed by combining sports technology and marketing activities. Numerous studies on research and development, material application, production process improvements, and human physiological measurements for the sport shoe market exist. However, few studies have conducted an in-depth investigation on the design of forms and external appearance for sports shoes. In this study, running shoes are used as the primary research object. In conjunction with Kansei engineering, the correlation between the form of a shoe model and the emotional reaction of consumers is examined in-depth to develop a Kansei prediction system solely for changes in the design of external forms of running shoes. First, the Kansei adjectives for running shoes are obtained and collected using questionnaire methods. Experimental samples of running shoes are developed using the Taguchi experimental design method. Surveys are then conducted using consumer Kansei questionnaires. Dimension reduction is performed on the obtained data using principle component analysis (PCA) and partial least squares (PLS). Finally, neural network (NN), PCA-NN, and PLS-NN are used to establish a predictive model. In this study, we observed that \{PLS\} is superior to \{PCA\} in performance on dimension reduction because it considers the Y information variable and encompasses causal relationships when converting the original variable X into a latent variable. Data from the \{PLS\} regression coefficients shows that the form of the sole is the most significant design factor affecting the emotional response of the consumer regarding the overall outer appearance of the running shoe. Because it is difficult to train neural networks (NNs) when numerous variables exist, the modeling efficiencies of \{NN\} with questionnaire data dimension reduction using \{PCA\} and \{PLS\} are compared. The results indicate that because the elements comprising running shoes correlate with consumer image responses, \{PCA\} has a limited ability in reducing dimensions when causal relationships between the variables are disregarded. Therefore, validation results from PCA-NN models are relatively poor. If the correlation between variables is included with PLS, the predictive capability of \{NNs\} can be effectively enhanced. The results show that PLS-NN performance in training and validation is superior to PCA-NN. Furthermore, the best predictive result is obtained from the Kansei adjective pair "clumsy-agile." The prediction accuracy rate of the PLS-NN model improves with increasing reduction performance for PLS. The predictive system developed using PLS-NN maintains stability or robustness for linear data processing and predictive capability with non-linear data. This allows sports shoe designers to provide the best reference combinations for specific product images when creating conceptual designs of novel shoe appearance. The system can present an appropriate external form of running shoe in the user interface as long as an adjective target value is provided by the designer. "
+}
+
