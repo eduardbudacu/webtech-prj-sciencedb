@@ -10,7 +10,7 @@ function createArticle(article) {
     var post_data = JSON.stringify(article);
         
     var post_options = {
-        hostname: 'webtech-prj-sciencedb-eduardbudacu.c9users.io',
+        hostname: 'agileresearch-sciencedb.azurewebsites.net',
         path    : '/articles',
         method  : 'POST',
         headers : {
@@ -38,7 +38,7 @@ function createArticle(article) {
 }
 
 
-var year = "savedrecs";
+var year = "2016";
 var fileContent = fs.readFileSync("data/"+year+".bib", 'utf8');
 fileContent = tr(fileContent);
 
@@ -62,7 +62,7 @@ parts.forEach(function(value){
 			data.keywords = article[0]['entryTags']['keywords'].join(",");
 		}
 		data.url = article[0]['entryTags']['url'];
-	//	createArticle(data);
+		setTimeout(createArticle(data), 100);
 		console.log(article[0]['entryTags']['title']);
 	} catch (e) {
 		err++;

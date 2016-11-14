@@ -6,7 +6,12 @@ var Sequelize = require("sequelize");
 var sequelize = new Sequelize('agilereseach_sciencedb', 'b288dc53bdf0ab', '8359236a', {
    dialect: 'mysql',
    host: 'eu-cdbr-azure-west-a.cloudapp.net',
-   port: 3306
+   port: 3306,
+   pool: {
+    max: 4,
+    min: 0,
+    idle: 10000
+  },
 });
 
 var Article = sequelize.define('articles', {
