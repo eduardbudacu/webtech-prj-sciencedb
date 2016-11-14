@@ -3,10 +3,10 @@ var bodyParser = require("body-parser");
 var cors = require("cors");
 var Sequelize = require("sequelize");
 
-var sequelize = new Sequelize('agilereseach_sciencedb', 'b288dc53bdf0ab', '8359236a', {
+var sequelize = new Sequelize('localdb', 'azure', '6#vWHD_$', {
    dialect: 'mysql',
-   host: 'eu-cdbr-azure-west-a.cloudapp.net',
-   port: 3306,
+   host: '127.0.0.1',
+   port: 52734,
    pool: {
     max: 4,
     min: 0,

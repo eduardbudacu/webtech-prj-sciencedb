@@ -225,3 +225,329 @@ keywords = "Human based genetic algorithm ",
 abstract = "Abstract In recent years, the "power of the crowd" has been repeatedly demonstrated and various Internet platforms have been used to support applications of collaborative intelligence in tasks ranging from open innovation to image analysis. However, crowdsourcing applications in the fields of design research and creative innovation have been much slower to emerge. So, although there have been reports of systems and researchers using Internet crowdsourcing to carry out generative design, there are still many gaps in knowledge about the capability and limitations of the technology. Indeed the process models developed to support traditional commercial design (e.g. Pugh's Total Design, Agile, Double-Diamond etc.) have yet to be established for Crowdsourced Design (cDesign). As a contribution to the development of such a general model this paper proposes a cDesign framework to support the creation of crowdsourced design activities. Within the cDesign framework the effective evaluation of design quality is identified as a key component that not only enables the leveraging of a large, virtual workforce's creative activities but is also fundamental to almost all iterative optimisation processes. This paper reports an experimental investigation into two different Crowdsourced design evaluation approaches; free evaluation and 'Crowdsourced Design Evaluation Criteria' (cDEC). The results are benchmarked against a 'manual' evaluation carried out by a panel of experienced designers. The results suggest that the cDEC approach produces design rankings that correlate strongly with the judgements of an "expert panel". The paper concludes that cDEC assessment methodology demonstrates how Crowdsourcing can be effectively used to evaluate, as well as generate, new design solutions. "
 }
 
+@
+
+@article{Heaton2015207,
+title = "Claims about the use of software engineering practices in science: A systematic literature review ",
+journal = "Information and Software Technology ",
+volume = "67",
+number = "",
+pages = "207 - 219",
+year = "2015",
+note = "",
+issn = "0950-5849",
+doi = "http://dx.doi.org/10.1016/j.infsof.2015.07.011",
+url = "http://www.sciencedirect.com/science/article/pii/S0950584915001342",
+author = "Dustin Heaton and Jeffrey C. Carver",
+keywords = "Computational science",
+keywords = "Systematic literature review",
+keywords = "Scientific software ",
+abstract = "Abstract Context: Scientists have become increasingly reliant on software in order to perform research that is too time-intensive, expensive, or dangerous to perform physically. Because the results produced by the software drive important decisions, the software must be correct and developed efficiently. Various software engineering practices have been shown to increase correctness and efficiency in the development of traditional software. It is unclear whether these observations will hold in a scientific context. Objective: This paper evaluates claims from software engineers and scientific software developers about 12 different software engineering practices and their use in developing scientific software. Method: We performed a systematic literature review examining claims about how scientists develop software. Of the 189 papers originally identified, 43 are included in the literature review. These 43 papers contain 33 different claims about 12 software engineering practices. Results: The majority of the claims indicated that software engineering practices are useful for scientific software development. Every claim was supported by evidence (i.e. personal experience, interview/survey, or case study) with slightly over half supported by multiple forms of evidence. For those claims supported by only one type of evidence, interviews/surveys were the most common. The claims that received the most support were: "The effectiveness of the testing practices currently used by scientific software developers is limited" and "Version control software is necessary for research groups with more than one developer." Additionally, many scientific software developers have unconsciously adopted an agile-like development methodology. Conclusion: Use of software engineering practices could increase the correctness of scientific software and the efficiency of its development. While there is still potential for increased use of these practices, scientific software developers have begun to embrace software engineering practices to improve their software. Additionally, software engineering practices still need to be tailored to better fit the needs of scientific software development. "
+}
+
+
+@article{Inayat2015915,
+title = "A systematic literature review on agile requirements engineering practices and challenges ",
+journal = "Computers in Human Behavior ",
+volume = "51, Part B",
+number = "",
+pages = "915 - 929",
+year = "2015",
+note = "Computing for Human Learning, Behaviour and Collaboration in the Social and Mobile Networks Era ",
+issn = "0747-5632",
+doi = "http://dx.doi.org/10.1016/j.chb.2014.10.046",
+url = "http://www.sciencedirect.com/science/article/pii/S074756321400569X",
+author = "Irum Inayat and Siti Salwah Salim and Sabrina Marczak and Maya Daneva and Shahaboddin Shamshirband",
+keywords = "Agile software development methods",
+keywords = "Agile requirements engineering",
+keywords = "Collaboration",
+keywords = "Traditional requirements engineering",
+keywords = "Systematic review ",
+abstract = "Abstract Unlike traditional software development methods, agile methods are marked by extensive collaboration, i.e. face-to-face communication. Although claimed to be beneficial, the software development community as a whole is still unfamiliar with the role of the requirements engineering practices in agile methods. The term "agile requirements engineering" is used to define the "agile way" of planning, executing and reasoning about requirements engineering activities. Moreover, not much is known about the challenges posed by collaboration-oriented agile way of dealing with requirements engineering activities. Our goal is to map the evidence available about requirements engineering practices adopted and challenges faced by agile teams in order to understand how traditional requirements engineering issues are resolved using agile requirements engineering. We conducted a systematic review of literature published between 2002 and June 2013 and identified 21 papers, that discuss agile requirements engineering. We formulated and applied specific inclusion and exclusion criteria in two distinct rounds to determine the most relevant studies for our research goal. The review identified 17 practices of agile requirements engineering, five challenges traceable to traditional requirements engineering that were overcome by agile requirements engineering, and eight challenges posed by the practice of agile requirements engineering. However, our findings suggest that agile requirements engineering as a research context needs additional attention and more empirical results are required to better understand the impact of agile requirements engineering practices e.g. dealing with non-functional requirements and self-organising teams. "
+}
+
+
+@article{Zhi2015175,
+title = "Cost, benefits and quality of software development documentation: A systematic mapping ",
+journal = "Journal of Systems and Software ",
+volume = "99",
+number = "",
+pages = "175 - 198",
+year = "2015",
+note = "",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/j.jss.2014.09.042",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121214002131",
+author = "Junji Zhi and Vahid Garousi-Yusifoglu and Bo Sun and Golara Garousi and Shawn Shahnewaz and Guenther Ruhe",
+keywords = "Software documentation",
+keywords = "Documentation benefit",
+keywords = "Systematic mapping ",
+abstract = "AbstractContext Software documentation is an integral part of any software development process. Researchers and practitioners have expressed concerns about costs, benefits and quality of software documentation in practice. On the one hand, there is a lack of a comprehensive model to evaluate the quality of documentation. On the other hand, researchers and practitioners need to assess whether documentation cost outweighs its benefit. Objectives In this study, we aim to summarize the existing literature and provide an overview of the field of software documentation cost, benefit and quality. Method We use the systematic-mapping methodology to map the existing body of knowledge related to software documentation cost, benefit and quality. To achieve our objectives, 11 Research Questions (RQ) are raised. The primary papers are carefully selected. After applying the inclusion and exclusion criteria, our study pool included a set of 69 papers from 1971 to 2011. A systematic map is developed and refined iteratively. Results We present the results of a systematic mapping covering different research aspects related to software documentation cost, benefit and quality (RQ 1-11). Key findings include: (1) validation research papers are dominating (27 papers), followed by solution proposals (21 papers). (2) Most papers (61 out of 69) do not mention the development life-cycle model explicitly. Agile development is only mentioned in 6 papers. (3) Most papers include only one "System under Study" (SUS) which is mostly academic prototype. The average number of participants in survey-based papers is 106, the highest one having approximately 1000 participants. (4) In terms of focus of papers, 50 papers focused on documentation quality, followed by 37 papers on benefit, and 12 papers on documentation cost. (5) The quality attributes of documentation that appear in most papers are, in order: completeness, consistency and accessibility. Additionally, improved meta-models for documentation cost, benefit and quality are also presented. Furthermore, we have created an online paper repository of the primary papers analyzed and mapped during this study. Conclusion Our study results show that this research area is emerging but far from mature. Firstly, documentation cost aspect seems to have been neglected in the existing literature and there are no systematic methods or models to measure cost. Also, despite a substantial number of solutions proposed during the last 40 years, more and stronger empirical evidences are still needed to enhance our understanding of this area. In particular, what we expect includes (1) more validation or evaluation studies; (2) studies involving large-scale development projects, or from large number of study participants of various organizations; (3) more industry-academia collaborations; (4) more estimation models or methods to assess documentation quality, benefit and, especially, cost. "
+}
+
+
+@article{Stevenson201559,
+title = "Parse views with Boolean grammars ",
+journal = "Science of Computer Programming ",
+volume = "97, Part 1",
+number = "",
+pages = "59 - 63",
+year = "2015",
+note = "Special Issue on New Ideas and Emerging Results in Understanding Software ",
+issn = "0167-6423",
+doi = "http://dx.doi.org/10.1016/j.scico.2013.11.007",
+url = "http://www.sciencedirect.com/science/article/pii/S0167642313002918",
+author = "Andrew Stevenson and James R. Cordy",
+keywords = "Boolean grammar",
+keywords = "Agile parsing",
+keywords = "Source transformation ",
+abstract = "Abstract We propose an enhancement to current parsing and transformation systems by leveraging the expressive power of Boolean grammars, a generalization of context-free grammars that adds conjunction and negation operators. In addition to naturally expressing a larger class of languages, Boolean grammars capture multiple parse trees of the same document simultaneously and the ability to switch between these parse "views". In particular, source transformation and reengineering tasks can benefit from parse views by recasting the input text into whichever parse is most suitable for the task at hand. "
+}
+
+
+@article{Nierstrasz2015150,
+title = "Parsing for agile modeling ",
+journal = "Science of Computer Programming ",
+volume = "97, Part 1",
+number = "",
+pages = "150 - 156",
+year = "2015",
+note = "Special Issue on New Ideas and Emerging Results in Understanding Software ",
+issn = "0167-6423",
+doi = "http://dx.doi.org/10.1016/j.scico.2013.11.011",
+url = "http://www.sciencedirect.com/science/article/pii/S0167642313002955",
+author = "Oscar Nierstrasz and Jan Kurs",
+keywords = "Parsing",
+keywords = "Software modeling",
+keywords = "Software analysis ",
+abstract = "Abstract In order to analyze software systems, it is necessary to model them. Static software models are commonly imported by parsing source code and related data. Unfortunately, building custom parsers for most programming languages is a non-trivial endeavor. This poses a major bottleneck for analyzing software systems programmed in languages for which importers do not already exist. Luckily, initial software models do not require detailed parsers, so it is possible to start analysis with a coarse-grained importer, which is then gradually refined. In this paper we propose an approach to "agile modeling" that exploits island grammars to extract initial coarse-grained models, parser combinators to enable gradual refinement of model importers, and various heuristics to recognize language structure, keywords and other language artifacts. "
+}
+
+
+@article{Spiegler201547,
+title = "Agility in repeated games: An example ",
+journal = "Economics Letters ",
+volume = "131",
+number = "",
+pages = "47 - 49",
+year = "2015",
+note = "",
+issn = "0165-1765",
+doi = "http://dx.doi.org/10.1016/j.econlet.2015.03.026",
+url = "http://www.sciencedirect.com/science/article/pii/S0165176515001275",
+author = "Ran Spiegler",
+keywords = "Guerilla",
+keywords = "Repeated games",
+keywords = "Imperfect monitoring",
+keywords = "Agility",
+keywords = "Organizational behavior",
+keywords = "Hysteresis ",
+abstract = "Abstract I study a repeated matching-pennies game between players having limited "agility": when player i decides to switch his action, it takes (geometrically distributed) time for the decision to be implemented. I characterize the unique Nash equilibrium in this game when the papers are sufficiently agile. Players obtain the same equilibrium payoff as in the benchmark game with unlimited agility. However, equilibrium behavior displays endogenous hysteresis, which is more pronounced for less agile players. "
+}
+
+
+@article{Plonka201566,
+title = "Knowledge transfer in pair programming: An in-depth analysis ",
+journal = "International Journal of Human-Computer Studies ",
+volume = "73",
+number = "",
+pages = "66 - 78",
+year = "2015",
+note = "",
+issn = "1071-5819",
+doi = "http://dx.doi.org/10.1016/j.ijhcs.2014.09.001",
+url = "http://www.sciencedirect.com/science/article/pii/S1071581914001207",
+author = "Laura Plonka and Helen Sharp and Janet van der Linden and Yvonne Dittrich",
+keywords = "Pair programming",
+keywords = "Knowledge transfer",
+keywords = "Interaction analysis",
+keywords = "Cognitive apprenticeship",
+keywords = "Qualitative analysis ",
+abstract = "Abstract Whilst knowledge transfer is one of the most widely-claimed benefits of pair programming, little is known about how knowledge transfer is achieved in this setting. This is particularly pertinent for novice[?]expert constellations, but knowledge transfer takes place to some degree in all constellations. We ask "what does it take to be a good "expert" and how can a "novice" best learn from a more experienced developer?". An in-depth investigation of video and audio excerpts of professional pair programming sessions using Interaction Analysis reveals: six teaching strategies, ranging from "giving direct instructions" to "subtle hints"; and challenges and benefits for both partners. These strategies are instantiations of some but not all teaching methods promoted in cognitive apprenticeship; novice articulation, reflection and exploration are not seen in the data. The context of pair programming influences the strategies, challenges and benefits, in particular the roles of driver and navigator and agile prioritisation which considers business value rather than educational progression. Utilising these strategies more widely and recognizing the challenges and benefits for both partners will help developers to maximise the benefits from pairing sessions. "
+}
+
+
+@article{Wu2015775,
+title = "An evaluation methodology for crowdsourced design ",
+journal = "Advanced Engineering Informatics ",
+volume = "29",
+number = "4",
+pages = "775 - 786",
+year = "2015",
+note = "Collective Intelligence Modeling, Analysis, and Synthesis for Innovative Engineering Decision MakingSpecial Issue of the 1st International Conference on Civil and Building Engineering Informatics ",
+issn = "1474-0346",
+doi = "http://dx.doi.org/10.1016/j.aei.2015.09.005",
+url = "http://www.sciencedirect.com/science/article/pii/S1474034615001007",
+author = "Hao Wu and Jonathan Corney and Michael Grant",
+keywords = "Crowdsourcing",
+keywords = "Crowdsourced design methodology",
+keywords = "Design evaluation",
+keywords = "Crowdsourced design evaluation criteria",
+keywords = "Collaborative design",
+keywords = "Human based genetic algorithm ",
+abstract = "Abstract In recent years, the "power of the crowd" has been repeatedly demonstrated and various Internet platforms have been used to support applications of collaborative intelligence in tasks ranging from open innovation to image analysis. However, crowdsourcing applications in the fields of design research and creative innovation have been much slower to emerge. So, although there have been reports of systems and researchers using Internet crowdsourcing to carry out generative design, there are still many gaps in knowledge about the capability and limitations of the technology. Indeed the process models developed to support traditional commercial design (e.g. Pugh's Total Design, Agile, Double-Diamond etc.) have yet to be established for Crowdsourced Design (cDesign). As a contribution to the development of such a general model this paper proposes a cDesign framework to support the creation of crowdsourced design activities. Within the cDesign framework the effective evaluation of design quality is identified as a key component that not only enables the leveraging of a large, virtual workforce's creative activities but is also fundamental to almost all iterative optimisation processes. This paper reports an experimental investigation into two different Crowdsourced design evaluation approaches; free evaluation and 'Crowdsourced Design Evaluation Criteria' (cDEC). The results are benchmarked against a 'manual' evaluation carried out by a panel of experienced designers. The results suggest that the cDEC approach produces design rankings that correlate strongly with the judgements of an "expert panel". The paper concludes that cDEC assessment methodology demonstrates how Crowdsourcing can be effectively used to evaluate, as well as generate, new design solutions. "
+}
+
+@
+
+@article{Heaton2015207,
+title = "Claims about the use of software engineering practices in science: A systematic literature review ",
+journal = "Information and Software Technology ",
+volume = "67",
+number = "",
+pages = "207 - 219",
+year = "2015",
+note = "",
+issn = "0950-5849",
+doi = "http://dx.doi.org/10.1016/j.infsof.2015.07.011",
+url = "http://www.sciencedirect.com/science/article/pii/S0950584915001342",
+author = "Dustin Heaton and Jeffrey C. Carver",
+keywords = "Computational science",
+keywords = "Systematic literature review",
+keywords = "Scientific software ",
+abstract = "Abstract Context: Scientists have become increasingly reliant on software in order to perform research that is too time-intensive, expensive, or dangerous to perform physically. Because the results produced by the software drive important decisions, the software must be correct and developed efficiently. Various software engineering practices have been shown to increase correctness and efficiency in the development of traditional software. It is unclear whether these observations will hold in a scientific context. Objective: This paper evaluates claims from software engineers and scientific software developers about 12 different software engineering practices and their use in developing scientific software. Method: We performed a systematic literature review examining claims about how scientists develop software. Of the 189 papers originally identified, 43 are included in the literature review. These 43 papers contain 33 different claims about 12 software engineering practices. Results: The majority of the claims indicated that software engineering practices are useful for scientific software development. Every claim was supported by evidence (i.e. personal experience, interview/survey, or case study) with slightly over half supported by multiple forms of evidence. For those claims supported by only one type of evidence, interviews/surveys were the most common. The claims that received the most support were: "The effectiveness of the testing practices currently used by scientific software developers is limited" and "Version control software is necessary for research groups with more than one developer." Additionally, many scientific software developers have unconsciously adopted an agile-like development methodology. Conclusion: Use of software engineering practices could increase the correctness of scientific software and the efficiency of its development. While there is still potential for increased use of these practices, scientific software developers have begun to embrace software engineering practices to improve their software. Additionally, software engineering practices still need to be tailored to better fit the needs of scientific software development. "
+}
+
+
+@article{Inayat2015915,
+title = "A systematic literature review on agile requirements engineering practices and challenges ",
+journal = "Computers in Human Behavior ",
+volume = "51, Part B",
+number = "",
+pages = "915 - 929",
+year = "2015",
+note = "Computing for Human Learning, Behaviour and Collaboration in the Social and Mobile Networks Era ",
+issn = "0747-5632",
+doi = "http://dx.doi.org/10.1016/j.chb.2014.10.046",
+url = "http://www.sciencedirect.com/science/article/pii/S074756321400569X",
+author = "Irum Inayat and Siti Salwah Salim and Sabrina Marczak and Maya Daneva and Shahaboddin Shamshirband",
+keywords = "Agile software development methods",
+keywords = "Agile requirements engineering",
+keywords = "Collaboration",
+keywords = "Traditional requirements engineering",
+keywords = "Systematic review ",
+abstract = "Abstract Unlike traditional software development methods, agile methods are marked by extensive collaboration, i.e. face-to-face communication. Although claimed to be beneficial, the software development community as a whole is still unfamiliar with the role of the requirements engineering practices in agile methods. The term "agile requirements engineering" is used to define the "agile way" of planning, executing and reasoning about requirements engineering activities. Moreover, not much is known about the challenges posed by collaboration-oriented agile way of dealing with requirements engineering activities. Our goal is to map the evidence available about requirements engineering practices adopted and challenges faced by agile teams in order to understand how traditional requirements engineering issues are resolved using agile requirements engineering. We conducted a systematic review of literature published between 2002 and June 2013 and identified 21 papers, that discuss agile requirements engineering. We formulated and applied specific inclusion and exclusion criteria in two distinct rounds to determine the most relevant studies for our research goal. The review identified 17 practices of agile requirements engineering, five challenges traceable to traditional requirements engineering that were overcome by agile requirements engineering, and eight challenges posed by the practice of agile requirements engineering. However, our findings suggest that agile requirements engineering as a research context needs additional attention and more empirical results are required to better understand the impact of agile requirements engineering practices e.g. dealing with non-functional requirements and self-organising teams. "
+}
+
+
+@article{Zhi2015175,
+title = "Cost, benefits and quality of software development documentation: A systematic mapping ",
+journal = "Journal of Systems and Software ",
+volume = "99",
+number = "",
+pages = "175 - 198",
+year = "2015",
+note = "",
+issn = "0164-1212",
+doi = "http://dx.doi.org/10.1016/j.jss.2014.09.042",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121214002131",
+author = "Junji Zhi and Vahid Garousi-Yusifoglu and Bo Sun and Golara Garousi and Shawn Shahnewaz and Guenther Ruhe",
+keywords = "Software documentation",
+keywords = "Documentation benefit",
+keywords = "Systematic mapping ",
+abstract = "AbstractContext Software documentation is an integral part of any software development process. Researchers and practitioners have expressed concerns about costs, benefits and quality of software documentation in practice. On the one hand, there is a lack of a comprehensive model to evaluate the quality of documentation. On the other hand, researchers and practitioners need to assess whether documentation cost outweighs its benefit. Objectives In this study, we aim to summarize the existing literature and provide an overview of the field of software documentation cost, benefit and quality. Method We use the systematic-mapping methodology to map the existing body of knowledge related to software documentation cost, benefit and quality. To achieve our objectives, 11 Research Questions (RQ) are raised. The primary papers are carefully selected. After applying the inclusion and exclusion criteria, our study pool included a set of 69 papers from 1971 to 2011. A systematic map is developed and refined iteratively. Results We present the results of a systematic mapping covering different research aspects related to software documentation cost, benefit and quality (RQ 1-11). Key findings include: (1) validation research papers are dominating (27 papers), followed by solution proposals (21 papers). (2) Most papers (61 out of 69) do not mention the development life-cycle model explicitly. Agile development is only mentioned in 6 papers. (3) Most papers include only one "System under Study" (SUS) which is mostly academic prototype. The average number of participants in survey-based papers is 106, the highest one having approximately 1000 participants. (4) In terms of focus of papers, 50 papers focused on documentation quality, followed by 37 papers on benefit, and 12 papers on documentation cost. (5) The quality attributes of documentation that appear in most papers are, in order: completeness, consistency and accessibility. Additionally, improved meta-models for documentation cost, benefit and quality are also presented. Furthermore, we have created an online paper repository of the primary papers analyzed and mapped during this study. Conclusion Our study results show that this research area is emerging but far from mature. Firstly, documentation cost aspect seems to have been neglected in the existing literature and there are no systematic methods or models to measure cost. Also, despite a substantial number of solutions proposed during the last 40 years, more and stronger empirical evidences are still needed to enhance our understanding of this area. In particular, what we expect includes (1) more validation or evaluation studies; (2) studies involving large-scale development projects, or from large number of study participants of various organizations; (3) more industry-academia collaborations; (4) more estimation models or methods to assess documentation quality, benefit and, especially, cost. "
+}
+
+
+@article{Stevenson201559,
+title = "Parse views with Boolean grammars ",
+journal = "Science of Computer Programming ",
+volume = "97, Part 1",
+number = "",
+pages = "59 - 63",
+year = "2015",
+note = "Special Issue on New Ideas and Emerging Results in Understanding Software ",
+issn = "0167-6423",
+doi = "http://dx.doi.org/10.1016/j.scico.2013.11.007",
+url = "http://www.sciencedirect.com/science/article/pii/S0167642313002918",
+author = "Andrew Stevenson and James R. Cordy",
+keywords = "Boolean grammar",
+keywords = "Agile parsing",
+keywords = "Source transformation ",
+abstract = "Abstract We propose an enhancement to current parsing and transformation systems by leveraging the expressive power of Boolean grammars, a generalization of context-free grammars that adds conjunction and negation operators. In addition to naturally expressing a larger class of languages, Boolean grammars capture multiple parse trees of the same document simultaneously and the ability to switch between these parse "views". In particular, source transformation and reengineering tasks can benefit from parse views by recasting the input text into whichever parse is most suitable for the task at hand. "
+}
+
+
+@article{Nierstrasz2015150,
+title = "Parsing for agile modeling ",
+journal = "Science of Computer Programming ",
+volume = "97, Part 1",
+number = "",
+pages = "150 - 156",
+year = "2015",
+note = "Special Issue on New Ideas and Emerging Results in Understanding Software ",
+issn = "0167-6423",
+doi = "http://dx.doi.org/10.1016/j.scico.2013.11.011",
+url = "http://www.sciencedirect.com/science/article/pii/S0167642313002955",
+author = "Oscar Nierstrasz and Jan Kurs",
+keywords = "Parsing",
+keywords = "Software modeling",
+keywords = "Software analysis ",
+abstract = "Abstract In order to analyze software systems, it is necessary to model them. Static software models are commonly imported by parsing source code and related data. Unfortunately, building custom parsers for most programming languages is a non-trivial endeavor. This poses a major bottleneck for analyzing software systems programmed in languages for which importers do not already exist. Luckily, initial software models do not require detailed parsers, so it is possible to start analysis with a coarse-grained importer, which is then gradually refined. In this paper we propose an approach to "agile modeling" that exploits island grammars to extract initial coarse-grained models, parser combinators to enable gradual refinement of model importers, and various heuristics to recognize language structure, keywords and other language artifacts. "
+}
+
+
+@article{Spiegler201547,
+title = "Agility in repeated games: An example ",
+journal = "Economics Letters ",
+volume = "131",
+number = "",
+pages = "47 - 49",
+year = "2015",
+note = "",
+issn = "0165-1765",
+doi = "http://dx.doi.org/10.1016/j.econlet.2015.03.026",
+url = "http://www.sciencedirect.com/science/article/pii/S0165176515001275",
+author = "Ran Spiegler",
+keywords = "Guerilla",
+keywords = "Repeated games",
+keywords = "Imperfect monitoring",
+keywords = "Agility",
+keywords = "Organizational behavior",
+keywords = "Hysteresis ",
+abstract = "Abstract I study a repeated matching-pennies game between players having limited "agility": when player i decides to switch his action, it takes (geometrically distributed) time for the decision to be implemented. I characterize the unique Nash equilibrium in this game when the papers are sufficiently agile. Players obtain the same equilibrium payoff as in the benchmark game with unlimited agility. However, equilibrium behavior displays endogenous hysteresis, which is more pronounced for less agile players. "
+}
+
+
+@article{Plonka201566,
+title = "Knowledge transfer in pair programming: An in-depth analysis ",
+journal = "International Journal of Human-Computer Studies ",
+volume = "73",
+number = "",
+pages = "66 - 78",
+year = "2015",
+note = "",
+issn = "1071-5819",
+doi = "http://dx.doi.org/10.1016/j.ijhcs.2014.09.001",
+url = "http://www.sciencedirect.com/science/article/pii/S1071581914001207",
+author = "Laura Plonka and Helen Sharp and Janet van der Linden and Yvonne Dittrich",
+keywords = "Pair programming",
+keywords = "Knowledge transfer",
+keywords = "Interaction analysis",
+keywords = "Cognitive apprenticeship",
+keywords = "Qualitative analysis ",
+abstract = "Abstract Whilst knowledge transfer is one of the most widely-claimed benefits of pair programming, little is known about how knowledge transfer is achieved in this setting. This is particularly pertinent for novice[?]expert constellations, but knowledge transfer takes place to some degree in all constellations. We ask "what does it take to be a good "expert" and how can a "novice" best learn from a more experienced developer?". An in-depth investigation of video and audio excerpts of professional pair programming sessions using Interaction Analysis reveals: six teaching strategies, ranging from "giving direct instructions" to "subtle hints"; and challenges and benefits for both partners. These strategies are instantiations of some but not all teaching methods promoted in cognitive apprenticeship; novice articulation, reflection and exploration are not seen in the data. The context of pair programming influences the strategies, challenges and benefits, in particular the roles of driver and navigator and agile prioritisation which considers business value rather than educational progression. Utilising these strategies more widely and recognizing the challenges and benefits for both partners will help developers to maximise the benefits from pairing sessions. "
+}
+
+
+@article{Wu2015775,
+title = "An evaluation methodology for crowdsourced design ",
+journal = "Advanced Engineering Informatics ",
+volume = "29",
+number = "4",
+pages = "775 - 786",
+year = "2015",
+note = "Collective Intelligence Modeling, Analysis, and Synthesis for Innovative Engineering Decision MakingSpecial Issue of the 1st International Conference on Civil and Building Engineering Informatics ",
+issn = "1474-0346",
+doi = "http://dx.doi.org/10.1016/j.aei.2015.09.005",
+url = "http://www.sciencedirect.com/science/article/pii/S1474034615001007",
+author = "Hao Wu and Jonathan Corney and Michael Grant",
+keywords = "Crowdsourcing",
+keywords = "Crowdsourced design methodology",
+keywords = "Design evaluation",
+keywords = "Crowdsourced design evaluation criteria",
+keywords = "Collaborative design",
+keywords = "Human based genetic algorithm ",
+abstract = "Abstract In recent years, the "power of the crowd" has been repeatedly demonstrated and various Internet platforms have been used to support applications of collaborative intelligence in tasks ranging from open innovation to image analysis. However, crowdsourcing applications in the fields of design research and creative innovation have been much slower to emerge. So, although there have been reports of systems and researchers using Internet crowdsourcing to carry out generative design, there are still many gaps in knowledge about the capability and limitations of the technology. Indeed the process models developed to support traditional commercial design (e.g. Pugh's Total Design, Agile, Double-Diamond etc.) have yet to be established for Crowdsourced Design (cDesign). As a contribution to the development of such a general model this paper proposes a cDesign framework to support the creation of crowdsourced design activities. Within the cDesign framework the effective evaluation of design quality is identified as a key component that not only enables the leveraging of a large, virtual workforce's creative activities but is also fundamental to almost all iterative optimisation processes. This paper reports an experimental investigation into two different Crowdsourced design evaluation approaches; free evaluation and 'Crowdsourced Design Evaluation Criteria' (cDEC). The results are benchmarked against a 'manual' evaluation carried out by a panel of experienced designers. The results suggest that the cDEC approach produces design rankings that correlate strongly with the judgements of an "expert panel". The paper concludes that cDEC assessment methodology demonstrates how Crowdsourcing can be effectively used to evaluate, as well as generate, new design solutions. "
+}
+

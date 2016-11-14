@@ -38,7 +38,7 @@ function createArticle(article) {
 }
 
 
-var year = "2016";
+var year = "2015";
 var fileContent = fs.readFileSync("data/"+year+".bib", 'utf8');
 fileContent = tr(fileContent);
 
@@ -62,7 +62,7 @@ parts.forEach(function(value){
 			data.keywords = article[0]['entryTags']['keywords'].join(",");
 		}
 		data.url = article[0]['entryTags']['url'];
-		setTimeout(createArticle(data), 100);
+		createArticle(data);
 		console.log(article[0]['entryTags']['title']);
 	} catch (e) {
 		err++;
