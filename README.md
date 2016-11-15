@@ -27,8 +27,14 @@ Articol
 * create the database [done]
 * install sequelize [done]
 * create a model [done]
-* list articles [done]
+* CRUD articles [done]
+* interfata adaugare articol
+* intefrata upload fisiere bibtext
+
+# Deployment
+* Am configurat un serviciu Web + MySQL in azure
 
 # Resources
 * https://community.c9.io/t/setting-up-mysql/1718
 * https://www.npmjs.com/package/nodeadmin
+* https://github.com/projectkudu/kudu/wiki/MySQL-in-app-(preview)

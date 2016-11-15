@@ -6,12 +6,7 @@ var Sequelize = require("sequelize");
 var sequelize = new Sequelize('localdb', 'azure', '6#vWHD_$', {
    dialect: 'mysql',
    host: '127.0.0.1',
-   port: 52734,
-   pool: {
-    max: 100,
-    min: 0,
-    idle: 10000
-  },
+   port: 52734
 });
 
 var Article = sequelize.define('articles', {
@@ -44,13 +39,14 @@ var app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
+app.use('/admin', express.static('admin'));
 
 /*var nodeadmin = require('nodeadmin');
 app.use(nodeadmin(app));*/
 
 // REST methods
 app.get('/articles', function(req,res){
-    /*global Author*/
+    /*global Article*/
     Article.findAll().then(function(articles){
         res.status(200).send(articles);
     });
