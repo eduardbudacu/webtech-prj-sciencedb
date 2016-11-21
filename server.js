@@ -3,10 +3,10 @@ var bodyParser = require("body-parser");
 var cors = require("cors");
 var Sequelize = require("sequelize");
 
-var sequelize = new Sequelize('localdb', 'azure', '6#vWHD_$', {
+var sequelize = new Sequelize('sciencedb', 'eduardbudacu', '', {
    dialect: 'mysql',
    host: '127.0.0.1',
-   port: 52734
+   port: 3306
 });
 
 var Article = sequelize.define('articles', {
