@@ -1,8 +1,0 @@
-select count(*) from articles
-531
-
-delete from `articles`  
-where title like "%supply%" or abstract like "%supply%" or keywords like "%supply%"
-
-select count(*) from articles
-489
