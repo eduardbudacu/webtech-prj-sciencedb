@@ -3,12 +3,14 @@ var bodyParser = require("body-parser");
 var cors = require("cors");
 var Sequelize = require("sequelize");
 
+// init sequelize connexion
 var sequelize = new Sequelize('sciencedb', 'eduardbudacu', '', {
    dialect: 'mysql',
    host: '127.0.0.1',
    port: 3306
 });
 
+// define entity
 var Article = sequelize.define('articles', {
   title: {
     type: Sequelize.STRING,
@@ -35,45 +37,32 @@ var Article = sequelize.define('articles', {
   timestamps: false
 });
 
+// init express application
 var app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
+// include static files in the admin folder
 app.use('/admin', express.static('admin'));
 
-/*var nodeadmin = require('nodeadmin');
-app.use(nodeadmin(app));*/
+// include nodeadmin app
+var nodeadmin = require('nodeadmin');
+app.use(nodeadmin(app));
 
 // REST methods
-app.get('/articles', function(req,res){
-    /*global Article*/
-    Article.findAll().then(function(articles){
-        res.status(200).send(articles);
-    });
-});
 
-app.get('/articles/:id', function(req,res){
-    Article.findAll({
-        where: {
-            id: req.params.id
-        }
-    }).then(function(article){
-        if(article.length > 0) {
-            res.status(200).send(article[0]);
-        } else {
-            res.status(404).send();
-        }
-    });
-});
+// lh2zx});
 
+// create an article
 app.post('/articles', function(req,res) {
-   Article.create(req.body).then(function(){
-        res.status(201).send();
-    }).catch(function(err){
-        console.warn(err);
-    });
+  Article.create(req.body).then(function(article) {
+      Article.findById(article.id).then(function(article) {
+          res.status(201).send(article);
+      });
+  })
 });
 
+// update a specific article by id
 app.put('/articles/:id', function(req,res){
     Article
         .find({where : {id : req.params.id}})
@@ -89,6 +78,7 @@ app.put('/articles/:id', function(req,res){
         });
 });
 
+// delete an article by id
 app.delete('/articles/:id', function(req,res){
     Article
         .find({where : {id : req.params.id}})
