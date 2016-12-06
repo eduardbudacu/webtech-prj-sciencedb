@@ -33,7 +33,6 @@ var Article = sequelize.define('articles', {
     field: 'url'
   }
 }, {
-  freezeTableName: false, // Model tableName will be the same as the model name
   timestamps: false
 });
 
@@ -42,56 +41,95 @@ var app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-// include static files in the admin folder
-app.use('/admin', express.static('admin'));
-
 // include nodeadmin app
 var nodeadmin = require('nodeadmin');
 app.use(nodeadmin(app));
 
 // REST methods
 
-// lh2zx});
-
 // create an article
-app.post('/articles', function(req,res) {
-  Article.create(req.body).then(function(article) {
+app.post('/articles', function(request,response) {
+  Article.create(request.body).then(function(article) {
       Article.findById(article.id).then(function(article) {
-          res.status(201).send(article);
+          response.status(201).send(article);
       });
-  })
+  });
+});
+
+app.get('/articles', function(request,response){
+     /*global Article*/
+    Article.findAll().then(function(articles){
+        response.status(200).send(articles);
+    });
+});
+
+app.get('/articles/:id', function(request,response){
+    Article.findById(request.params.id).then(function(article){
+        if(article) {
+            response.status(200).send(article);
+        } else {
+            response.status(404).send();
+        }
+    });
 });
 
 // update a specific article by id
-app.put('/articles/:id', function(req,res){
+app.put('/articles/:id', function(request,response){
     Article
-        .find({where : {id : req.params.id}})
+        .findById(request.params.id)
         .then(function(article){
-            return article.updateAttributes(req.body);
-        })
-        .then(function(){
-            res.status(201).send('updated');
-        })
-        .catch(function(error){
-            console.warn(error);
-            res.status(400).send('not found');
+            if(article) {
+                article
+                    .updateAttributes(request.body)
+                    .then(function(){
+                        response.status(202).send('updated');
+                    })
+                    .catch(function(error){
+                        console.warn(error);
+                        response.status(400).send('server error');
+                    });
+            } else {
+                response.status(404).send();
+            }
         });
 });
 
 // delete an article by id
 app.delete('/articles/:id', function(req,res){
     Article
-        .find({where : {id : req.params.id}})
+        .findById(req.params.id)
         .then(function(article){
-            return article.destroy();
-        })
-        .then(function(){
-            res.status(201).send('deleted');
-        })
-        .catch(function(error){
-            console.warn(error);
-            res.status(400).send('not found');
+            if(article) {
+                article
+                    .destroy()
+                    .then(function(){
+                        res.status(204).send();
+                    })
+                    .catch(function(error){
+                        console.warn(error);
+                        res.status(400).send('server error');
+                    });
+            } else {
+                res.status(404).send();
+            }
         });
 });
+
+// include static files in the admin folder
+app.use('/sciencedb', express.static('sciencedb'));
+app.use(express.static('app'));
+
+// include swagger api docummentation
+var swaggerUi = require('swaggerize-ui'); // second change
+
+app.get('/swagger', function(req, res){
+    var api = require('./config/api.json');
+    api.host = undefined;
+    res.status(200).send(api);
+});
+
+app.use('/docs', swaggerUi({
+  docs: '/swagger'  
+}));
 
 app.listen(process.env.PORT);

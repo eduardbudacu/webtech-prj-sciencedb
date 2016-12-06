@@ -2,7 +2,6 @@
 
 // READ recods on page load
 $(document).ready(function () {
-    
     readRecords(); // calling function
 });
 

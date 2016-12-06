@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Bootstrap CSS File  -->
+        <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    </head>
+    <body>
+        <div class="container" ng-app="myApp">
+            <h1>AgileResearch PhD Management</h1>
+            <div class="row">
+            <div class="col-md-3">
+                <ul class="nav nav-stacked">
+                    <li><a href="#/dashboard">Dashboard</a></li>
+                    <li><a href="#/goals">Obiective</a></li>
+                    <li><a href="#/activities">Activitati</a></li>
+                    <li><a href="#/reports">Rapoarte cercetare</a></li>
+                    <li><a href="#/thesis">Teza</a></li>
+                    <li><a href="/sciencedb/">ScienceDB</a></li>
+                    <li><a href="/logout/">Logout</a></li>
+                </ul>
+            </div>
+            <div class="col-md-9">
+                <div ui-view></div>
+            </div>
+            </div>
+            <div class="row">
+                <ul class="nav nav-pills" style="float:right">
+                    <li><a href="/nodeadmin/" target="_blank">Database Admin</a></li>
+                    <li><a href="/docs/" target="_blank">API Docs</a></li>
+                    <li><a href="http://www.agileresearch.ro/" target="_blank">Blog</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- Jquery JS file -->
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+        
+        <!-- Bootstrap JS file -->
+        <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.3.2/angular-ui-router.js"></script>
+        <script type="text/javascript" src="js/app.js"></script>
+        <script type="text/javascript" src="js/controllers/authors-controller.js"></script>
+    </body>
+</html>

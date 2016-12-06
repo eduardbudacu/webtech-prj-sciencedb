@@ -3,9 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <title>AgileResearch ScienceDB</title>
+    
+    <!-- Jquery JS file -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 
     <!-- Bootstrap CSS File  -->
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    
+    <!-- Bootstrap JS file -->
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+    
+    <!-- Custom JS file -->
+    <script type="text/javascript" src="js/script.js"></script>
 </head>
 <body>
 
@@ -16,10 +26,16 @@
             <h1>AgileResearch ScienceDB</h1>
         </div>
     </div>
+    <ul class="nav nav-tabs">
+      <li role="presentation"><a href="/">Home</a></li>
+      <li role="presentation" class="active"><a href="#">Bibliografie</a></li>
+      <li role="presentation"><a href="#">Glosar de termeni</a></li>
+    </ul>
+    <br/>
     <div class="row">
         <div class="col-md-12">
             <div class="pull-right">
-                <button class="btn btn-success" data-toggle="modal" data-target="#add_new_record_modal">Add New Article</button>
+                <button class="btn btn-success" data-toggle="modal" data-target="#add_new_record_modal">Adauga</button>
             </div>
         </div>
     </div>
@@ -27,13 +43,13 @@
         <div class="col-md-12">
             <div class="records_content">
                 <br/>
-                <h3>Articles</h3>
+                <h3>Articole</h3>
                 <table id="articles" class="table table-bordered table-striped">
 						<tr>
 							<th>ID.</th>
-							<th>Title</th>
+							<th>Titlu</th>
 							<th>Abstract</th>
-							<th>Authors</th>
+							<th>Autori</th>
 							<th>Update</th>
 							<th>Exclude</th>
 						</tr>
@@ -93,14 +109,7 @@
 </div>
 <!-- // Modal -->
 
-<!-- Jquery JS file -->
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 
-<!-- Bootstrap JS file -->
-<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-<!-- Custom JS file -->
-<script type="text/javascript" src="js/script.js"></script>
 
 </body>
 </html>

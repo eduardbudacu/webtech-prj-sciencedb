@@ -1,0 +1,13 @@
+<div>
+    <h2>Rapoarte de cercetare</h2>
+    <table id="reports" class="table table-bordered table-striped">
+        <tr>
+            <th>Nume</th>
+            <th>Email</th>
+        </tr>
+        <tr ng-repeat="author in authors">
+            <td>{{author.name}}</td>
+            <td>{{author.email}}</td>
+        </tr>
+    </table>
+</div>

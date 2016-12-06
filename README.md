@@ -28,7 +28,7 @@ Articol
 * install sequelize [done]
 * create a model [done]
 * CRUD articles [done]
-* interfata adaugare articol
+* interfata adaugare articol [done]
 * intefrata upload fisiere bibtext
 
 # Deployment
