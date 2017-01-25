@@ -1,9 +1,11 @@
-'app strict'
+'use strict'
 let app = angular.module('myApp', ['ui.router', 'authorsController'])
 
 app.config(['$stateProvider', '$urlRouterProvider', 
     function($stateProvider, $urlRouterProvider){
+        
     $urlRouterProvider.otherwise('/dashboard')
+    
     $stateProvider
         .state('dashboard', {
             url: '/dashboard',
@@ -24,7 +26,7 @@ app.config(['$stateProvider', '$urlRouterProvider',
         })
         .state('goals', {
             url: '/goals',
-            template : '<h2>Obiective</h2> in constructie'
+            templateUrl : 'views/goals.html'
         })
         .state('activities', {
             url: '/activities',

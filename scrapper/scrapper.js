@@ -10,7 +10,7 @@ function createArticle(article) {
     var post_data = JSON.stringify(article);
         
     var post_options = {
-        hostname: 'agileresearch-sciencedb.azurewebsites.net',
+        hostname: 'webtech-prj-sciencedb-eduardbudacu.c9users.io',
         path    : '/articles',
         method  : 'POST',
         headers : {

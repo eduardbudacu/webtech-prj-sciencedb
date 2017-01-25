@@ -1,6 +1,7 @@
-let ctrl = angular.module('authorsController', ['ui.router'])
+'use strict'
+let authorsController = angular.module('authorsController', [])
 
-ctrl.controller('authorsController', ['$scope', function($scope) {
+authorsController.controller('authorsController', ['$scope', function($scope) {
     $scope.authors = [{
         name: 'aaa',
         email: 'a@a.c'

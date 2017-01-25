@@ -7,21 +7,22 @@ $(document).ready(function () {
 
 // READ records
 function readRecords() {
-    $.get("/articles/", {}, function (data, status) {
+    $.get("/terms/", {}, function (data, status) {
         data.forEach(function(value) {
             var row = '<tr id="row_id_'+ value.id +'">'
             			+ displayColumns(value)
         				+ '</tr>';
-            $('#articles').append(row);
+            $('#terms').append(row);
         });
     });
 }
 
 function displayColumns(value) {
     return 	'<td>'+value.id+'</td>'
-            + '<td class="title"><a href="'+ value.url +'" target="_blank">'+value.title+'</a></td>'
-			+ '<td class="abstract">'+ value.abstract.substring(0,255)+ ' ...</td>'
-			+ '<td class="authors">'+ value.authors +'</td>'
+            + '<td class="term">'+value.term+'</a></td>'
+			+ '<td class="term_ro">'+ value.term_ro+ '</td>'
+			+ '<td class="description">'+ value.description +'</td>'
+			+ '<td class="description_ro">'+ value.description_ro +'</td>'
 			+ '<td align="center">'
 			+	'<button onclick="viewRecord('+ value.id +')" class="btn btn-edit">Update</button>'
 			+ '</td>'
@@ -32,29 +33,27 @@ function displayColumns(value) {
 
 function addRecord() {
     $('#id').val('');
-    $('#title').val('');
-    $('#abstract').val('');
-    $('#authors').val('');
-    $('#keywords').val('');
-    $('#url').val('');
+    $('#term').val('');
+    $('#term_ro').val('');
+    $('#description').val('');
+    $('#description_ro').val('');
     
     $('#myModalLabel').html('Add New Article');
     $('#add_new_record_modal').modal('show');
 }
 
 function viewRecord(id) {
-    var url = "/articles/" + id;
+    var url = "/terms/" + id;
     
     $.get(url, {}, function (data, status) {
         //bind the values to the form fields
-        $('#title').val(data.title);
-        $('#abstract').val(data.abstract);
-        $('#authors').val(data.authors);
-        $('#keywords').val(data.keywords);
-        $('#url').val(data.url);
+        $('#term').val(data.term);
+        $('#term_ro').val(data.term_ro);
+        $('#description').val(data.description);
+        $('#description_ro').val(data.description_ro);
         
         $('#id').val(id);
-        $('#myModalLabel').html('Edit Article');
+        $('#myModalLabel').html('Edit Term');
         
         $('#add_new_record_modal').modal('show');
     });
@@ -71,7 +70,7 @@ function saveRecord() {
 
 function createRecord(formData) {
     $.ajax({
-        url: '/articles/',
+        url: '/terms/',
         type: 'POST',
         accepts: {
             json: 'application/json'
@@ -83,23 +82,24 @@ function createRecord(formData) {
             var row = '<tr id="row_id_'+ data.id +'">'
             			+ displayColumns(data)
         				+ '</tr>';
-            $('#articles').append(row);
+            $('#terms').append(row);
         } 
     });
 }
 
 function updateRecord(formData) {
     $.ajax({
-        url: '/articles/'+formData.id,
+        url: '/terms/'+formData.id,
         type: 'PUT',
         accepts: {
             json: 'application/json'
         },
         data: formData,
         success: function(data) {
-            $('#row_id_'+formData.id+'>td.title').html(formData.title);
-            $('#row_id_'+formData.id+'>td.abstract').html(formData.abstract.substring(0,255)+' ...');
-            $('#row_id_'+formData.id+'>td.authors').html(formData.authors);
+            $('#row_id_'+formData.id+'>td.term').html(formData.term);
+            $('#row_id_'+formData.id+'>td.term_ro').html(formData.term_ro);
+            $('#row_id_'+formData.id+'>td.description').html(formData.description);
+            $('#row_id_'+formData.id+'>td.description_ro').html(formData.description_ro);
             $('#add_new_record_modal').modal('hide');
         } 
     });
@@ -107,7 +107,7 @@ function updateRecord(formData) {
 
 function deleteRecord(id) {
     $.ajax({
-        url: '/articles/'+id,
+        url: '/terms/'+id,
         type: 'DELETE',
         success: function(data) {
             $('#row_id_'+id).remove();

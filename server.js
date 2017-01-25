@@ -13,6 +13,7 @@ app.use(cors());
 
 // REST methods
 app.use(require("./routes/articles.js"));
+app.use(require("./routes/terms.js"));
 
 // include static files in the admin folder
 app.use('/sciencedb', express.static('sciencedb'));
